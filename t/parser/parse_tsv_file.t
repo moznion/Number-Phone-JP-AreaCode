@@ -42,5 +42,17 @@ is $got->{東京都}->{町田市三輪町}->{area_code}, 44;
 is $got->{神奈川県}->{川崎市}->{area_code}, 44;
 is $got->{東京都}->{足立区}->{area_code}, 3;
 is $got->{京都府}->{京都市}->{area_code}, 75;
+is $got->{北海道}->{二海郡八雲町}->{area_code}, 137;
+is $got->{北海道}->{二海郡八雲町熊石西浜町}->{area_code}, 1398;
+is $got->{北海道}->{苫前郡羽幌町}->{area_code}, 164;
+is $got->{北海道}->{苫前郡羽幌町天売弁天}->{area_code}, 1648;
+is $got->{東京都}->{八王子市}->{area_code}, 42;
+is $got->{神奈川県}->{相模原市緑区与瀬}->{area_code}, 42;
+is $got->{神奈川県}->{相模原市}->{area_code}, 42;
+is $got->{神奈川県}->{相模原市南区磯部}->{area_code}, 46;
+is $got->{山梨県}->{南巨摩郡早川町}->{area_code}, 556;
+is $got->{三重県}->{度会郡玉城町}->{area_code}, 596;
+is $got->{三重県}->{度会郡南伊勢町大江}->{area_code}, 596;
+is $got->{三重県}->{度会郡南伊勢町}->{area_code}, 599;
 
 done_testing;
