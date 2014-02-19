@@ -36,7 +36,6 @@ $Data::Dumper::Sortkeys = sub {
 my $areacode_map_str = Dumper($areacode_map);
 
 if ($is_generate) {
-    $areacode_map_str =~ s/(.*?\n)/      $1/g;
     chomp $areacode_map_str;
 
     my $output_file = "$FindBin::Bin/../lib/Number/Phone/JP/AreaCode/Data/AreaCode2Address.pm";
@@ -55,8 +54,11 @@ use parent qw/Exporter/;
 
 our \@EXPORT = qw/get_areacode2address_map/;
 
+use constant AREACODE_TO_ADDRESS_MAP =>
+$areacode_map_str;
+
 sub get_areacode2address_map {
-    return $areacode_map_str;
+    return AREACODE_TO_ADDRESS_MAP;
 }
 
 1;

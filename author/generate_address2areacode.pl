@@ -25,7 +25,6 @@ $Data::Dumper::Sortkeys = sub {
 my $hashref_str = eDumper(Number::Phone::JP::AreaCode::Parser::parse_tsv_file($tsv_file));
 
 if ($is_generate) {
-    $hashref_str =~ s/(.*?\n)/      $1/g;
     chomp $hashref_str;
 
     open my $fh, '>', "$FindBin::Bin/../lib/Number/Phone/JP/AreaCode/Data/Address2AreaCode.pm";
@@ -42,8 +41,11 @@ use parent qw/Exporter/;
 
 our \@EXPORT = qw/get_address2areacode_map/;
 
+use constant ADDRESS_TO_AREACODE_MAP =>
+$hashref_str;
+
 sub get_address2areacode_map {
-    return $hashref_str;
+    return ADDRESS_TO_AREACODE_MAP;
 }
 
 1;
