@@ -64,7 +64,7 @@ sub parse_tsv_file {
                     }
                 }
                 else { # exist paren
-                    _parse_in_paren(\@row, $prefecture, $town);
+                    _parse_in_paren(\@row, $prefecture, $town, '', 1);
                 }
                 $town = '';
             }
@@ -74,7 +74,7 @@ sub parse_tsv_file {
 }
 
 sub _parse_in_paren {
-    my ($row, $prefecture, $content, $extend) = @_;
+    my ($row, $prefecture, $content, $extend, $top_level) = @_;
 
     unless ($extend) {
         $extend = '';
@@ -84,6 +84,13 @@ sub _parse_in_paren {
     ($town, $in_paren, $cond) = $content =~ /(.+?)（(.*)）(.+)?\Z/;
 
     if ($in_paren =~ s/を除く。\Z//) {
+        if ($top_level) {
+            $areas->{$prefecture}->{"$extend$town"} = {
+                area_code   => $row->[2],
+                digits_code => $row->[3],
+            };
+        }
+
         my $paren_level = 0;
         my ($sub_town, $in_in_paren);
         ($sub_town, $in_in_paren, $cond) = $in_paren =~ /(.+?)（(.*)）(.+)?\Z/;

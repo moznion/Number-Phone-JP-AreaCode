@@ -41,5 +41,6 @@ is $got->{神奈川県}->{相模原市緑区小原}->{area_code}, 42;
 is $got->{東京都}->{町田市三輪町}->{area_code}, 44;
 is $got->{神奈川県}->{川崎市}->{area_code}, 44;
 is $got->{東京都}->{足立区}->{area_code}, 3;
+is $got->{京都府}->{京都市}->{area_code}, 75;
 
 done_testing;
