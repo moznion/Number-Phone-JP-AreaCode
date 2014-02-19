@@ -2,10 +2,28 @@ package Number::Phone::JP::AreaCode;
 use 5.008005;
 use strict;
 use warnings;
+use utf8;
+use parent qw/Exporter/;
+use Number::Phone::JP::AreaCode::Data::Address2AreaCode;
+use Number::Phone::JP::AreaCode::Data::AreaCode2Address;
 
-our $VERSION = "0.01";
+our $VERSION   = "0.01";
+our @EXPORT_OK = qw/
+    retrieve_area_code_by_address
+    retrieve_address_by_area_code
+/;
 
+sub retrieve_area_code_by_address {
+    my ($address) = @_;
 
+    my ($prefecture, $town) = $address =~ /\A(京都府|東京都|大阪府|北海道|.+?県)(.*)/;
+    return get_address2areacode_map()->{$prefecture}->{$town}->{area_code};
+}
+
+sub retrieve_address_by_area_code {
+    my ($area_code) = @_;
+    return get_areacode2address_map()->{$area_code};
+}
 
 1;
 __END__
