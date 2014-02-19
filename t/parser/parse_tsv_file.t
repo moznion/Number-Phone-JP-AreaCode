@@ -54,5 +54,8 @@ is $got->{山梨県}->{南巨摩郡早川町}->{area_code}, 556;
 is $got->{三重県}->{度会郡玉城町}->{area_code}, 596;
 is $got->{三重県}->{度会郡南伊勢町大江}->{area_code}, 596;
 is $got->{三重県}->{度会郡南伊勢町}->{area_code}, 599;
+is $got->{千葉県}->{千葉市}->{area_code}, 43;
+is $got->{千葉県}->{千葉市花見川区柏井}->{area_code}, 47;
+
 
 done_testing;
