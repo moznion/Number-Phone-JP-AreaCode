@@ -1,17 +1,25 @@
-requires 'perl', '5.008001';
+requires 'parent';
+requires 'perl', '5.008005';
 
-### for Number::Phone::JP::AreaCode::MasterData::Word2TSV
-requires 'Carp';
-requires 'Class::Accessor::Lite';
-requires 'File::Basename';
-requires 'File::Spec';
-requires 'File::Temp';
-requires 'Furl';
-requires 'Guard';
-requires 'Text::Extract::Word';
-requires 'URI';
-
-on 'test' => sub {
-    requires 'Test::More', '0.98';
+on configure => sub {
+    requires 'CPAN::Meta';
+    requires 'CPAN::Meta::Prereqs';
+    requires 'Module::Build';
 };
 
+on test => sub {
+    requires 'Test::More';
+};
+
+on develop => sub {
+    requires 'Class::Accessor::Lite';
+    requires 'Data::Dumper::AutoEncode';
+    requires 'Encode';
+    requires 'File::Temp';
+    requires 'Furl';
+    requires 'Guard';
+    requires 'JSON';
+    requires 'Lingua::JA::Numbers';
+    requires 'Text::Extract::Word';
+    requires 'URI';
+};
