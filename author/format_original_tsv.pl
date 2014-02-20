@@ -9,9 +9,9 @@ my $kanji_num = "一二三四五六七八九〇";
 
 my $input_file  = $ARGV[0];
 my $output_file = $ARGV[1];
-open my $frh, '<:encoding(utf8)', $input_file;
-open my $fwh, '>:encoding(utf8)', $output_file;
 
+my $formated = '';
+open my $frh, '<:encoding(utf8)', $input_file;
 while (my $line = <$frh>) {
     chomp $line;
 
@@ -46,5 +46,8 @@ while (my $line = <$frh>) {
         $line .= "\n";
     }
 
-    print $fwh $line;
+    $formated .= $line;
 }
+
+open my $fwh, '>:encoding(utf8)', $output_file;
+print $fwh $formated;
