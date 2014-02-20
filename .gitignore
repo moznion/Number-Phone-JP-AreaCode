@@ -25,3 +25,5 @@ cover_db/
 MYMETA.*
 
 /Number-Phone-JP-AreaCode-*
+
+author/misc/area-code-jp.tsv.raw

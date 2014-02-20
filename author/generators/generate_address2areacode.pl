@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use utf8;
 use FindBin;
-use lib "$FindBin::Bin/lib";
+use lib "$FindBin::Bin/../lib";
 
 use Data::Dumper::AutoEncode;
 use Encode qw/encode_utf8/;
@@ -15,7 +15,7 @@ $Data::Dumper::Indent = 1;
 
 my $is_generate = $ARGV[0];
 
-my $tsv_file    = "$FindBin::Bin/misc/area-code-jp.tsv";
+my $tsv_file    = "$FindBin::Bin/../misc/area-code-jp.tsv";
 
 $Data::Dumper::Sortkeys = sub {
     my ($hash) = @_;
@@ -27,7 +27,7 @@ my $hashref_str = eDumper(Number::Phone::JP::AreaCode::Parser::parse_tsv_file($t
 if ($is_generate) {
     chomp $hashref_str;
 
-    open my $fh, '>', "$FindBin::Bin/../lib/Number/Phone/JP/AreaCode/Data/Address2AreaCode.pm";
+    open my $fh, '>', "$FindBin::Bin/../../lib/Number/Phone/JP/AreaCode/Data/Address2AreaCode.pm";
     print $fh <<"...";
 package Number::Phone::JP::AreaCode::Data::Address2AreaCode;
 

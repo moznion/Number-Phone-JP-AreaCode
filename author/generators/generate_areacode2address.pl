@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use utf8;
 use FindBin;
-use lib "$FindBin::Bin/lib";
+use lib "$FindBin::Bin/../lib";
 use Data::Dumper;
 use Encode qw/encode_utf8/;
 use Number::Phone::JP::AreaCode::MasterData::TSV2Hash;
@@ -14,7 +14,7 @@ $Data::Dumper::Indent = 1;
 
 my $is_generate = $ARGV[0];
 
-my $tsv_file = "$FindBin::Bin/misc/area-code-jp.tsv";
+my $tsv_file = "$FindBin::Bin/../misc/area-code-jp.tsv";
 my $hashref = Number::Phone::JP::AreaCode::Parser::parse_tsv_file($tsv_file);
 
 my $areacode_map = {};
@@ -38,7 +38,7 @@ my $areacode_map_str = Dumper($areacode_map);
 if ($is_generate) {
     chomp $areacode_map_str;
 
-    my $output_file = "$FindBin::Bin/../lib/Number/Phone/JP/AreaCode/Data/AreaCode2Address.pm";
+    my $output_file = "$FindBin::Bin/../../lib/Number/Phone/JP/AreaCode/Data/AreaCode2Address.pm";
     open my $fh, '>', $output_file;
     print $fh <<"...";
 package Number::Phone::JP::AreaCode::Data::AreaCode2Address;
