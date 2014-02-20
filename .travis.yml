@@ -4,4 +4,5 @@ perl:
   - 5.14
   - 5.16
   - 5.18
-
+before_script: "cpanm --installdeps --with-develop -n ."
+after_script: "prove author/t"
