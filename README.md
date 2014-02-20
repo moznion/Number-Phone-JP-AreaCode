@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/moznion/Number-Phone-JP-AreaCode.png?branch=master)](https://travis-ci.org/moznion/Number-Phone-JP-AreaCode)
 # NAME
 
 Number::Phone::JP::AreaCode - It's new $module

@@ -22,4 +22,5 @@ on develop => sub {
     requires 'Lingua::JA::Numbers';
     requires 'Text::Extract::Word';
     requires 'URI';
+    requires 'Test::Perl::Critic';
 };

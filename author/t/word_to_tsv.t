@@ -1,10 +1,16 @@
+#!perl
+
 use strict;
+use warnings;
 use utf8;
-use Test::More;
+use FindBin;
+use lib "$FindBin::Bin/../lib";
 use Number::Phone::JP::AreaCode::MasterData::Word2TSV;
 
+use Test::More;
+
 my $obj = Number::Phone::JP::AreaCode::MasterData::Word2TSV->new;
-my $text = $obj->to_tsv; 
+my $text = $obj->to_tsv;
 
 my $i = 0;
 for my $row (split /\n/, $text) {

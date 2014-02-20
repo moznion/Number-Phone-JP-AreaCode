@@ -17,12 +17,7 @@
       "directory" : [
          "t",
          "xt",
-         "inc",
-         "share",
-         "eg",
-         "examples",
-         "author",
-         "builder"
+         "author"
       ]
    },
    "prereqs" : {
@@ -35,23 +30,49 @@
       },
       "develop" : {
          "requires" : {
+            "Class::Accessor::Lite" : "0",
+            "Data::Dumper::AutoEncode" : "0",
+            "Encode" : "0",
+            "File::Temp" : "0",
+            "Furl" : "0",
+            "Guard" : "0",
+            "JSON" : "0",
+            "Lingua::JA::Numbers" : "0",
             "Test::CPAN::Meta" : "0",
             "Test::MinimumVersion" : "0.10108",
+            "Test::Perl::Critic" : "0",
             "Test::Pod" : "1.41",
-            "Test::Spellunker" : "v0.2.7"
+            "Test::Spellunker" : "v0.2.7",
+            "Text::Extract::Word" : "0",
+            "URI" : "0"
          }
       },
       "runtime" : {
          "requires" : {
+            "parent" : "0",
             "perl" : "5.008005"
          }
       },
       "test" : {
          "requires" : {
-            "Test::More" : "0.98"
+            "Test::More" : "0"
          }
       }
    },
    "release_status" : "unstable",
-   "version" : "0.01"
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/moznion/Number-Phone-JP-AreaCode/issues"
+      },
+      "homepage" : "https://github.com/moznion/Number-Phone-JP-AreaCode",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/moznion/Number-Phone-JP-AreaCode.git",
+         "web" : "https://github.com/moznion/Number-Phone-JP-AreaCode"
+      }
+   },
+   "version" : "0.01",
+   "x_contributors" : [
+      "ytnobody <ytnobody@gmail.com>"
+   ]
 }
