@@ -124,14 +124,9 @@ sub _parse_in_paren {
         my $is_only = $in_paren =~ s/に限る。\Z//;
         return unless $is_only;
 
-        my @sub_towns;
-        for my $sub_town (split /、/, $in_paren) {
-            push @sub_towns, $sub_town;
-        }
-
         my $paren_level = 0;
         my $target = '';
-        for my $sub_town (@sub_towns) {
+        for my $sub_town (split /、/, $in_paren) {
             if (my @l_paren = $sub_town =~ /（/g) {
                 $paren_level += scalar @l_paren;
             }
