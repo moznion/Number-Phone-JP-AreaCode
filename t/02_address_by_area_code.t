@@ -3,25 +3,25 @@
 use strict;
 use warnings;
 use utf8;
-use Number::Phone::JP::AreaCode qw/retrieve_address_by_area_code/;
+use Number::Phone::JP::AreaCode qw/address_by_area_code/;
 
 use Test::More;
 use Test::Deep;
 
-cmp_deeply retrieve_address_by_area_code(1456), {
+cmp_deeply address_by_area_code(1456), {
     addresses => [
         '北海道新冠郡新冠町里平',
         '北海道沙流郡日高町',
     ],
     local_code_digits => 'E',
 };
-cmp_deeply retrieve_address_by_area_code(124), {
+cmp_deeply address_by_area_code(124), {
     addresses => [
         '北海道芦別市',
     ],
     local_code_digits => 'DE',
 };
-cmp_deeply retrieve_address_by_area_code(6), {
+cmp_deeply address_by_area_code(6), {
     addresses => [
         '兵庫県尼崎市',
         '大阪府八尾市竹渕',
@@ -85,7 +85,7 @@ cmp_deeply retrieve_address_by_area_code(6), {
     local_code_digits => 'BCDE',
 };
 
-ok !retrieve_address_by_area_code(9999);
+ok !address_by_area_code(9999);
 
 done_testing;
 
