@@ -19,7 +19,7 @@ sub retrieve_area_code_by_address {
     my ($address) = @_;
 
     my ($prefecture, $town) = _separate_address($address);
-    return get_address2areacode_map()->{$prefecture}->{$town}->{area_code};
+    return get_address2areacode_map()->{$prefecture}->{$town};
 }
 
 sub retrieve_area_code_by_address_prefix_match {
@@ -37,13 +37,13 @@ sub retrieve_area_code_by_address_fuzzy {
     my $pref_map = get_address2areacode_map()->{$prefecture};
 
     if (exists $pref_map->{$town}) {
-        return {"$prefecture$town" => $pref_map->{$town}->{area_code}};
+        return {"$prefecture$town" => $pref_map->{$town}};
     }
 
     my $hits = {};
     for my $key (keys %$pref_map) {
         if ($town =~ $key || $key =~ $town) {
-            $hits->{"$prefecture$key"} = $pref_map->{$key}->{area_code};
+            $hits->{"$prefecture$key"} = $pref_map->{$key};
         }
     }
     return $hits;
@@ -58,7 +58,7 @@ sub _search_area_code_by_address_recursive {
     my ($pref_map, $town) = @_;
 
     if (exists $pref_map->{$town}) {
-        return $pref_map->{$town}->{area_code};
+        return $pref_map->{$town};
     }
 
     $town = _minimum_substitute_by_municipality($town);

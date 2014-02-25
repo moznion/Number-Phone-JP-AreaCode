@@ -6,14 +6,36 @@ use utf8;
 use Number::Phone::JP::AreaCode qw/retrieve_area_code_by_address_prefix_match/;
 
 use Test::More;
+use Test::Deep;
 
-is retrieve_area_code_by_address_prefix_match('東京都練馬区小竹町'), '3';
-is retrieve_area_code_by_address_prefix_match('北海道函館市石川町123-444'), '138';
-is retrieve_area_code_by_address_prefix_match('京都府乙訓郡大山崎町'), '75';
-is retrieve_area_code_by_address_prefix_match('大阪府東大阪市岩田町'), '72';
-is retrieve_area_code_by_address_prefix_match('大阪府東大阪市岩田町二丁目'), '72';
-is retrieve_area_code_by_address_prefix_match('大阪府東大阪市岩田町三丁目'), '6';
-is retrieve_area_code_by_address_prefix_match('沖縄県宮古島市平良西里'), '980';
+cmp_deeply retrieve_area_code_by_address_prefix_match('東京都練馬区小竹町'), {
+    area_code         => '3',
+    local_code_digits => 'BCDE'
+};
+cmp_deeply retrieve_area_code_by_address_prefix_match('北海道函館市石川町123-444'), {
+    area_code => '138',
+    local_code_digits => 'DE'
+};
+cmp_deeply retrieve_area_code_by_address_prefix_match('京都府乙訓郡大山崎町'), {
+    area_code => '75',
+    local_code_digits => 'CDE'
+};
+cmp_deeply retrieve_area_code_by_address_prefix_match('大阪府東大阪市岩田町'), {
+    area_code => '72',
+    local_code_digits => 'CDE'
+};
+cmp_deeply retrieve_area_code_by_address_prefix_match('大阪府東大阪市岩田町二丁目'), {
+    area_code => '72',
+    local_code_digits => 'CDE'
+};
+cmp_deeply retrieve_area_code_by_address_prefix_match('大阪府東大阪市岩田町三丁目'), {
+    area_code => '6',
+    local_code_digits => 'BCDE'
+};
+cmp_deeply retrieve_area_code_by_address_prefix_match('沖縄県宮古島市平良西里'), {
+    area_code => '980',
+    local_code_digits => 'DE'
+};
 
 ok !retrieve_area_code_by_address_prefix_match('神奈川県町田市原町田'); # Not exists!!!!
 
