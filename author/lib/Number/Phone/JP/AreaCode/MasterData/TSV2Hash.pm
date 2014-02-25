@@ -47,8 +47,6 @@ sub parse_tsv_file {
                 chop $town; # Remove trailing `、`
 
                 if (index($town, '（') < 0) {
-                    my $town  = $town;
-
                     $areas->{$prefecture}->{$town} = {
                         area_code   => $row[2],
                         digits_code => $row[3],
