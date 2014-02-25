@@ -36,6 +36,11 @@ cmp_deeply retrieve_area_code_by_address_prefix_match('沖縄県宮古島市平�
     area_code => '980',
     local_code_digits => 'DE'
 };
+cmp_deeply retrieve_area_code_by_address_prefix_match('岩手県釜石市大字平田大字'), {
+    area_code         => '193',
+    local_code_digits => 'DE'
+};
+
 
 ok !retrieve_area_code_by_address_prefix_match('神奈川県町田市原町田'); # Not exists!!!!
 
