@@ -2,7 +2,6 @@ package Number::Phone::JP::AreaCode::MasterData::TSV2Hash;
 use strict;
 use warnings;
 use utf8;
-use JSON qw/encode_json/;
 
 use constant PREFECTURES => [qw/
     北海道
