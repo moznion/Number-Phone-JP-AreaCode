@@ -15,12487 +15,12487 @@ use constant ADDRESS_TO_AREACODE_MAP =>
   '三重県' => {
     'いなべ市' => {
       'area_code' => '594',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三重郡' => {
       'area_code' => '59',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '亀山市' => {
       'area_code' => '595',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊勢市' => {
       'area_code' => '596',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊賀市' => {
       'area_code' => '595',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '北牟婁郡紀北町' => {
       'area_code' => '597',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南牟婁郡御浜町' => {
       'area_code' => '5979',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '南牟婁郡紀宝町' => {
       'area_code' => '735',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '名張市' => {
       'area_code' => '595',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '員弁郡' => {
       'area_code' => '594',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '四日市市' => {
       'area_code' => '59',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '多気郡多気町' => {
       'area_code' => '598',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '多気郡大台町' => {
       'area_code' => '598',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '多気郡明和町' => {
       'area_code' => '596',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '尾鷲市' => {
       'area_code' => '597',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '度会郡南伊勢町' => {
       'area_code' => '599',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '度会郡南伊勢町古和浦' => {
       'area_code' => '596',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '度会郡南伊勢町大方竈 ' => {
       'area_code' => '596',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '度会郡南伊勢町大江' => {
       'area_code' => '596',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '度会郡南伊勢町奈屋浦' => {
       'area_code' => '596',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '度会郡南伊勢町小方竈' => {
       'area_code' => '596',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '度会郡南伊勢町慥柄浦' => {
       'area_code' => '596',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '度会郡南伊勢町新桑竈' => {
       'area_code' => '596',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '度会郡南伊勢町方座浦' => {
       'area_code' => '596',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '度会郡南伊勢町村山' => {
       'area_code' => '596',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '度会郡南伊勢町東宮' => {
       'area_code' => '596',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '度会郡南伊勢町栃木竈' => {
       'area_code' => '596',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '度会郡南伊勢町棚橋竈' => {
       'area_code' => '596',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '度会郡南伊勢町河内' => {
       'area_code' => '596',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '度会郡南伊勢町神前浦' => {
       'area_code' => '596',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '度会郡南伊勢町贄浦' => {
       'area_code' => '596',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '度会郡南伊勢町道方' => {
       'area_code' => '596',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '度会郡南伊勢町道行竈' => {
       'area_code' => '596',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '度会郡南伊勢町阿曽浦' => {
       'area_code' => '596',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '度会郡大紀町' => {
       'area_code' => '598',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '度会郡度会町' => {
       'area_code' => '596',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '度会郡玉城町' => {
       'area_code' => '596',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '志摩市' => {
       'area_code' => '599',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '松阪市' => {
       'area_code' => '598',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '桑名市' => {
       'area_code' => '594',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '桑名郡' => {
       'area_code' => '567',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '津市' => {
       'area_code' => '59',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '熊野市' => {
       'area_code' => '597',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '鈴鹿市' => {
       'area_code' => '59',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '鳥羽市' => {
       'area_code' => '599',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '京都府' => {
     '与謝郡' => {
       'area_code' => '772',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '久世郡久御山町' => {
       'area_code' => '75',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '久世郡久御山町下津屋' => {
       'area_code' => '774',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '久世郡久御山町佐古' => {
       'area_code' => '774',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '久世郡久御山町佐山' => {
       'area_code' => '774',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '久世郡久御山町市田' => {
       'area_code' => '774',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '久世郡久御山町林' => {
       'area_code' => '774',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '久世郡久御山町栄' => {
       'area_code' => '774',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '久世郡久御山町田井' => {
       'area_code' => '774',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '乙訓郡' => {
       'area_code' => '75',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '亀岡市' => {
       'area_code' => '771',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '京丹後市' => {
       'area_code' => '772',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '京田辺市' => {
       'area_code' => '774',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '京都市' => {
       'area_code' => '75',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '京都市伏見区醍醐一ノ切町' => {
       'area_code' => '77',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '京都市伏見区醍醐三ノ切町' => {
       'area_code' => '77',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '京都市伏見区醍醐二ノ切町' => {
       'area_code' => '77',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '京都市右京区京北室谷町' => {
       'area_code' => '771',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '八幡市' => {
       'area_code' => '75',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '南丹市' => {
       'area_code' => '771',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南丹市八木町' => {
       'area_code' => '771',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '向日市' => {
       'area_code' => '75',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '城陽市' => {
       'area_code' => '774',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宇治市' => {
       'area_code' => '774',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宮津市' => {
       'area_code' => '772',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '木津川市' => {
       'area_code' => '774',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '相楽郡南山城村' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '相楽郡和束町' => {
       'area_code' => '774',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '相楽郡笠置町' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '相楽郡精華町' => {
       'area_code' => '774',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '福知山市' => {
       'area_code' => '773',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '綴喜郡' => {
       'area_code' => '774',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '綾部市' => {
       'area_code' => '773',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '舞鶴市' => {
       'area_code' => '773',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '船井郡' => {
       'area_code' => '771',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡京市' => {
       'area_code' => '75',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     }
   },
   '佐賀県' => {
     '三養基郡' => {
       'area_code' => '942',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三養基郡上峰町' => {
       'area_code' => '952',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊万里市' => {
       'area_code' => '955',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '佐賀市' => {
       'area_code' => '952',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '唐津市' => {
       'area_code' => '955',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '多久市' => {
       'area_code' => '952',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '嬉野市' => {
       'area_code' => '954',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '嬉野市嬉野町' => {
       'area_code' => '954',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '小城市' => {
       'area_code' => '952',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東松浦郡' => {
       'area_code' => '955',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '杵島郡大町町' => {
       'area_code' => '952',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '杵島郡江北町' => {
       'area_code' => '952',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '杵島郡白石町' => {
       'area_code' => '952',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '杵島郡白石町坂田' => {
       'area_code' => '954',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '杵島郡白石町戸ヶ里' => {
       'area_code' => '954',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '杵島郡白石町新明' => {
       'area_code' => '954',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '杵島郡白石町新開' => {
       'area_code' => '954',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '杵島郡白石町深浦' => {
       'area_code' => '954',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '杵島郡白石町牛屋' => {
       'area_code' => '954',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '杵島郡白石町田野上' => {
       'area_code' => '954',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '杵島郡白石町辺田' => {
       'area_code' => '954',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '武雄市' => {
       'area_code' => '954',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '神埼市' => {
       'area_code' => '952',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '神埼郡' => {
       'area_code' => '952',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '藤津郡' => {
       'area_code' => '954',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西松浦郡' => {
       'area_code' => '955',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '鳥栖市' => {
       'area_code' => '942',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '鹿島市' => {
       'area_code' => '954',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '兵庫県' => {
     'たつの市' => {
       'area_code' => '791',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     'たつの市御津町' => {
       'area_code' => '79',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'たつの市新宮町角亀' => {
       'area_code' => '791',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三木市' => {
       'area_code' => '794',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三田市' => {
       'area_code' => '79',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '丹波市' => {
       'area_code' => '795',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊丹市' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '佐用郡' => {
       'area_code' => '790',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加古川市' => {
       'area_code' => '79',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '加古川市平岡町土山' => {
       'area_code' => '78',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '加古郡' => {
       'area_code' => '79',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '加古郡播磨町上野添' => {
       'area_code' => '78',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '加古郡播磨町二子' => {
       'area_code' => '78',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '加古郡播磨町北野添' => {
       'area_code' => '78',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '加古郡播磨町古宮' => {
       'area_code' => '78',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '加古郡播磨町東新島' => {
       'area_code' => '78',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '加古郡播磨町東野添' => {
       'area_code' => '78',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '加古郡播磨町西野添' => {
       'area_code' => '78',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '加古郡播磨町野添' => {
       'area_code' => '78',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '加古郡播磨町野添城' => {
       'area_code' => '78',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '加東市' => {
       'area_code' => '795',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加西市' => {
       'area_code' => '790',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南あわじ市' => {
       'area_code' => '799',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '多可郡' => {
       'area_code' => '795',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '姫路市' => {
       'area_code' => '79',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '姫路市安富町' => {
       'area_code' => '790',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宍粟市' => {
       'area_code' => '790',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宝塚市' => {
       'area_code' => '797',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宝塚市ふじガ丘' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '宝塚市仁川うぐいす台' => {
       'area_code' => '798',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宝塚市仁川北' => {
       'area_code' => '798',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宝塚市仁川台' => {
       'area_code' => '798',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宝塚市仁川団地' => {
       'area_code' => '798',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宝塚市仁川宮西町' => {
       'area_code' => '798',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宝塚市仁川旭ガ丘' => {
       'area_code' => '798',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宝塚市仁川月見ガ丘' => {
       'area_code' => '798',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宝塚市仁川高丸' => {
       'area_code' => '798',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宝塚市仁川高台' => {
       'area_code' => '798',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宝塚市新明和町' => {
       'area_code' => '798',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宝塚市花屋敷つつじガ丘' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '宝塚市花屋敷松ガ丘' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '宝塚市花屋敷荘園' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '宝塚市長尾台' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '宝塚市雲雀丘' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '宝塚市雲雀丘山手' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '宝塚市駒の町' => {
       'area_code' => '798',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宝塚市鹿塩' => {
       'area_code' => '798',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '小野市' => {
       'area_code' => '794',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '尼崎市' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '川西市' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '川辺郡' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '揖保郡' => {
       'area_code' => '79',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '明石市' => {
       'area_code' => '78',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '朝来市' => {
       'area_code' => '79',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '洲本市' => {
       'area_code' => '799',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '淡路市' => {
       'area_code' => '799',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '相生市' => {
       'area_code' => '791',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '神崎郡' => {
       'area_code' => '790',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '神戸市' => {
       'area_code' => '78',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '篠山市' => {
       'area_code' => '79',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '美方郡' => {
       'area_code' => '796',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '美方郡香美町香住区' => {
       'area_code' => '796',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '芦屋市' => {
       'area_code' => '797',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西宮市' => {
       'area_code' => '798',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西宮市すみれ台' => {
       'area_code' => '78',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '西宮市北六甲台' => {
       'area_code' => '78',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '西宮市名塩ガーデン' => {
       'area_code' => '797',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西宮市名塩南台' => {
       'area_code' => '797',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西宮市名塩山荘' => {
       'area_code' => '797',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西宮市名塩新町' => {
       'area_code' => '797',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西宮市名塩茶園町' => {
       'area_code' => '797',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西宮市塩瀬町名塩' => {
       'area_code' => '797',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西宮市塩瀬町生瀬' => {
       'area_code' => '797',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西宮市宝生ヶ丘' => {
       'area_code' => '797',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西宮市山口町' => {
       'area_code' => '78',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '西宮市東山台' => {
       'area_code' => '797',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西宮市清瀬台' => {
       'area_code' => '797',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西宮市生瀬町' => {
       'area_code' => '797',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西宮市生瀬町東町' => {
       'area_code' => '797',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西宮市生瀬高台' => {
       'area_code' => '797',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西宮市花の峯' => {
       'area_code' => '797',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西宮市青葉台' => {
       'area_code' => '797',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西脇市' => {
       'area_code' => '795',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '豊岡市' => {
       'area_code' => '796',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '赤穂市' => {
       'area_code' => '791',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '赤穂郡' => {
       'area_code' => '791',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '養父市' => {
       'area_code' => '79',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '高砂市' => {
       'area_code' => '79',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '高砂市北浜町北脇' => {
       'area_code' => '79',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '高砂市北浜町西浜' => {
       'area_code' => '79',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     }
   },
   '北海道' => {
     '三笠市' => {
       'area_code' => '1267',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '上川郡上川町' => {
       'area_code' => '1658',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '上川郡下川町' => {
       'area_code' => '1655',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '上川郡剣淵町' => {
       'area_code' => '165',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上川郡和寒町' => {
       'area_code' => '165',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上川郡当麻町' => {
       'area_code' => '166',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上川郡愛別町' => {
       'area_code' => '1658',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '上川郡新得町' => {
       'area_code' => '156',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上川郡東川町' => {
       'area_code' => '166',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上川郡東神楽町' => {
       'area_code' => '166',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上川郡比布町' => {
       'area_code' => '166',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上川郡清水町' => {
       'area_code' => '156',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上川郡美瑛町' => {
       'area_code' => '166',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上川郡鷹栖町' => {
       'area_code' => '166',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上磯郡' => {
       'area_code' => '1392',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '中川郡中川町' => {
       'area_code' => '1656',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '中川郡幕別町' => {
       'area_code' => '155',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '中川郡幕別町忠類中当' => {
       'area_code' => '1558',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '中川郡幕別町忠類元忠類' => {
       'area_code' => '1558',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '中川郡幕別町忠類公親' => {
       'area_code' => '1558',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '中川郡幕別町忠類共栄' => {
       'area_code' => '1558',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '中川郡幕別町忠類協徳' => {
       'area_code' => '1558',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '中川郡幕別町忠類古里' => {
       'area_code' => '1558',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '中川郡幕別町忠類幌内' => {
       'area_code' => '1558',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '中川郡幕別町忠類幸町' => {
       'area_code' => '1558',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '中川郡幕別町忠類新生' => {
       'area_code' => '1558',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '中川郡幕別町忠類日和' => {
       'area_code' => '1558',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '中川郡幕別町忠類明和' => {
       'area_code' => '1558',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '中川郡幕別町忠類晩成' => {
       'area_code' => '1558',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '中川郡幕別町忠類朝日' => {
       'area_code' => '1558',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '中川郡幕別町忠類本町' => {
       'area_code' => '1558',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '中川郡幕別町忠類東宝' => {
       'area_code' => '1558',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '中川郡幕別町忠類栄町' => {
       'area_code' => '1558',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '中川郡幕別町忠類白銀町' => {
       'area_code' => '1558',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '中川郡幕別町忠類西当' => {
       'area_code' => '1558',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '中川郡幕別町忠類錦町' => {
       'area_code' => '1558',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '中川郡本別町' => {
       'area_code' => '156',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '中川郡池田町' => {
       'area_code' => '15',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '中川郡美深町' => {
       'area_code' => '1656',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '中川郡豊頃町' => {
       'area_code' => '15',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '中川郡音威子府村' => {
       'area_code' => '1656',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '久遠郡せたな町' => {
       'area_code' => '137',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '久遠郡せたな町大成区' => {
       'area_code' => '1398',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '亀田郡' => {
       'area_code' => '138',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '二海郡八雲町' => {
       'area_code' => '137',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '二海郡八雲町熊石大谷町' => {
       'area_code' => '1398',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '二海郡八雲町熊石平町' => {
       'area_code' => '1398',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '二海郡八雲町熊石折戸町' => {
       'area_code' => '1398',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '二海郡八雲町熊石根崎町' => {
       'area_code' => '1398',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '二海郡八雲町熊石泉岱町' => {
       'area_code' => '1398',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '二海郡八雲町熊石泊川町' => {
       'area_code' => '1398',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '二海郡八雲町熊石畳岩町' => {
       'area_code' => '1398',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '二海郡八雲町熊石相沼町' => {
       'area_code' => '1398',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '二海郡八雲町熊石西浜町' => {
       'area_code' => '1398',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '二海郡八雲町熊石見日町' => {
       'area_code' => '1398',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '二海郡八雲町熊石関内町' => {
       'area_code' => '1398',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '二海郡八雲町熊石雲石町' => {
       'area_code' => '1398',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '二海郡八雲町熊石館平町' => {
       'area_code' => '1398',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '二海郡八雲町熊石鮎川町' => {
       'area_code' => '1398',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '二海郡八雲町熊石鳴神町' => {
       'area_code' => '1398',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '二海郡八雲町熊石黒岩町' => {
       'area_code' => '1398',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '伊達市' => {
       'area_code' => '142',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '余市郡' => {
       'area_code' => '135',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '函館市' => {
       'area_code' => '138',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '利尻郡' => {
       'area_code' => '163',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '勇払郡むかわ町' => {
       'area_code' => '145',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '勇払郡占冠村' => {
       'area_code' => '167',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '勇払郡厚真町' => {
       'area_code' => '145',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '勇払郡安平町' => {
       'area_code' => '145',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '北広島市' => {
       'area_code' => '11',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '北斗市' => {
       'area_code' => '138',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '北見市' => {
       'area_code' => '157',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '北見市常呂町' => {
       'area_code' => '152',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '十勝郡' => {
       'area_code' => '15',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '千歳市' => {
       'area_code' => '123',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '厚岸郡' => {
       'area_code' => '153',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '古宇郡' => {
       'area_code' => '135',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '古平郡' => {
       'area_code' => '135',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '名寄市' => {
       'area_code' => '1654',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '名寄市風連町' => {
       'area_code' => '1655',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '増毛郡' => {
       'area_code' => '164',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '士別市' => {
       'area_code' => '165',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '夕張市' => {
       'area_code' => '123',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '夕張市富野' => {
       'area_code' => '123',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '夕張郡' => {
       'area_code' => '123',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '天塩郡天塩町' => {
       'area_code' => '1632',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '天塩郡幌延町' => {
       'area_code' => '1632',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '天塩郡豊富町' => {
       'area_code' => '162',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '天塩郡遠別町' => {
       'area_code' => '1632',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '奥尻郡' => {
       'area_code' => '1397',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '宗谷郡' => {
       'area_code' => '1635',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '室蘭市' => {
       'area_code' => '143',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '富良野市' => {
       'area_code' => '167',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '寿都郡' => {
       'area_code' => '136',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '小樽市' => {
       'area_code' => '134',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山越郡' => {
       'area_code' => '1377',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '岩内郡' => {
       'area_code' => '135',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '岩見沢市' => {
       'area_code' => '126',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '岩見沢市宝水町' => {
       'area_code' => '1267',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '島牧郡' => {
       'area_code' => '136',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '川上郡' => {
       'area_code' => '15',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '帯広市' => {
       'area_code' => '155',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '常呂郡佐呂間町' => {
       'area_code' => '1587',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '常呂郡置戸町' => {
       'area_code' => '157',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '常呂郡訓子府町' => {
       'area_code' => '157',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '幌泉郡' => {
       'area_code' => '1466',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '広尾郡' => {
       'area_code' => '1558',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '恵庭市' => {
       'area_code' => '123',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '斜里郡' => {
       'area_code' => '152',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '斜里郡小清水町' => {
       'area_code' => '152',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '新冠郡新冠町' => {
       'area_code' => '146',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '新冠郡新冠町里平' => {
       'area_code' => '1456',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '日高郡新ひだか町' => {
       'area_code' => '146',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '旭川市' => {
       'area_code' => '166',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '有珠郡' => {
       'area_code' => '142',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '札幌市' => {
       'area_code' => '11',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '松前郡' => {
       'area_code' => '139',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '枝幸郡中頓別町' => {
       'area_code' => '1634',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '枝幸郡枝幸町' => {
       'area_code' => '163',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '枝幸郡浜頓別町' => {
       'area_code' => '1634',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '根室市' => {
       'area_code' => '153',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '様似郡' => {
       'area_code' => '146',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '標津郡中標津町' => {
       'area_code' => '153',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '標津郡標津町' => {
       'area_code' => '153',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '樺戸郡新十津川町' => {
       'area_code' => '125',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '樺戸郡月形町' => {
       'area_code' => '126',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '樺戸郡浦臼町' => {
       'area_code' => '125',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '檜山郡' => {
       'area_code' => '139',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '歌志内市' => {
       'area_code' => '125',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '江別市' => {
       'area_code' => '11',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '沙流郡平取町' => {
       'area_code' => '1457',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '沙流郡日高町' => {
       'area_code' => '1456',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '沙流郡日高町三岩' => {
       'area_code' => '1457',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '沙流郡日高町千栄' => {
       'area_code' => '1457',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '沙流郡日高町宮下町' => {
       'area_code' => '1457',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '沙流郡日高町富岡' => {
       'area_code' => '1457',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '沙流郡日高町山手町' => {
       'area_code' => '1457',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '沙流郡日高町新町' => {
       'area_code' => '1457',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '沙流郡日高町日高' => {
       'area_code' => '1457',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '沙流郡日高町本町東' => {
       'area_code' => '1457',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '沙流郡日高町本町西' => {
       'area_code' => '1457',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '沙流郡日高町松風町' => {
       'area_code' => '1457',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '沙流郡日高町栄町東' => {
       'area_code' => '1457',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '沙流郡日高町栄町西' => {
       'area_code' => '1457',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '沙流郡日高町若葉町' => {
       'area_code' => '1457',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '河東郡上士幌町' => {
       'area_code' => '1564',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '河東郡士幌町' => {
       'area_code' => '1564',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '河東郡音更町' => {
       'area_code' => '155',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '河東郡鹿追町' => {
       'area_code' => '156',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '河西郡' => {
       'area_code' => '155',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '浦河郡' => {
       'area_code' => '146',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '深川市' => {
       'area_code' => '164',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '滝川市' => {
       'area_code' => '125',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '瀬棚郡' => {
       'area_code' => '137',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '爾志郡' => {
       'area_code' => '139',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '留萌市' => {
       'area_code' => '164',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '留萌郡' => {
       'area_code' => '164',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '登別市' => {
       'area_code' => '143',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '白糠郡' => {
       'area_code' => '1547',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '白老郡' => {
       'area_code' => '144',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '目梨郡' => {
       'area_code' => '153',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '石狩市' => {
       'area_code' => '133',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '石狩郡当別町' => {
       'area_code' => '133',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '石狩郡新篠津村' => {
       'area_code' => '126',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '砂川市' => {
       'area_code' => '125',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '磯谷郡' => {
       'area_code' => '136',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '礼文郡' => {
       'area_code' => '163',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稚内市' => {
       'area_code' => '162',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '積丹郡' => {
       'area_code' => '135',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '空知郡上富良野町' => {
       'area_code' => '167',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '空知郡上砂川町' => {
       'area_code' => '125',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '空知郡中富良野町' => {
       'area_code' => '167',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '空知郡南富良野町' => {
       'area_code' => '167',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '空知郡南幌町' => {
       'area_code' => '11',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '空知郡奈井江町' => {
       'area_code' => '125',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '紋別市' => {
       'area_code' => '158',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '紋別郡湧別町' => {
       'area_code' => '1586',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '紋別郡滝上町' => {
       'area_code' => '158',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '紋別郡興部町' => {
       'area_code' => '158',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '紋別郡西興部村' => {
       'area_code' => '158',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '紋別郡遠軽町' => {
       'area_code' => '158',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '紋別郡雄武町' => {
       'area_code' => '158',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '網走市' => {
       'area_code' => '152',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '網走郡' => {
       'area_code' => '152',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '網走郡大空町東藻琴' => {
       'area_code' => '152',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '網走郡大空町東藻琴千草' => {
       'area_code' => '152',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '網走郡大空町東藻琴大進' => {
       'area_code' => '152',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '網走郡大空町東藻琴山園' => {
       'area_code' => '152',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '網走郡大空町東藻琴新富' => {
       'area_code' => '152',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '網走郡大空町東藻琴明生' => {
       'area_code' => '152',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '網走郡大空町東藻琴末広' => {
       'area_code' => '152',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '網走郡大空町東藻琴栄' => {
       'area_code' => '152',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '網走郡大空町東藻琴清浦' => {
       'area_code' => '152',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '網走郡大空町東藻琴福富' => {
       'area_code' => '152',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '網走郡大空町東藻琴西倉' => {
       'area_code' => '152',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '美唄市' => {
       'area_code' => '126',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '芦別市' => {
       'area_code' => '124',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '苫前郡初山別村' => {
       'area_code' => '164',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '苫前郡羽幌町' => {
       'area_code' => '164',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '苫前郡羽幌町天売前浜' => {
       'area_code' => '1648',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '苫前郡羽幌町天売和浦' => {
       'area_code' => '1648',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '苫前郡羽幌町天売富磯' => {
       'area_code' => '1648',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '苫前郡羽幌町天売弁天' => {
       'area_code' => '1648',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '苫前郡羽幌町天売相影' => {
       'area_code' => '1648',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '苫前郡羽幌町焼尻東浜' => {
       'area_code' => '1648',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '苫前郡羽幌町焼尻白浜' => {
       'area_code' => '1648',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '苫前郡羽幌町焼尻緑ヶ丘' => {
       'area_code' => '1648',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '苫前郡羽幌町焼尻西浦' => {
       'area_code' => '1648',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '苫前郡苫前町' => {
       'area_code' => '164',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '苫小牧市' => {
       'area_code' => '144',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '茅部郡森町' => {
       'area_code' => '1374',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '茅部郡鹿部町' => {
       'area_code' => '1372',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '虻田郡ニセコ町' => {
       'area_code' => '136',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '虻田郡京極町' => {
       'area_code' => '136',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '虻田郡倶知安町' => {
       'area_code' => '136',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '虻田郡喜茂別町' => {
       'area_code' => '136',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '虻田郡洞爺湖町' => {
       'area_code' => '142',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '虻田郡留寿都村' => {
       'area_code' => '136',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '虻田郡真狩村' => {
       'area_code' => '136',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '虻田郡豊浦町' => {
       'area_code' => '142',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '赤平市' => {
       'area_code' => '125',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '足寄郡' => {
       'area_code' => '156',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '野付郡別海町' => {
       'area_code' => '153',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '野付郡別海町尾岱沼' => {
       'area_code' => '153',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '野付郡別海町尾岱沼岬町' => {
       'area_code' => '153',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '野付郡別海町尾岱沼港町' => {
       'area_code' => '153',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '野付郡別海町尾岱沼潮見町' => {
       'area_code' => '153',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '野付郡別海町床丹' => {
       'area_code' => '153',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '釧路市' => {
       'area_code' => '154',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '釧路市音別町' => {
       'area_code' => '1547',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '釧路郡' => {
       'area_code' => '154',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '阿寒郡' => {
       'area_code' => '154',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '雨竜郡北竜町' => {
       'area_code' => '164',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '雨竜郡妹背牛町' => {
       'area_code' => '164',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '雨竜郡幌加内町' => {
       'area_code' => '165',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '雨竜郡沼田町' => {
       'area_code' => '164',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '雨竜郡秩父別町' => {
       'area_code' => '164',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '雨竜郡雨竜町' => {
       'area_code' => '125',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '千葉県' => {
     'いすみ市' => {
       'area_code' => '470',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '佐倉市' => {
       'area_code' => '43',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '八千代市' => {
       'area_code' => '47',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '八街市' => {
       'area_code' => '43',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '勝浦市' => {
       'area_code' => '470',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '匝瑳市' => {
       'area_code' => '479',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '千葉市' => {
       'area_code' => '43',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '千葉市花見川区柏井' => {
       'area_code' => '47',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '千葉市花見川区柏井町' => {
       'area_code' => '47',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '千葉市花見川区横戸町' => {
       'area_code' => '47',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '南房総市' => {
       'area_code' => '470',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '印旛郡' => {
       'area_code' => '476',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '印旛郡酒々井町' => {
       'area_code' => '43',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '印西市' => {
       'area_code' => '476',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '君津市' => {
       'area_code' => '439',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '四街道市' => {
       'area_code' => '43',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '大網白里市' => {
       'area_code' => '475',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '夷隅郡' => {
       'area_code' => '470',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '安房郡' => {
       'area_code' => '470',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '富津市' => {
       'area_code' => '439',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '富里市' => {
       'area_code' => '476',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山武市' => {
       'area_code' => '475',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山武市松尾町' => {
       'area_code' => '479',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山武郡' => {
       'area_code' => '479',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山武郡九十九里町' => {
       'area_code' => '475',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '市原市' => {
       'area_code' => '436',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '市川市' => {
       'area_code' => '47',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '成田市' => {
       'area_code' => '476',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '我孫子市' => {
       'area_code' => '4',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '旭市' => {
       'area_code' => '479',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '木更津市' => {
       'area_code' => '438',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東金市' => {
       'area_code' => '475',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '松戸市' => {
       'area_code' => '47',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '柏市' => {
       'area_code' => '4',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '流山市' => {
       'area_code' => '4',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '浦安市' => {
       'area_code' => '47',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '白井市' => {
       'area_code' => '47',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '習志野市' => {
       'area_code' => '47',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '船橋市' => {
       'area_code' => '47',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '船橋市上山町一丁目' => {
       'area_code' => '47',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '船橋市二子町' => {
       'area_code' => '47',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '船橋市古作' => {
       'area_code' => '47',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '船橋市古作町' => {
       'area_code' => '47',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '船橋市本中山' => {
       'area_code' => '47',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '船橋市本郷町' => {
       'area_code' => '47',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '船橋市東中山' => {
       'area_code' => '47',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '船橋市藤原一丁目' => {
       'area_code' => '47',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '船橋市藤原二丁目' => {
       'area_code' => '47',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '船橋市西船七丁目' => {
       'area_code' => '47',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '船橋市西船五丁目' => {
       'area_code' => '47',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '船橋市西船六丁目' => {
       'area_code' => '47',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '茂原市' => {
       'area_code' => '475',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '袖ヶ浦市' => {
       'area_code' => '438',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '野田市' => {
       'area_code' => '4',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '銚子市' => {
       'area_code' => '479',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '鎌ヶ谷市' => {
       'area_code' => '47',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '鎌ヶ谷市くぬぎ山一丁目' => {
       'area_code' => '47',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '鎌ヶ谷市くぬぎ山三丁目' => {
       'area_code' => '47',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '鎌ヶ谷市くぬぎ山二丁目' => {
       'area_code' => '47',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '鎌ヶ谷市くぬぎ山四丁目' => {
       'area_code' => '47',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '長生郡' => {
       'area_code' => '475',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '館山市' => {
       'area_code' => '470',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '香取市' => {
       'area_code' => '478',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '香取郡多古町' => {
       'area_code' => '479',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '香取郡東庄町' => {
       'area_code' => '478',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '香取郡神崎町' => {
       'area_code' => '478',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '鴨川市' => {
       'area_code' => '4',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     }
   },
   '和歌山県' => {
     '伊都郡' => {
       'area_code' => '736',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊都郡かつらぎ町花園中南' => {
       'area_code' => '737',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊都郡かつらぎ町花園久木' => {
       'area_code' => '737',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊都郡かつらぎ町花園北寺' => {
       'area_code' => '737',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊都郡かつらぎ町花園新子' => {
       'area_code' => '737',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊都郡かつらぎ町花園梁瀬' => {
       'area_code' => '737',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊都郡かつらぎ町花園池ノ窪' => {
       'area_code' => '737',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '和歌山市' => {
       'area_code' => '73',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '岩出市' => {
       'area_code' => '736',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '御坊市' => {
       'area_code' => '738',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '新宮市' => {
       'area_code' => '735',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '日高郡みなべ町' => {
       'area_code' => '739',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '日高郡印南町' => {
       'area_code' => '738',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '日高郡日高川町' => {
       'area_code' => '738',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '日高郡日高町' => {
       'area_code' => '738',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '日高郡由良町' => {
       'area_code' => '738',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '日高郡美浜町' => {
       'area_code' => '738',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '有田市' => {
       'area_code' => '737',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '有田郡' => {
       'area_code' => '737',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東牟婁郡串本町' => {
       'area_code' => '735',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東牟婁郡北山村' => {
       'area_code' => '735',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東牟婁郡古座川町' => {
       'area_code' => '735',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東牟婁郡太地町' => {
       'area_code' => '735',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東牟婁郡那智勝浦町' => {
       'area_code' => '735',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '橋本市' => {
       'area_code' => '736',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '海南市' => {
       'area_code' => '73',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '海草郡' => {
       'area_code' => '73',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '田辺市' => {
       'area_code' => '739',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '田辺市本宮町' => {
       'area_code' => '735',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '紀の川市' => {
       'area_code' => '736',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西牟婁郡' => {
       'area_code' => '739',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '埼玉県' => {
     'さいたま市' => {
       'area_code' => '48',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'ふじみ野市' => {
       'area_code' => '49',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '三郷市' => {
       'area_code' => '48',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '上尾市' => {
       'area_code' => '48',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '久喜市' => {
       'area_code' => '480',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '児玉郡上里町' => {
       'area_code' => '495',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '児玉郡神川町' => {
       'area_code' => '495',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '児玉郡神川町上阿久原' => {
       'area_code' => '274',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '児玉郡神川町下阿久原' => {
       'area_code' => '274',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '児玉郡神川町渡瀬' => {
       'area_code' => '274',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '児玉郡神川町矢納' => {
       'area_code' => '274',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '児玉郡美里町' => {
       'area_code' => '495',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '入間市' => {
       'area_code' => '4',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '入間郡' => {
       'area_code' => '49',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '八潮市' => {
       'area_code' => '48',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '加須市' => {
       'area_code' => '480',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加須市伊賀袋' => {
       'area_code' => '280',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加須市向古河' => {
       'area_code' => '280',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加須市小野袋' => {
       'area_code' => '280',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加須市本郷' => {
       'area_code' => '280',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加須市柏戸' => {
       'area_code' => '280',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加須市柳生' => {
       'area_code' => '280',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加須市栄' => {
       'area_code' => '280',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加須市陽光台' => {
       'area_code' => '280',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加須市飯積' => {
       'area_code' => '280',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加須市駒場' => {
       'area_code' => '280',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加須市麦倉' => {
       'area_code' => '280',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '北本市' => {
       'area_code' => '48',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '北葛飾郡' => {
       'area_code' => '48',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '北葛飾郡杉戸町' => {
       'area_code' => '480',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '北足立郡' => {
       'area_code' => '48',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '南埼玉郡' => {
       'area_code' => '480',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吉川市' => {
       'area_code' => '48',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '和光市' => {
       'area_code' => '48',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '坂戸市' => {
       'area_code' => '49',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '大里郡' => {
       'area_code' => '48',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '富士見市' => {
       'area_code' => '49',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '富士見市水谷東三丁目' => {
       'area_code' => '48',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '富士見市水谷東二丁目' => {
       'area_code' => '48',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '川口市' => {
       'area_code' => '48',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '川越市' => {
       'area_code' => '49',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '幸手市' => {
       'area_code' => '480',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '志木市' => {
       'area_code' => '48',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '戸田市' => {
       'area_code' => '48',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '所沢市' => {
       'area_code' => '4',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '新座市' => {
       'area_code' => '48',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新座市新堀' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新座市栗原' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新座市石神一丁目' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新座市石神三丁目' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新座市石神五丁目' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新座市石神四丁目' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新座市西堀' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新座市野寺一丁目' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新座市野寺五丁目' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '日高市' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '春日部市' => {
       'area_code' => '48',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '朝霞市' => {
       'area_code' => '48',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '本庄市' => {
       'area_code' => '495',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東松山市' => {
       'area_code' => '493',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '桶川市' => {
       'area_code' => '48',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '比企郡ときがわ町' => {
       'area_code' => '493',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '比企郡吉見町' => {
       'area_code' => '493',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '比企郡小川町' => {
       'area_code' => '493',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '比企郡嵐山町' => {
       'area_code' => '493',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '比企郡川島町' => {
       'area_code' => '49',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '比企郡滑川町' => {
       'area_code' => '493',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '比企郡鳩山町' => {
       'area_code' => '49',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '深谷市' => {
       'area_code' => '48',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '熊谷市' => {
       'area_code' => '48',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '熊谷市冑山' => {
       'area_code' => '493',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊谷市吉所敷' => {
       'area_code' => '493',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊谷市向谷' => {
       'area_code' => '493',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊谷市妻沼小島' => {
       'area_code' => '276',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊谷市小八林' => {
       'area_code' => '493',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊谷市沼黒' => {
       'area_code' => '493',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊谷市津田' => {
       'area_code' => '493',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊谷市津田新田' => {
       'area_code' => '493',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊谷市玉作' => {
       'area_code' => '493',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊谷市相上' => {
       'area_code' => '493',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊谷市箕輪' => {
       'area_code' => '493',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊谷市船木台' => {
       'area_code' => '493',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊谷市高本' => {
       'area_code' => '493',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '狭山市' => {
       'area_code' => '4',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '白岡市' => {
       'area_code' => '480',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '秩父市' => {
       'area_code' => '494',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '秩父郡' => {
       'area_code' => '494',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '秩父郡東秩父村' => {
       'area_code' => '493',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '羽生市' => {
       'area_code' => '48',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '草加市' => {
       'area_code' => '48',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '蓮田市' => {
       'area_code' => '48',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '蕨市' => {
       'area_code' => '48',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '行田市' => {
       'area_code' => '48',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '越谷市' => {
       'area_code' => '48',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '飯能市' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '鴻巣市' => {
       'area_code' => '48',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '鶴ヶ島市' => {
       'area_code' => '49',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     }
   },
   '大分県' => {
     '中津市' => {
       'area_code' => '979',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '佐伯市' => {
       'area_code' => '972',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '別府市' => {
       'area_code' => '977',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '国東市' => {
       'area_code' => '978',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '国東市国東町' => {
       'area_code' => '978',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '国東市国見町' => {
       'area_code' => '978',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大分市' => {
       'area_code' => '97',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '宇佐市' => {
       'area_code' => '978',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '日田市' => {
       'area_code' => '973',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東国東郡' => {
       'area_code' => '978',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '杵築市' => {
       'area_code' => '978',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '杵築市大田俣水' => {
       'area_code' => '978',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '杵築市大田小野' => {
       'area_code' => '978',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '杵築市大田永松' => {
       'area_code' => '978',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '杵築市大田沓掛' => {
       'area_code' => '978',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '杵築市大田波多方' => {
       'area_code' => '978',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '杵築市大田白木原' => {
       'area_code' => '978',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '杵築市大田石丸' => {
       'area_code' => '978',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '杵築市山香町' => {
       'area_code' => '977',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '津久見市' => {
       'area_code' => '972',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '玖珠郡' => {
       'area_code' => '973',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '由布市' => {
       'area_code' => '97',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '由布市湯布院町' => {
       'area_code' => '977',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '竹田市' => {
       'area_code' => '974',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '臼杵市' => {
       'area_code' => '972',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '臼杵市野津町' => {
       'area_code' => '974',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '豊後大野市' => {
       'area_code' => '974',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '豊後大野市朝地町' => {
       'area_code' => '974',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '豊後大野市犬飼町' => {
       'area_code' => '97',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '豊後高田市' => {
       'area_code' => '978',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '速見郡' => {
       'area_code' => '977',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '大阪府' => {
     '三島郡' => {
       'area_code' => '75',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '交野市' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '八尾市' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '八尾市竹渕' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '八尾市竹渕東' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '八尾市竹渕西' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '南河内郡' => {
       'area_code' => '721',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吹田市' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '和泉市' => {
       'area_code' => '725',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '四條畷市' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '四條畷市さつきヶ丘' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '四條畷市上田原' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '四條畷市下田原' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '四條畷市田原台' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '四條畷市緑風台' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '堺市' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '大東市' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '大阪市' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '大阪市平野区長吉川辺四丁目' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '大阪市東住吉区矢田七丁目' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '大阪狭山市' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '守口市' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '富田林市' => {
       'area_code' => '721',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '富田林市五軒家' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '富田林市加太' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '富田林市廿山' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '富田林市新青葉丘町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '富田林市青葉丘' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '寝屋川市' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '岸和田市' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '摂津市' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '摂津市一津屋' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '摂津市三島' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '摂津市別府' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '摂津市北別府町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '摂津市千里丘' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '摂津市千里丘東五丁目' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '摂津市千里丘東四丁目' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '摂津市南別府町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '摂津市南千里丘' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '摂津市庄屋' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '摂津市新在家' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '摂津市東一津屋' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '摂津市東別府' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '摂津市東正雀' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '摂津市正雀' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '摂津市正雀本町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '摂津市浜町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '摂津市西一津屋' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '東大阪市' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '東大阪市上六万寺町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市上四条町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市上石切町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市下六万寺町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市中新開' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市中石切町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市中野' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市中鴻池町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市五条町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市今米' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市元町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市六万寺町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市出雲井本町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市出雲井町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市加納一丁目' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市加納七丁目' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市加納三丁目' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市加納二丁目' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市加納五丁目' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市加納八丁目' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市加納六丁目' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市加納四丁目' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市北石切町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市北鴻池町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市南四条町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市南荘町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市南鴻池町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市古箕輪' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市吉原' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市吉田' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市吉田下島' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市吉田本町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市善根寺町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市喜里川町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市四条町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市宝町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市客坊町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市山手町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市岩田町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市岩田町三丁目' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '東大阪市島之内' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市川中' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市川田' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市布市町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市弥生町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市御幸町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市新庄' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市新池島町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市新町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市新鴻池町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市日下町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市旭町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市昭和町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市末広町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市本庄中一丁目' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市本町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市東山町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市東石切町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市東豊浦町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市東鴻池町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市松原' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市松原南' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市桜町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市横小路町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市横枕' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市横枕南' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市横枕西' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市水走' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市池之端町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市池島町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市河内町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市玉串元町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市玉串町東' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市玉串町西' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市瓜生堂一丁目' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市瓢箪山町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市神田町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市稲葉' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市立花町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市箕輪' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市箱殿町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市花園本町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市花園東町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市花園西町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市若草町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市菱屋東' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市菱江' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市西岩田一丁目' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市西石切町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市西鴻池町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市角田' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市豊浦町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市額田町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市鳥居町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市鴻池元町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市鴻池徳庵町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市鴻池本町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市鴻池町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大阪市鷹殿町' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '松原市' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '枚方市' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '柏原市' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '池田市' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '池田市空港' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '河内長野市' => {
       'area_code' => '721',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '泉佐野市' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '泉北郡' => {
       'area_code' => '725',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '泉北郡忠岡町新浜' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '泉南市' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '泉南郡' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '泉大津市' => {
       'area_code' => '725',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '箕面市' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '羽曳野市' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '茨木市' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '藤井寺市' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '豊中市' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '豊能郡' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '貝塚市' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '門真市' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '門真市一番町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '門真市中町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '門真市元町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '門真市古川町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '門真市向島町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '門真市垣内町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '門真市堂山町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '門真市大倉町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '門真市寿町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '門真市小路町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '門真市幸福町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '門真市御堂町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '門真市新橋町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '門真市月出町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '門真市末広町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '門真市本町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '門真市東田町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '門真市松生町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '門真市松葉町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '門真市柳田町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '門真市柳町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '門真市栄町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '門真市桑才新町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '門真市殿島町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '門真市泉町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '門真市浜町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '門真市深田町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '門真市石原町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '門真市速見町' => {
       'area_code' => '6',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '阪南市' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '高槻市' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '高石市' => {
       'area_code' => '72',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     }
   },
   '奈良県' => {
     '五條市' => {
       'area_code' => '747',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '北葛城郡' => {
       'area_code' => '745',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吉野郡上北山村' => {
       'area_code' => '7468',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '吉野郡下北山村' => {
       'area_code' => '7468',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '吉野郡下市町' => {
       'area_code' => '747',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吉野郡十津川村' => {
       'area_code' => '746',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吉野郡吉野町' => {
       'area_code' => '746',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吉野郡大淀町' => {
       'area_code' => '747',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吉野郡大淀町中増' => {
       'area_code' => '746',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吉野郡大淀町今木' => {
       'area_code' => '745',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吉野郡大淀町北六田' => {
       'area_code' => '746',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吉野郡大淀町北野' => {
       'area_code' => '746',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吉野郡大淀町増口' => {
       'area_code' => '746',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吉野郡大淀町大岩' => {
       'area_code' => '745',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吉野郡大淀町新野' => {
       'area_code' => '746',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吉野郡大淀町比曽' => {
       'area_code' => '746',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吉野郡大淀町西増' => {
       'area_code' => '746',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吉野郡大淀町鉾立' => {
       'area_code' => '745',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吉野郡大淀町馬佐' => {
       'area_code' => '746',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吉野郡天川村' => {
       'area_code' => '747',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吉野郡川上村' => {
       'area_code' => '746',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吉野郡東吉野村' => {
       'area_code' => '746',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吉野郡野迫川村' => {
       'area_code' => '747',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吉野郡黒滝村' => {
       'area_code' => '747',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大和郡山市' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大和高田市' => {
       'area_code' => '745',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '天理市' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '奈良市' => {
       'area_code' => '742',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '奈良市上深川町' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '奈良市下深川町' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '奈良市小倉町' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '奈良市月ヶ瀬尾山' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '奈良市月ヶ瀬嵩' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '奈良市月ヶ瀬月瀬' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '奈良市月ヶ瀬桃香野' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '奈良市月ヶ瀬石打' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '奈良市月ヶ瀬長引' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '奈良市来迎寺町' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '奈良市荻町' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '奈良市藺生町' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '奈良市都祁こぶしが丘' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '奈良市都祁南之庄町' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '奈良市都祁友田町' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '奈良市都祁吐山町' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '奈良市都祁小山戸町' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '奈良市都祁甲岡町' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '奈良市都祁白石町' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '奈良市都祁相河町' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '奈良市都祁馬場町' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '奈良市針ヶ別所町' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '奈良市針町' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宇陀市' => {
       'area_code' => '745',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宇陀市室生多田' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宇陀市室生小原' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宇陀市室生染田' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宇陀市室生無山' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宇陀郡' => {
       'area_code' => '745',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山辺郡' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '御所市' => {
       'area_code' => '745',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '桜井市' => {
       'area_code' => '744',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '橿原市' => {
       'area_code' => '744',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '生駒市' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '生駒郡三郷町' => {
       'area_code' => '745',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '生駒郡安堵町' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '生駒郡平群町' => {
       'area_code' => '745',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '生駒郡斑鳩町' => {
       'area_code' => '745',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '磯城郡三宅町' => {
       'area_code' => '745',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '磯城郡川西町' => {
       'area_code' => '745',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '磯城郡川西町下永' => {
       'area_code' => '743',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '磯城郡田原本町' => {
       'area_code' => '744',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '葛城市' => {
       'area_code' => '745',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '香芝市' => {
       'area_code' => '745',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '高市郡明日香村' => {
       'area_code' => '744',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '高市郡高取町' => {
       'area_code' => '744',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '高市郡高取町丹生谷' => {
       'area_code' => '745',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '高市郡高取町寺崎' => {
       'area_code' => '745',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '高市郡高取町越智' => {
       'area_code' => '745',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '高市郡高取町車木' => {
       'area_code' => '745',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '宮城県' => {
     '亘理郡' => {
       'area_code' => '223',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '仙台市' => {
       'area_code' => '22',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '伊具郡' => {
       'area_code' => '224',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '刈田郡' => {
       'area_code' => '224',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加美郡' => {
       'area_code' => '229',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '名取市' => {
       'area_code' => '22',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '名取市堀内' => {
       'area_code' => '223',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '塩竈市' => {
       'area_code' => '22',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '多賀城市' => {
       'area_code' => '22',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '大崎市' => {
       'area_code' => '229',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宮城郡' => {
       'area_code' => '22',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '岩沼市' => {
       'area_code' => '223',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '本吉郡' => {
       'area_code' => '226',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東松島市' => {
       'area_code' => '225',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '柴田郡' => {
       'area_code' => '224',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '栗原市' => {
       'area_code' => '228',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '気仙沼市' => {
       'area_code' => '226',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '牡鹿郡' => {
       'area_code' => '225',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '登米市' => {
       'area_code' => '220',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '登米市津山町' => {
       'area_code' => '225',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '登米市石越町' => {
       'area_code' => '228',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '登米市豊里町' => {
       'area_code' => '225',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '白石市' => {
       'area_code' => '224',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '石巻市' => {
       'area_code' => '225',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '角田市' => {
       'area_code' => '224',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '遠田郡' => {
       'area_code' => '229',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '黒川郡' => {
       'area_code' => '22',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     }
   },
   '宮崎県' => {
     'えびの市' => {
       'area_code' => '984',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '串間市' => {
       'area_code' => '987',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '児湯郡' => {
       'area_code' => '983',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '児湯郡木城町中之又' => {
       'area_code' => '982',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '北諸県郡' => {
       'area_code' => '986',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宮崎市' => {
       'area_code' => '985',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '小林市' => {
       'area_code' => '984',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '延岡市' => {
       'area_code' => '982',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '日南市' => {
       'area_code' => '987',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '日向市' => {
       'area_code' => '982',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東臼杵郡' => {
       'area_code' => '982',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東臼杵郡椎葉村大河内' => {
       'area_code' => '983',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東諸県郡' => {
       'area_code' => '985',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西臼杵郡' => {
       'area_code' => '982',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西諸県郡' => {
       'area_code' => '984',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西都市' => {
       'area_code' => '983',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西都市現王島' => {
       'area_code' => '985',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '都城市' => {
       'area_code' => '986',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '富山県' => {
     '下新川郡' => {
       'area_code' => '765',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '中新川郡' => {
       'area_code' => '76',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '南砺市' => {
       'area_code' => '763',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '富山市' => {
       'area_code' => '76',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '射水市' => {
       'area_code' => '766',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '小矢部市' => {
       'area_code' => '766',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '氷見市' => {
       'area_code' => '766',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '滑川市' => {
       'area_code' => '76',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '砺波市' => {
       'area_code' => '763',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '高岡市' => {
       'area_code' => '766',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '魚津市' => {
       'area_code' => '765',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '黒部市' => {
       'area_code' => '765',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '山口県' => {
     '下松市' => {
       'area_code' => '833',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '下関市' => {
       'area_code' => '83',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '光市' => {
       'area_code' => '833',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '光市三輪' => {
       'area_code' => '820',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '光市塩田' => {
       'area_code' => '820',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '光市岩田' => {
       'area_code' => '820',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '光市岩田立野' => {
       'area_code' => '820',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '光市束荷' => {
       'area_code' => '820',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '周南市' => {
       'area_code' => '834',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大島郡' => {
       'area_code' => '820',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宇部市' => {
       'area_code' => '836',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山口市' => {
       'area_code' => '83',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '山口市徳地三谷' => {
       'area_code' => '835',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山口市徳地上村' => {
       'area_code' => '835',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山口市徳地串' => {
       'area_code' => '835',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山口市徳地伊賀地' => {
       'area_code' => '835',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山口市徳地八坂' => {
       'area_code' => '835',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山口市徳地堀' => {
       'area_code' => '835',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山口市徳地小古祖' => {
       'area_code' => '835',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山口市徳地山畑' => {
       'area_code' => '835',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山口市徳地岸見' => {
       'area_code' => '835',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山口市徳地島地' => {
       'area_code' => '835',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山口市徳地引谷' => {
       'area_code' => '835',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山口市徳地柚木' => {
       'area_code' => '835',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山口市徳地深谷' => {
       'area_code' => '835',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山口市徳地船路' => {
       'area_code' => '835',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山口市徳地藤木' => {
       'area_code' => '835',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山口市徳地野谷' => {
       'area_code' => '835',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山口市徳地鯖河内' => {
       'area_code' => '835',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山口市阿知須' => {
       'area_code' => '836',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山陽小野田市' => {
       'area_code' => '836',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '岩国市' => {
       'area_code' => '827',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '柳井市' => {
       'area_code' => '820',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊毛郡' => {
       'area_code' => '820',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '玖珂郡' => {
       'area_code' => '827',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '美祢市' => {
       'area_code' => '837',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '美祢市美東町' => {
       'area_code' => '8396',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '萩市' => {
       'area_code' => '838',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '萩市上小川東分' => {
       'area_code' => '8387',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '萩市上小川西分' => {
       'area_code' => '8387',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '萩市上田万' => {
       'area_code' => '8387',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '萩市下小川' => {
       'area_code' => '8387',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '萩市下田万' => {
       'area_code' => '8387',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '萩市中小川' => {
       'area_code' => '8387',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '萩市吉部上' => {
       'area_code' => '8388',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '萩市吉部下' => {
       'area_code' => '8388',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '萩市弥富上' => {
       'area_code' => '8387',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '萩市弥富下' => {
       'area_code' => '8387',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '萩市江崎' => {
       'area_code' => '8387',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '萩市片俣' => {
       'area_code' => '8388',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '萩市鈴野川' => {
       'area_code' => '8387',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '萩市須佐' => {
       'area_code' => '8387',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '萩市高佐上' => {
       'area_code' => '8388',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '萩市高佐下' => {
       'area_code' => '8388',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '長門市' => {
       'area_code' => '837',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '防府市' => {
       'area_code' => '835',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '阿武郡' => {
       'area_code' => '8388',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     }
   },
   '山形県' => {
     '上山市' => {
       'area_code' => '23',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '北村山郡' => {
       'area_code' => '237',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南陽市' => {
       'area_code' => '238',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '天童市' => {
       'area_code' => '23',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '寒河江市' => {
       'area_code' => '237',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '尾花沢市' => {
       'area_code' => '237',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山形市' => {
       'area_code' => '23',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新庄市' => {
       'area_code' => '233',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '最上郡' => {
       'area_code' => '233',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '村山市' => {
       'area_code' => '237',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東村山郡' => {
       'area_code' => '23',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東根市' => {
       'area_code' => '237',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東田川郡三川町' => {
       'area_code' => '235',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東田川郡庄内町' => {
       'area_code' => '234',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東置賜郡' => {
       'area_code' => '238',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '米沢市' => {
       'area_code' => '238',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西村山郡' => {
       'area_code' => '237',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西置賜郡' => {
       'area_code' => '238',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '酒田市' => {
       'area_code' => '234',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長井市' => {
       'area_code' => '238',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '飽海郡' => {
       'area_code' => '234',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '鶴岡市' => {
       'area_code' => '235',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '山梨県' => {
     '上野原市' => {
       'area_code' => '554',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '中央市' => {
       'area_code' => '55',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '中巨摩郡' => {
       'area_code' => '55',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '北杜市' => {
       'area_code' => '551',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '北都留郡' => {
       'area_code' => '428',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南アルプス市' => {
       'area_code' => '55',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '南巨摩郡南部町' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南巨摩郡富士川町' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南巨摩郡早川町' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南巨摩郡身延町' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南巨摩郡身延町上八木沢' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南巨摩郡身延町下八木沢' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南巨摩郡身延町下山' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南巨摩郡身延町丸滝' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南巨摩郡身延町光子沢' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南巨摩郡身延町和田' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南巨摩郡身延町大垈' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南巨摩郡身延町大城' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南巨摩郡身延町大島' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南巨摩郡身延町大崩' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南巨摩郡身延町大野' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南巨摩郡身延町小田船原' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南巨摩郡身延町帯金' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南巨摩郡身延町梅平' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南巨摩郡身延町椿草里' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南巨摩郡身延町樋之上' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南巨摩郡身延町横根中' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南巨摩郡身延町波木井' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南巨摩郡身延町清子' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南巨摩郡身延町相又' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南巨摩郡身延町粟倉' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南巨摩郡身延町角打' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南巨摩郡身延町身延' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南巨摩郡身延町門野' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南都留郡' => {
       'area_code' => '555',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南都留郡道志村' => {
       'area_code' => '554',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大月市' => {
       'area_code' => '554',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '富士吉田市' => {
       'area_code' => '555',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山梨市' => {
       'area_code' => '553',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '甲州市' => {
       'area_code' => '553',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '甲府市' => {
       'area_code' => '55',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '甲府市古関町' => {
       'area_code' => '555',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '甲府市梯町' => {
       'area_code' => '555',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '甲斐市' => {
       'area_code' => '55',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '甲斐市下今井' => {
       'area_code' => '551',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '甲斐市團子新居' => {
       'area_code' => '551',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '甲斐市大垈' => {
       'area_code' => '551',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '甲斐市宇津谷' => {
       'area_code' => '551',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '甲斐市岩森' => {
       'area_code' => '551',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '甲斐市志田' => {
       'area_code' => '551',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '甲斐市菖蒲澤' => {
       'area_code' => '551',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '甲斐市龍地' => {
       'area_code' => '551',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '笛吹市' => {
       'area_code' => '55',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '笛吹市一宮町' => {
       'area_code' => '553',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '笛吹市春日居町' => {
       'area_code' => '553',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西八代郡市川三郷町' => {
       'area_code' => '55',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '西八代郡市川三郷町五八' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西八代郡市川三郷町宮原' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西八代郡市川三郷町寺所' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西八代郡市川三郷町岩下' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西八代郡市川三郷町岩間' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西八代郡市川三郷町楠甫' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西八代郡市川三郷町落居' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西八代郡市川三郷町葛籠沢' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西八代郡市川三郷町鴨狩津向' => {
       'area_code' => '556',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '都留市' => {
       'area_code' => '554',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '韮崎市' => {
       'area_code' => '551',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '岐阜県' => {
     '下呂市' => {
       'area_code' => '576',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '不破郡' => {
       'area_code' => '584',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '中津川市' => {
       'area_code' => '573',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '中津川市蛭川' => {
       'area_code' => '573',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加茂郡七宗町' => {
       'area_code' => '574',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加茂郡八百津町' => {
       'area_code' => '574',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加茂郡坂祝町' => {
       'area_code' => '574',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加茂郡富加町' => {
       'area_code' => '574',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加茂郡川辺町' => {
       'area_code' => '574',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加茂郡東白川村' => {
       'area_code' => '574',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加茂郡白川町' => {
       'area_code' => '574',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '可児市' => {
       'area_code' => '574',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '可児郡' => {
       'area_code' => '574',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '各務原市' => {
       'area_code' => '58',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '各務原市川島北山町' => {
       'area_code' => '586',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '各務原市川島小網町' => {
       'area_code' => '586',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '各務原市川島松倉町' => {
       'area_code' => '586',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '各務原市川島松原町' => {
       'area_code' => '586',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '各務原市川島河田町' => {
       'area_code' => '586',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '各務原市川島渡町' => {
       'area_code' => '586',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '各務原市川島竹早町' => {
       'area_code' => '586',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '各務原市川島笠田町' => {
       'area_code' => '586',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '各務原市川島緑町' => {
       'area_code' => '586',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '土岐市' => {
       'area_code' => '572',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '多治見市' => {
       'area_code' => '572',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大垣市' => {
       'area_code' => '584',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大野郡' => {
       'area_code' => '5769',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '安八郡' => {
       'area_code' => '584',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山県市' => {
       'area_code' => '581',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '岐阜市' => {
       'area_code' => '58',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '恵那市' => {
       'area_code' => '573',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '恵那市明智町吉良見' => {
       'area_code' => '572',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '揖斐郡' => {
       'area_code' => '585',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '揖斐郡揖斐川町徳山' => {
       'area_code' => '581',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '揖斐郡池田町市橋' => {
       'area_code' => '584',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '本巣市' => {
       'area_code' => '581',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '本巣郡' => {
       'area_code' => '58',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '海津市' => {
       'area_code' => '584',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '瑞浪市' => {
       'area_code' => '572',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '瑞穂市' => {
       'area_code' => '58',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '瑞穂市呂久' => {
       'area_code' => '584',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '美濃加茂市' => {
       'area_code' => '574',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '美濃市' => {
       'area_code' => '575',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '羽島市' => {
       'area_code' => '58',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '羽島郡' => {
       'area_code' => '58',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '郡上市' => {
       'area_code' => '575',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '関市' => {
       'area_code' => '575',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '関市板取' => {
       'area_code' => '581',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '関市洞戸大野' => {
       'area_code' => '581',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '関市洞戸小坂' => {
       'area_code' => '581',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '関市洞戸小瀬見' => {
       'area_code' => '581',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '関市洞戸尾倉' => {
       'area_code' => '581',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '関市洞戸市場' => {
       'area_code' => '581',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '関市洞戸栗原' => {
       'area_code' => '581',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '関市洞戸片' => {
       'area_code' => '581',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '関市洞戸菅谷' => {
       'area_code' => '581',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '関市洞戸通元寺' => {
       'area_code' => '581',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '関市洞戸阿部' => {
       'area_code' => '581',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '関市洞戸飛瀬' => {
       'area_code' => '581',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '関市洞戸高見' => {
       'area_code' => '581',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '関市洞戸高賀' => {
       'area_code' => '581',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '関市洞戸黒谷' => {
       'area_code' => '581',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '飛騨市' => {
       'area_code' => '577',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '飛騨市神岡町' => {
       'area_code' => '578',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '養老郡' => {
       'area_code' => '584',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '高山市' => {
       'area_code' => '577',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '高山市上宝町' => {
       'area_code' => '578',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '高山市奥飛騨温泉郷' => {
       'area_code' => '578',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '高山市荘川町' => {
       'area_code' => '5769',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     }
   },
   '岡山県' => {
     '久米郡久米南町' => {
       'area_code' => '86',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '久米郡美咲町' => {
       'area_code' => '868',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '久米郡美咲町上口' => {
       'area_code' => '867',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '久米郡美咲町中' => {
       'area_code' => '867',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '久米郡美咲町中垪和' => {
       'area_code' => '867',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '久米郡美咲町北' => {
       'area_code' => '867',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '久米郡美咲町南' => {
       'area_code' => '867',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '久米郡美咲町小山' => {
       'area_code' => '867',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '久米郡美咲町東垪和' => {
       'area_code' => '867',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '久米郡美咲町栃原' => {
       'area_code' => '867',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '久米郡美咲町江与味' => {
       'area_code' => '867',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '久米郡美咲町西' => {
       'area_code' => '867',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '久米郡美咲町西垪和' => {
       'area_code' => '867',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '久米郡美咲町西川' => {
       'area_code' => '867',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '久米郡美咲町西川上' => {
       'area_code' => '867',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '久米郡美咲町里' => {
       'area_code' => '867',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '久米郡美咲町飯岡' => {
       'area_code' => '86',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '久米郡美咲町高下' => {
       'area_code' => '86',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '井原市' => {
       'area_code' => '866',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '倉敷市' => {
       'area_code' => '86',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '備前市' => {
       'area_code' => '869',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加賀郡吉備中央町' => {
       'area_code' => '867',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加賀郡吉備中央町上竹' => {
       'area_code' => '866',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加賀郡吉備中央町北' => {
       'area_code' => '866',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加賀郡吉備中央町吉川' => {
       'area_code' => '866',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加賀郡吉備中央町宮地' => {
       'area_code' => '866',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加賀郡吉備中央町岨谷' => {
       'area_code' => '866',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加賀郡吉備中央町湯山' => {
       'area_code' => '866',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加賀郡吉備中央町田土' => {
       'area_code' => '866',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加賀郡吉備中央町竹荘' => {
       'area_code' => '866',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加賀郡吉備中央町納地' => {
       'area_code' => '866',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加賀郡吉備中央町西' => {
       'area_code' => '866',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加賀郡吉備中央町豊野' => {
       'area_code' => '866',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加賀郡吉備中央町黒土' => {
       'area_code' => '866',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加賀郡吉備中央町黒山' => {
       'area_code' => '866',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '勝田郡' => {
       'area_code' => '868',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '和気郡' => {
       'area_code' => '869',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '小田郡' => {
       'area_code' => '866',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '岡山市' => {
       'area_code' => '86',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '岡山市南区植松' => {
       'area_code' => '86',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '岡山市南区箕島' => {
       'area_code' => '86',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '岡山市南区西畦' => {
       'area_code' => '86',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新見市' => {
       'area_code' => '867',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '津山市' => {
       'area_code' => '868',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '浅口市' => {
       'area_code' => '865',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '浅口郡' => {
       'area_code' => '865',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '瀬戸内市' => {
       'area_code' => '869',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '瀬戸内市邑久町北島' => {
       'area_code' => '86',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '瀬戸内市邑久町向山' => {
       'area_code' => '86',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '瀬戸内市邑久町大富' => {
       'area_code' => '86',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '瀬戸内市邑久町福山' => {
       'area_code' => '86',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '瀬戸内市長船町長船' => {
       'area_code' => '869',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '玉野市' => {
       'area_code' => '863',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '真庭市' => {
       'area_code' => '867',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '真庭市上中津井' => {
       'area_code' => '866',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '真庭市上呰部' => {
       'area_code' => '866',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '真庭市上水田' => {
       'area_code' => '866',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '真庭市下中津井' => {
       'area_code' => '866',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '真庭市下呰部' => {
       'area_code' => '866',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '真庭市五名' => {
       'area_code' => '866',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '真庭市宮地' => {
       'area_code' => '866',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '真庭市山田' => {
       'area_code' => '866',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '真庭市阿口' => {
       'area_code' => '866',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '真庭郡' => {
       'area_code' => '867',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '笠岡市' => {
       'area_code' => '865',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '総社市' => {
       'area_code' => '866',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '美作市' => {
       'area_code' => '868',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '苫田郡鏡野町' => {
       'area_code' => '868',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '苫田郡鏡野町大' => {
       'area_code' => '867',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '苫田郡鏡野町富仲間' => {
       'area_code' => '867',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '苫田郡鏡野町富東谷' => {
       'area_code' => '867',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '苫田郡鏡野町富西谷' => {
       'area_code' => '867',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '苫田郡鏡野町楠' => {
       'area_code' => '867',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '英田郡' => {
       'area_code' => '868',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '赤磐市' => {
       'area_code' => '86',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '赤磐市穂崎' => {
       'area_code' => '86',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '赤磐市馬屋' => {
       'area_code' => '86',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '都窪郡' => {
       'area_code' => '86',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '高梁市' => {
       'area_code' => '866',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '岩手県' => {
     '一関市' => {
       'area_code' => '191',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上閉伊郡' => {
       'area_code' => '193',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '下閉伊郡' => {
       'area_code' => '194',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '下閉伊郡山田町' => {
       'area_code' => '193',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '久慈市' => {
       'area_code' => '194',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '九戸郡九戸村' => {
       'area_code' => '195',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '九戸郡洋野町' => {
       'area_code' => '194',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '九戸郡軽米町' => {
       'area_code' => '195',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '九戸郡野田村' => {
       'area_code' => '194',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '二戸市' => {
       'area_code' => '195',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '二戸郡' => {
       'area_code' => '195',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '八幡平市' => {
       'area_code' => '195',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '北上市' => {
       'area_code' => '197',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '和賀郡' => {
       'area_code' => '197',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大船渡市' => {
       'area_code' => '192',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '奥州市' => {
       'area_code' => '197',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宮古市' => {
       'area_code' => '193',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '岩手郡岩手町' => {
       'area_code' => '195',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '岩手郡滝沢村' => {
       'area_code' => '19',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '岩手郡葛巻町' => {
       'area_code' => '195',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '岩手郡雫石町' => {
       'area_code' => '19',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '気仙郡' => {
       'area_code' => '192',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '盛岡市' => {
       'area_code' => '19',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '紫波郡' => {
       'area_code' => '19',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '胆沢郡' => {
       'area_code' => '197',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '花巻市' => {
       'area_code' => '198',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西磐井郡' => {
       'area_code' => '191',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '遠野市' => {
       'area_code' => '198',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '釜石市' => {
       'area_code' => '193',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '陸前高田市' => {
       'area_code' => '192',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '島根県' => {
     '仁多郡' => {
       'area_code' => '854',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '出雲市' => {
       'area_code' => '853',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大田市' => {
       'area_code' => '854',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大田市川合町' => {
       'area_code' => '855',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大田市湯泉津町' => {
       'area_code' => '855',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '安来市' => {
       'area_code' => '854',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '松江市' => {
       'area_code' => '852',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '江津市' => {
       'area_code' => '855',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '江津市桜江町' => {
       'area_code' => '855',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '浜田市' => {
       'area_code' => '855',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '益田市' => {
       'area_code' => '856',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '邑智郡' => {
       'area_code' => '855',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '隠岐郡' => {
       'area_code' => '8514',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '隠岐郡隠岐の島町' => {
       'area_code' => '8512',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '雲南市' => {
       'area_code' => '854',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '雲南市吉田町' => {
       'area_code' => '854',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '雲南市掛合町' => {
       'area_code' => '854',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '飯石郡' => {
       'area_code' => '854',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '鹿足郡' => {
       'area_code' => '856',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '広島県' => {
     '三原市' => {
       'area_code' => '848',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三原市久井町' => {
       'area_code' => '847',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三原市大和町' => {
       'area_code' => '847',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三次市' => {
       'area_code' => '824',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三次市甲奴町' => {
       'area_code' => '847',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '世羅郡' => {
       'area_code' => '847',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '呉市' => {
       'area_code' => '823',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大竹市' => {
       'area_code' => '827',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '安芸郡' => {
       'area_code' => '82',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '安芸高田市' => {
       'area_code' => '826',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '尾道市' => {
       'area_code' => '848',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '尾道市因島三庄町' => {
       'area_code' => '845',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '尾道市因島中庄町' => {
       'area_code' => '845',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '尾道市因島原町' => {
       'area_code' => '845',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '尾道市因島土生町' => {
       'area_code' => '845',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '尾道市因島外浦町' => {
       'area_code' => '845',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '尾道市因島大浜町' => {
       'area_code' => '845',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '尾道市因島椋浦町' => {
       'area_code' => '845',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '尾道市因島洲江町' => {
       'area_code' => '845',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '尾道市因島田熊町' => {
       'area_code' => '845',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '尾道市因島重井町' => {
       'area_code' => '845',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '尾道市因島鏡浦町' => {
       'area_code' => '845',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '尾道市瀬戸田町' => {
       'area_code' => '845',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山県郡北広島町' => {
       'area_code' => '826',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山県郡北広島町中祖' => {
       'area_code' => '826',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山県郡北広島町南門原' => {
       'area_code' => '826',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山県郡北広島町土橋' => {
       'area_code' => '826',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山県郡北広島町大元' => {
       'area_code' => '826',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山県郡北広島町大利原' => {
       'area_code' => '826',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山県郡北広島町大暮' => {
       'area_code' => '826',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山県郡北広島町奥中原' => {
       'area_code' => '826',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山県郡北広島町奥原' => {
       'area_code' => '826',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山県郡北広島町宮地' => {
       'area_code' => '826',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山県郡北広島町小原' => {
       'area_code' => '826',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山県郡北広島町川小田' => {
       'area_code' => '826',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山県郡北広島町才乙' => {
       'area_code' => '826',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山県郡北広島町政所' => {
       'area_code' => '826',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山県郡北広島町東八幡原' => {
       'area_code' => '826',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山県郡北広島町橋山' => {
       'area_code' => '826',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山県郡北広島町溝口' => {
       'area_code' => '826',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山県郡北広島町移原' => {
       'area_code' => '826',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山県郡北広島町米沢' => {
       'area_code' => '826',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山県郡北広島町細見' => {
       'area_code' => '826',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山県郡北広島町苅屋形' => {
       'area_code' => '826',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山県郡北広島町草安' => {
       'area_code' => '826',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山県郡北広島町荒神原' => {
       'area_code' => '826',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山県郡北広島町西八幡原' => {
       'area_code' => '826',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山県郡北広島町雲耕' => {
       'area_code' => '826',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山県郡北広島町高野' => {
       'area_code' => '826',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山県郡安芸太田町' => {
       'area_code' => '826',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '広島市' => {
       'area_code' => '82',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '広島市佐伯区杉並台' => {
       'area_code' => '829',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '広島市佐伯区湯来町' => {
       'area_code' => '829',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '庄原市' => {
       'area_code' => '824',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '庄原市東城町' => {
       'area_code' => '8477',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '府中市' => {
       'area_code' => '847',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '廿日市市' => {
       'area_code' => '829',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東広島市' => {
       'area_code' => '82',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東広島市安芸津町' => {
       'area_code' => '846',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東広島市黒瀬切田が丘' => {
       'area_code' => '823',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東広島市黒瀬学園台' => {
       'area_code' => '823',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東広島市黒瀬春日野' => {
       'area_code' => '823',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東広島市黒瀬松ケ丘' => {
       'area_code' => '823',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東広島市黒瀬桜が丘' => {
       'area_code' => '823',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東広島市黒瀬町' => {
       'area_code' => '823',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '江田島市' => {
       'area_code' => '823',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '神石郡' => {
       'area_code' => '847',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '福山市' => {
       'area_code' => '84',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '福山市今津町' => {
       'area_code' => '84',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '福山市南松永町' => {
       'area_code' => '84',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '福山市宮前町' => {
       'area_code' => '84',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '福山市新市町' => {
       'area_code' => '847',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '福山市本郷町' => {
       'area_code' => '84',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '福山市東村町' => {
       'area_code' => '84',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '福山市松永町' => {
       'area_code' => '84',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '福山市柳津町' => {
       'area_code' => '84',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '福山市神村町' => {
       'area_code' => '84',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '福山市藤江町' => {
       'area_code' => '84',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '福山市金江町藁江' => {
       'area_code' => '84',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '福山市金江町金見' => {
       'area_code' => '84',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '福山市高西町南' => {
       'area_code' => '84',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '福山市高西町川尻' => {
       'area_code' => '84',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '福山市高西町真田' => {
       'area_code' => '84',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '竹原市' => {
       'area_code' => '846',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '豊田郡' => {
       'area_code' => '846',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '徳島県' => {
     '三好市' => {
       'area_code' => '883',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三好郡' => {
       'area_code' => '883',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '勝浦郡' => {
       'area_code' => '885',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吉野川市' => {
       'area_code' => '883',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '名東郡' => {
       'area_code' => '88',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '名西郡' => {
       'area_code' => '88',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '小松島市' => {
       'area_code' => '885',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '徳島市' => {
       'area_code' => '88',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '板野郡' => {
       'area_code' => '88',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '海部郡' => {
       'area_code' => '884',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '美馬市' => {
       'area_code' => '883',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '美馬郡' => {
       'area_code' => '883',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那賀郡' => {
       'area_code' => '884',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '阿南市' => {
       'area_code' => '884',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '阿波市' => {
       'area_code' => '883',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '阿波市五条' => {
       'area_code' => '88',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '阿波市吉田' => {
       'area_code' => '88',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '阿波市土成' => {
       'area_code' => '88',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '阿波市宮川内' => {
       'area_code' => '88',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '阿波市成当' => {
       'area_code' => '88',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '阿波市柿原' => {
       'area_code' => '88',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '阿波市水田' => {
       'area_code' => '88',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '阿波市浦池' => {
       'area_code' => '88',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '阿波市秋月' => {
       'area_code' => '88',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '阿波市西条' => {
       'area_code' => '88',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '阿波市郡' => {
       'area_code' => '88',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '阿波市高尾' => {
       'area_code' => '88',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '鳴門市' => {
       'area_code' => '88',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     }
   },
   '愛媛県' => {
     '上浮穴郡' => {
       'area_code' => '892',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '今治市' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '今治市上浦町' => {
       'area_code' => '897',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '今治市伯方町' => {
       'area_code' => '897',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '今治市吉海町' => {
       'area_code' => '897',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '今治市大三島町' => {
       'area_code' => '897',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '今治市宮窪町' => {
       'area_code' => '897',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '今治市関前大下' => {
       'area_code' => '897',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '今治市関前小大下' => {
       'area_code' => '897',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '今治市関前岡村' => {
       'area_code' => '897',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊予市' => {
       'area_code' => '89',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '伊予郡' => {
       'area_code' => '89',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '八幡浜市' => {
       'area_code' => '894',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '北宇和郡' => {
       'area_code' => '895',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南宇和郡' => {
       'area_code' => '895',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '喜多郡内子町' => {
       'area_code' => '893',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '喜多郡内子町上川' => {
       'area_code' => '892',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '喜多郡内子町上田渡' => {
       'area_code' => '892',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '喜多郡内子町中川' => {
       'area_code' => '892',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '喜多郡内子町中田渡' => {
       'area_code' => '892',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '喜多郡内子町南山' => {
       'area_code' => '892',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '喜多郡内子町吉野川' => {
       'area_code' => '892',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '喜多郡内子町大平' => {
       'area_code' => '892',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '喜多郡内子町寺村' => {
       'area_code' => '892',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '喜多郡内子町小田' => {
       'area_code' => '892',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '喜多郡内子町日野川' => {
       'area_code' => '892',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '喜多郡内子町本川' => {
       'area_code' => '892',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '喜多郡内子町立石' => {
       'area_code' => '892',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '喜多郡内子町臼杵' => {
       'area_code' => '892',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '四国中央市' => {
       'area_code' => '896',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大洲市' => {
       'area_code' => '893',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宇和島市' => {
       'area_code' => '895',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '新居浜市' => {
       'area_code' => '897',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東温市' => {
       'area_code' => '89',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '松山市' => {
       'area_code' => '89',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '西予市' => {
       'area_code' => '894',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西予市三瓶町' => {
       'area_code' => '894',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西宇和郡' => {
       'area_code' => '894',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市' => {
       'area_code' => '897',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市三津屋' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市三津屋南' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市三津屋東' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市三芳' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市上市' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市丹原町' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市今在家' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市円海寺' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市北条' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市吉田' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市周布' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市喜多台' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市国安' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市壬生川' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市大新田' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市大野' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市安用' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市安用出作' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市実報寺' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市宮之内' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市小松町' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市広岡' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市広江' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市新市' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市新町' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市旦之上' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市明理川' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市桑村' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市楠' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市河之内' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市河原津' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市河原津新田' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市玉之江' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市石延' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市石田' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市福成寺' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市高田' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西条市黒谷' => {
       'area_code' => '898',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '越智郡' => {
       'area_code' => '897',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '愛知県' => {
     'あま市' => {
       'area_code' => '52',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'みよし市' => {
       'area_code' => '561',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '一宮市' => {
       'area_code' => '586',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '丹羽郡' => {
       'area_code' => '587',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '刈谷市' => {
       'area_code' => '566',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '北名古屋市' => {
       'area_code' => '568',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '北設楽郡' => {
       'area_code' => '536',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '半田市' => {
       'area_code' => '569',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '名古屋市' => {
       'area_code' => '52',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '大府市' => {
       'area_code' => '562',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '安城市' => {
       'area_code' => '566',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '小牧市' => {
       'area_code' => '568',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '尾張旭市' => {
       'area_code' => '561',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '尾張旭市吉岡町' => {
       'area_code' => '52',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '尾張旭市庄南町' => {
       'area_code' => '52',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '尾張旭市東名西町' => {
       'area_code' => '52',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '尾張旭市東山町' => {
       'area_code' => '52',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '尾張旭市西山町' => {
       'area_code' => '52',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '尾張旭市霞ヶ丘町' => {
       'area_code' => '52',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '岡崎市' => {
       'area_code' => '564',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '岩倉市' => {
       'area_code' => '587',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '常滑市' => {
       'area_code' => '569',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '弥富市' => {
       'area_code' => '567',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '愛知郡' => {
       'area_code' => '561',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '愛西市' => {
       'area_code' => '567',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '新城市' => {
       'area_code' => '536',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '日進市' => {
       'area_code' => '561',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '日進市梅森町' => {
       'area_code' => '52',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '日進市浅田町' => {
       'area_code' => '52',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '日進市赤池' => {
       'area_code' => '52',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '日進市赤池町' => {
       'area_code' => '52',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '日進市香久山' => {
       'area_code' => '52',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '春日井市' => {
       'area_code' => '568',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東海市' => {
       'area_code' => '52',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東海市中ノ池' => {
       'area_code' => '562',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東海市中央町' => {
       'area_code' => '562',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東海市元浜町' => {
       'area_code' => '562',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東海市加木屋町' => {
       'area_code' => '562',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東海市大田町' => {
       'area_code' => '562',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東海市横須賀町' => {
       'area_code' => '562',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東海市養父町' => {
       'area_code' => '562',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東海市高横須賀町' => {
       'area_code' => '562',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '江南市' => {
       'area_code' => '587',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '津島市' => {
       'area_code' => '567',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '海部郡' => {
       'area_code' => '567',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '海部郡大治町' => {
       'area_code' => '52',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '清須市' => {
       'area_code' => '52',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '瀬戸市' => {
       'area_code' => '561',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '犬山市' => {
       'area_code' => '568',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '田原市' => {
       'area_code' => '531',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '知多市' => {
       'area_code' => '562',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '知多市南粕谷' => {
       'area_code' => '569',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '知多市新広見' => {
       'area_code' => '569',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '知多市新舞子' => {
       'area_code' => '569',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '知多市旭南' => {
       'area_code' => '569',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '知多市神田' => {
       'area_code' => '569',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '知多市金沢' => {
       'area_code' => '569',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '知多郡南知多町' => {
       'area_code' => '569',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '知多郡東浦町' => {
       'area_code' => '562',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '知多郡武豊町' => {
       'area_code' => '569',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '知多郡美浜町' => {
       'area_code' => '569',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '知多郡阿久比町' => {
       'area_code' => '569',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '知立市' => {
       'area_code' => '566',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '碧南市' => {
       'area_code' => '566',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲沢市' => {
       'area_code' => '587',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲沢市平和町' => {
       'area_code' => '567',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲沢市横野町' => {
       'area_code' => '586',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲沢市生出上山町' => {
       'area_code' => '586',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲沢市生出東道根町' => {
       'area_code' => '586',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲沢市生出横西町' => {
       'area_code' => '586',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲沢市生出河戸町' => {
       'area_code' => '586',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲沢市生出西道根町' => {
       'area_code' => '586',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲沢市生出郷前町' => {
       'area_code' => '586',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲沢市西島町' => {
       'area_code' => '586',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '蒲郡市' => {
       'area_code' => '533',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西尾市' => {
       'area_code' => '563',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西春日井郡' => {
       'area_code' => '568',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '豊川市' => {
       'area_code' => '533',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '豊明市' => {
       'area_code' => '562',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '豊橋市' => {
       'area_code' => '532',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '豊田市' => {
       'area_code' => '565',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長久手市' => {
       'area_code' => '561',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '額田郡' => {
       'area_code' => '564',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '高浜市' => {
       'area_code' => '566',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '新潟県' => {
     '三島郡' => {
       'area_code' => '258',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三条市' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上越市' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '上越市中郷区' => {
       'area_code' => '255',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上越市大島区' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '上越市安塚区' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '上越市板倉区' => {
       'area_code' => '255',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上越市浦川原区' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '中魚沼郡' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '五泉市' => {
       'area_code' => '250',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '佐渡市' => {
       'area_code' => '259',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '刈羽郡' => {
       'area_code' => '257',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加茂市' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '北蒲原郡聖籠町' => {
       'area_code' => '254',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '北蒲原郡聖籠町亀塚' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '北蒲原郡聖籠町位守町' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '北蒲原郡聖籠町別條' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '北蒲原郡聖籠町東港' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市中子' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市仙納' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市会沢' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市儀明' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市千年' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市名平' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市太平' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市奈良立' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市孟地' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市室野' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市寺田' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市小屋丸' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市小池' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市小荒戸' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市峠' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市木和田原' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松之山' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松之山三桶' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松之山上鰕池' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松之山下鰕池' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松之山中尾' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松之山五十子平' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松之山光間' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松之山古戸' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松之山坂下' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松之山坪野' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松之山大荒戸' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松之山天水島' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松之山天水越' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松之山小谷' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松之山新山' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松之山東山' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松之山東川' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松之山松口' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松之山橋詰' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松之山水梨' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松之山沢口' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松之山湯山' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松之山湯本' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松之山猪之名' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松之山藤倉' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松之山藤内名' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松之山観音寺' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松之山赤倉' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松之山黒倉' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松代' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松代下山' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松代東山' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松代田沢' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市松山新田' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市桐山' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市池之畑' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市池尻' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市浦田' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市海老' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市清水' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市滝沢' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市片桐山' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市犬伏' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市田野倉' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市福島' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市苧島' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市荒瀬' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市莇平' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市菅刈' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市蒲生' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '十日町市蓬平' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '南蒲原郡' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南魚沼市' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '南魚沼郡' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '妙高市' => {
       'area_code' => '255',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '小千谷市' => {
       'area_code' => '258',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '岩船郡' => {
       'area_code' => '254',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '新潟市中央区' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新潟市北区' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新潟市南区' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新潟市東区' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新潟市江南区' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新潟市秋葉区' => {
       'area_code' => '250',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '新潟市秋葉区覚路津' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新潟市西区' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新潟市西蒲区' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '新潟市西蒲区三ツ門' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新潟市西蒲区上小吉' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新潟市西蒲区中之口' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新潟市西蒲区五之上' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新潟市西蒲区六部' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新潟市西蒲区姥島' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新潟市西蒲区小吉' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新潟市西蒲区巻大原' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新潟市西蒲区打越' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新潟市西蒲区東中' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新潟市西蒲区東小吉' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新潟市西蒲区東船越' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新潟市西蒲区河間' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新潟市西蒲区潟浦新' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新潟市西蒲区牧ケ島' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新潟市西蒲区真木' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新潟市西蒲区福島' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新潟市西蒲区羽黒' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新潟市西蒲区道上' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新潟市西蒲区針ヶ曽根' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新潟市西蒲区長場' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新潟市西蒲区門田' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新潟市西蒲区高野宮' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '新発田市' => {
       'area_code' => '254',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '村上市' => {
       'area_code' => '254',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東蒲原郡' => {
       'area_code' => '254',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '柏崎市' => {
       'area_code' => '257',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市三王渕' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市上児木' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市下児木' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市中川' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市二階堂' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市井土巻' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市佐渡' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市八王寺' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市勘新' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市南' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市又新' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市四ツ屋' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市大曲' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市大船渡' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市大関' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市小中川' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市小古津新' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市小池' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市小池新町' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市小牧' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市小関' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市小高' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市新栄町' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市新生町' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市日之出町' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市杉名' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市杉柳' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市杣木' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市東太田' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市松橋' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市柳山' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市桜町' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市横田' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市次新' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市殿島' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市水道町' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市灰方' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市燕' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市物流センタ－' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市白山町' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市秋葉町' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市舘野' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市花園町' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市花見' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市蔵関' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市道金' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市長所' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市長所乙' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市長所甲' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市長渡' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '燕市関崎' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '糸魚川市' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '胎内市' => {
       'area_code' => '254',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西蒲原郡' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '見附市' => {
       'area_code' => '258',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市' => {
       'area_code' => '258',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市下沼新田' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市中之島西野' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市中条新田' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市大沼新田' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市寺泊万善寺' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市寺泊下中条' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市寺泊下桐' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市寺泊中曽根' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市寺泊五分一' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市寺泊入軽井' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市寺泊北曽根' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市寺泊小豆曽根' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市寺泊岩方' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市寺泊平野新村新田' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市寺泊当新田' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市寺泊敦ケ曽根' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市寺泊新長' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市寺泊有信' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市寺泊木島' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市寺泊求草' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市寺泊田尻' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市寺泊町軽井' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市寺泊矢田' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市寺泊硲田' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市寺泊竹森' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市寺泊蛇塚' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市寺泊高内' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市寺泊鰐口' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市小沼新田' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市真野代新田' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡市赤沼' => {
       'area_code' => '256',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '阿賀野市' => {
       'area_code' => '250',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '魚沼市' => {
       'area_code' => '25',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     }
   },
   '東京都' => {
     'あきる野市' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '三宅村' => {
       'area_code' => '4994',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '三鷹市' => {
       'area_code' => '422',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三鷹市中原一丁目' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '世田谷区' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '中央区' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '中野区' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '八丈町' => {
       'area_code' => '4996',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '八王子市' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '利島村' => {
       'area_code' => '4992',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '北区' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '千代田区' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '台東区' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '品川区' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '国分寺市' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '国分寺市光町' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '国分寺市内藤' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '国分寺市富士本' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '国分寺市戸倉三丁目' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '国分寺市日吉町三丁目' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '国分寺市日吉町二丁目' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '国分寺市西町' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '国分寺市高木町' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '国立市' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '墨田区' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '多摩市' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '大島町' => {
       'area_code' => '4992',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '大田区' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '小平市' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '小平市花小金井' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '小平市花小金井南町' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '小平市鈴木町二丁目' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '小笠原村' => {
       'area_code' => '4998',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '小金井市' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '小金井市東町三丁目' => {
       'area_code' => '422',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '小金井市東町二丁目' => {
       'area_code' => '422',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '小金井市梶野町一丁目' => {
       'area_code' => '422',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '小金井市梶野町三丁目' => {
       'area_code' => '422',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '小金井市梶野町二丁目' => {
       'area_code' => '422',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '小金井市梶野町四丁目' => {
       'area_code' => '422',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '府中市' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '府中市北山町' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '府中市押立町五丁目' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '府中市押立町四丁目' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '府中市西原町三丁目' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '府中市西原町二丁目' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '府中市西原町四丁目' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '府中市西府町四丁目' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '御蔵島村' => {
       'area_code' => '4994',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '文京区' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '新宿区' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '新島本村' => {
       'area_code' => '4992',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '日野市' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '昭島市' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '杉並区' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '東久留米市' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東大和市' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東村山市' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '板橋区' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '武蔵村山市' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '武蔵野市' => {
       'area_code' => '422',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '江戸川区' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '江東区' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '清瀬市' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '渋谷区' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '港区' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '狛江市' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '狛江市西和泉' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '町田市' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '町田市三輪町' => {
       'area_code' => '44',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '町田市三輪緑山' => {
       'area_code' => '44',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '目黒区' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '神津島村' => {
       'area_code' => '4992',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '福生市' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '稲城市' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '立川市' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '練馬区' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '羽村市' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '荒川区' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '葛飾区' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '西多摩郡' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '西多摩郡奥多摩町' => {
       'area_code' => '428',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西東京市' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '西東京市新町' => {
       'area_code' => '422',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '調布市' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '調布市仙川町' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '調布市入間町' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '調布市国領町八丁目' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '調布市東つつじヶ丘' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '調布市深大寺東町七丁目' => {
       'area_code' => '422',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '調布市緑ヶ丘' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '調布市若葉町' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '調布市西つつじヶ丘二丁目' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '調布市野水' => {
       'area_code' => '422',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '豊島区' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '足立区' => {
       'area_code' => '3',
-      'digits_code' => 'BCDE'
+      'local_code_digits' => 'BCDE'
     },
     '青ヶ島村' => {
       'area_code' => '4996',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '青梅市' => {
       'area_code' => '428',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '栃木県' => {
     'さくら市' => {
       'area_code' => '28',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '下都賀郡' => {
       'area_code' => '282',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '下都賀郡野木町' => {
       'area_code' => '280',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '下野市' => {
       'area_code' => '285',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '佐野市' => {
       'area_code' => '283',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '塩谷郡塩谷町' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '塩谷郡高根沢町' => {
       'area_code' => '28',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '大田原市' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宇都宮市' => {
       'area_code' => '28',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '小山市' => {
       'area_code' => '285',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '小山市上生井' => {
       'area_code' => '282',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '小山市下生井' => {
       'area_code' => '280',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '小山市中島' => {
       'area_code' => '296',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '小山市中河原' => {
       'area_code' => '296',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '小山市梁' => {
       'area_code' => '296',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '小山市白鳥' => {
       'area_code' => '282',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '小山市福良' => {
       'area_code' => '296',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '日光市' => {
       'area_code' => '288',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '栃木市' => {
       'area_code' => '282',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '河内郡' => {
       'area_code' => '285',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '真岡市' => {
       'area_code' => '285',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '矢板市' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '芳賀郡' => {
       'area_code' => '285',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '芳賀郡芳賀町' => {
       'area_code' => '28',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '足利市' => {
       'area_code' => '284',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市あたご町' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市一区町' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市三区町' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市三島' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市上塩原' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市上大貫' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市上横林' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市上赤田' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市下大貫' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市下永田' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市下田野' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市中塩原' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市二つ室' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市二区町' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市五軒町' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市井口' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市北二つ室' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市北赤田' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市千本松' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市南町' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市南赤田' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市南郷屋' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市四区町' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市塩原' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市太夫塚' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市宇都野' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市扇町' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市折戸' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市接骨木' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市新南' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市東三島' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市東町' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市東赤田' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市東遅沢' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市東関根' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市槻沢' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市横林' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市永田町' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市湯本塩原' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市睦' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市石林' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市笹沼' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市緑' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市蟇沼' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市西三島' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市西原町' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市西大和' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市西富山' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市西幸町' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市西朝日町' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市西栄町' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市西赤田' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市西遅沢' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市遅野沢' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市金沢' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市関根' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市関谷' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市高柳' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須塩原市高阿津' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須烏山市' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須郡那珂川町' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那須郡那須町' => {
       'area_code' => '287',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '鹿沼市' => {
       'area_code' => '289',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '沖縄県' => {
     'うるま市' => {
       'area_code' => '98',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '中頭郡' => {
       'area_code' => '98',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '八重山郡' => {
       'area_code' => '980',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南城市' => {
       'area_code' => '98',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '名護市' => {
       'area_code' => '980',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '国頭郡今帰仁村' => {
       'area_code' => '980',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '国頭郡伊江村' => {
       'area_code' => '980',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '国頭郡国頭村' => {
       'area_code' => '980',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '国頭郡大宜味村' => {
       'area_code' => '980',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '国頭郡宜野座村' => {
       'area_code' => '98',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '国頭郡恩納村' => {
       'area_code' => '98',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '国頭郡本部町' => {
       'area_code' => '980',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '国頭郡東村' => {
       'area_code' => '980',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '国頭郡金武町' => {
       'area_code' => '98',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '宜野湾市' => {
       'area_code' => '98',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '宮古島市' => {
       'area_code' => '980',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宮古郡' => {
       'area_code' => '980',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '島尻郡' => {
       'area_code' => '98',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '島尻郡伊平屋村' => {
       'area_code' => '980',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '島尻郡伊是名村' => {
       'area_code' => '980',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '島尻郡北大東村' => {
       'area_code' => '9802',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '島尻郡南大東村' => {
       'area_code' => '9802',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '沖縄市' => {
       'area_code' => '98',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '浦添市' => {
       'area_code' => '98',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '石垣市' => {
       'area_code' => '980',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '糸満市' => {
       'area_code' => '98',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '豊見城市' => {
       'area_code' => '98',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '那覇市' => {
       'area_code' => '98',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     }
   },
   '滋賀県' => {
     '大津市' => {
       'area_code' => '77',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '守山市' => {
       'area_code' => '77',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '彦根市' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '愛知郡' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市' => {
       'area_code' => '748',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市上中野町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市上山町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市上岸本町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市下一色町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市下中野町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市下岸本町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市下里町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市中一色町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市中岸本町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市中戸町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市中里町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市今在家町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市僧坊町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市勝堂町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市北坂町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市北清水町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市北花沢町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市北菩提寺町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市南清水町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市南花沢町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市南菩提寺町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市園町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市大林町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市大沢町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市大清水町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市大萩町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市大覚寺町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市妹町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市小倉町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市小八木町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市小池町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市小田苅町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市市ヶ原町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市平尾町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市平松町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市平柳町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市愛東外町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市曽根町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市梅林町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市横溝町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市池之尻町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市池庄町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市清水中町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市湯屋町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市百済寺本町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市百済寺甲町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市百済寺町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市祇園町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市西菩提寺町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市読合堂町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市長町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市青山町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東近江市鯰江町' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '栗東市' => {
       'area_code' => '77',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '湖南市' => {
       'area_code' => '748',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '犬上郡' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '甲賀市' => {
       'area_code' => '748',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '米原市' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '草津市' => {
       'area_code' => '77',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '蒲生郡' => {
       'area_code' => '748',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '近江八幡市' => {
       'area_code' => '748',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '野洲市' => {
       'area_code' => '77',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '長浜市' => {
       'area_code' => '749',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '高島市' => {
       'area_code' => '740',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '熊本県' => {
     '上天草市' => {
       'area_code' => '969',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上天草市大矢野町' => {
       'area_code' => '964',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上益城郡' => {
       'area_code' => '96',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '上益城郡山都町' => {
       'area_code' => '967',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '下益城郡' => {
       'area_code' => '964',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '人吉市' => {
       'area_code' => '966',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '八代市' => {
       'area_code' => '965',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '八代郡氷川町' => {
       'area_code' => '965',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '八代郡氷川町吉本' => {
       'area_code' => '964',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '八代郡氷川町高塚' => {
       'area_code' => '964',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '合志市' => {
       'area_code' => '96',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '天草市' => {
       'area_code' => '969',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '天草郡' => {
       'area_code' => '969',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宇土市' => {
       'area_code' => '964',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宇城市' => {
       'area_code' => '964',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山鹿市' => {
       'area_code' => '968',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '水俣市' => {
       'area_code' => '966',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊本市' => {
       'area_code' => '96',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '熊本市南区城南町下宮地' => {
       'area_code' => '964',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊本市南区城南町丹生宮' => {
       'area_code' => '964',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊本市南区城南町今吉野' => {
       'area_code' => '964',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊本市南区城南町六田' => {
       'area_code' => '964',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊本市南区城南町出水' => {
       'area_code' => '964',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊本市南区城南町千町' => {
       'area_code' => '964',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊本市南区城南町坂野' => {
       'area_code' => '964',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊本市南区城南町塚原' => {
       'area_code' => '964',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊本市南区城南町宮地' => {
       'area_code' => '964',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊本市南区城南町島田' => {
       'area_code' => '964',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊本市南区城南町東阿高' => {
       'area_code' => '964',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊本市南区城南町永' => {
       'area_code' => '964',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊本市南区城南町沈目' => {
       'area_code' => '964',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊本市南区城南町碇' => {
       'area_code' => '964',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊本市南区城南町築地' => {
       'area_code' => '964',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊本市南区城南町舞原' => {
       'area_code' => '964',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊本市南区城南町藤山' => {
       'area_code' => '964',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊本市南区城南町赤見' => {
       'area_code' => '964',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊本市南区城南町阿高' => {
       'area_code' => '964',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊本市南区城南町陳内' => {
       'area_code' => '964',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊本市南区城南町隈庄' => {
       'area_code' => '964',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊本市南区城南町高' => {
       'area_code' => '964',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊本市南区城南町鰐瀬' => {
       'area_code' => '964',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '玉名市' => {
       'area_code' => '968',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '玉名郡' => {
       'area_code' => '968',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '玉名郡和水町上十町' => {
       'area_code' => '968',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '玉名郡和水町上和仁' => {
       'area_code' => '968',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '玉名郡和水町上板楠' => {
       'area_code' => '968',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '玉名郡和水町中十町' => {
       'area_code' => '968',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '玉名郡和水町中和仁' => {
       'area_code' => '968',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '玉名郡和水町中林' => {
       'area_code' => '968',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '玉名郡和水町和仁' => {
       'area_code' => '968',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '玉名郡和水町大田黒' => {
       'area_code' => '968',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '玉名郡和水町山十町' => {
       'area_code' => '968',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '玉名郡和水町岩' => {
       'area_code' => '968',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '玉名郡和水町平野' => {
       'area_code' => '968',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '玉名郡和水町東吉地' => {
       'area_code' => '968',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '玉名郡和水町板楠' => {
       'area_code' => '968',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '玉名郡和水町津田' => {
       'area_code' => '968',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '玉名郡和水町西吉地' => {
       'area_code' => '968',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '玉名郡和水町野田' => {
       'area_code' => '968',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '球磨郡' => {
       'area_code' => '966',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '荒尾市' => {
       'area_code' => '968',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '荒尾市上井手' => {
       'area_code' => '944',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '荒尾市下井手' => {
       'area_code' => '944',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '菊池市' => {
       'area_code' => '968',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '菊池郡' => {
       'area_code' => '96',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '葦北郡 ' => {
       'area_code' => '966',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '阿蘇市' => {
       'area_code' => '967',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '阿蘇郡南小国町' => {
       'area_code' => '967',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '阿蘇郡南阿蘇村' => {
       'area_code' => '967',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '阿蘇郡小国町' => {
       'area_code' => '967',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '阿蘇郡産山村' => {
       'area_code' => '967',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '阿蘇郡西原村' => {
       'area_code' => '96',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '阿蘇郡高森町' => {
       'area_code' => '967',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '石川県' => {
     'かほく市' => {
       'area_code' => '76',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '七尾市' => {
       'area_code' => '767',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '加賀市' => {
       'area_code' => '761',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '小松市' => {
       'area_code' => '761',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '河北郡' => {
       'area_code' => '76',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '珠洲市' => {
       'area_code' => '768',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '白山市' => {
       'area_code' => '76',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '羽咋市' => {
       'area_code' => '767',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '羽咋郡' => {
       'area_code' => '767',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '能美市' => {
       'area_code' => '761',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '能美郡' => {
       'area_code' => '76',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '輪島市' => {
       'area_code' => '768',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '野々市市' => {
       'area_code' => '76',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '金沢市' => {
       'area_code' => '76',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '鳳珠郡穴水町' => {
       'area_code' => '768',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '鳳珠郡能登町' => {
       'area_code' => '768',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '鹿島郡' => {
       'area_code' => '767',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '神奈川県' => {
     '三浦市' => {
       'area_code' => '46',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '三浦郡' => {
       'area_code' => '46',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '中郡' => {
       'area_code' => '463',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊勢原市' => {
       'area_code' => '463',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南足柄市' => {
       'area_code' => '465',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '厚木市' => {
       'area_code' => '46',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '大和市' => {
       'area_code' => '46',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '小田原市' => {
       'area_code' => '465',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '川崎市' => {
       'area_code' => '44',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '平塚市' => {
       'area_code' => '463',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '座間市' => {
       'area_code' => '46',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '座間市相模が丘一丁目' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '座間市相模が丘五丁目' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '愛甲郡' => {
       'area_code' => '46',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '横浜市' => {
       'area_code' => '45',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '横須賀市' => {
       'area_code' => '46',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '海老名市' => {
       'area_code' => '46',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '相模原市' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '相模原市南区新戸' => {
       'area_code' => '46',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '相模原市南区新磯野一丁目' => {
       'area_code' => '46',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '相模原市南区新磯野三丁目' => {
       'area_code' => '46',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '相模原市南区新磯野五丁目' => {
       'area_code' => '46',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '相模原市南区新磯野四丁目' => {
       'area_code' => '46',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '相模原市南区相武台' => {
       'area_code' => '46',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '相模原市南区相武台団地' => {
       'area_code' => '46',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '相模原市南区磯部' => {
       'area_code' => '46',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '相模原市緑区与瀬' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '相模原市緑区与瀬本町' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '相模原市緑区佐野川' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '相模原市緑区千木良' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '相模原市緑区吉野' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '相模原市緑区名倉' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '相模原市緑区寸沢嵐' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '相模原市緑区小原' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '相模原市緑区小渕' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '相模原市緑区日連' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '相模原市緑区澤井' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '相模原市緑区牧野' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '相模原市緑区若柳' => {
       'area_code' => '42',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '秦野市' => {
       'area_code' => '463',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '綾瀬市' => {
       'area_code' => '467',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '茅ヶ崎市' => {
       'area_code' => '467',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '藤沢市' => {
       'area_code' => '466',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '足柄上郡' => {
       'area_code' => '465',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '足柄下郡湯河原町' => {
       'area_code' => '465',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '足柄下郡真鶴町' => {
       'area_code' => '465',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '足柄下郡箱根町' => {
       'area_code' => '460',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '逗子市' => {
       'area_code' => '46',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '逗子市小坪' => {
       'area_code' => '467',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '鎌倉市' => {
       'area_code' => '467',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '高座郡' => {
       'area_code' => '467',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '福井県' => {
     'あわら市' => {
       'area_code' => '776',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町三方' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町上瀬' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町上野' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町世久見' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町中央' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町井崎' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町佐古' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町倉見' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町北前川' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町南前川' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町向笠' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町塩坂越' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町小川' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町岩屋' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町島の内' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町常神' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町成出' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町成願寺' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町東黒田' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町横渡' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町気山' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町海山' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町生倉' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町田上' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町田井' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町田名' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町白屋' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町相田' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町神子' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町能登野' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町藤井' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町遊子' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町館川' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方上中郡若狭町鳥浜' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三方郡' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '丹生郡' => {
       'area_code' => '778',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '今立郡' => {
       'area_code' => '778',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '勝山市' => {
       'area_code' => '779',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南条郡' => {
       'area_code' => '778',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吉田郡' => {
       'area_code' => '776',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '坂井市' => {
       'area_code' => '776',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大野市' => {
       'area_code' => '779',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大飯郡' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '小浜市' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '敦賀市' => {
       'area_code' => '770',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '福井市' => {
       'area_code' => '776',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '越前市' => {
       'area_code' => '778',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '鯖江市' => {
       'area_code' => '778',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '福岡県' => {
     'うきは市' => {
       'area_code' => '943',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     'みやま市' => {
       'area_code' => '944',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     'みやま市瀬高町長田' => {
       'area_code' => '942',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三井郡' => {
       'area_code' => '942',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三潴郡' => {
       'area_code' => '944',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '中間市' => {
       'area_code' => '93',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '久留米市' => {
       'area_code' => '942',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '久留米市田主丸町' => {
       'area_code' => '943',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '京都郡みやこ町' => {
       'area_code' => '930',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '京都郡苅田町' => {
       'area_code' => '93',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '京都郡苅田町上片島' => {
       'area_code' => '930',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '京都郡苅田町下新津' => {
       'area_code' => '930',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '京都郡苅田町下片島' => {
       'area_code' => '930',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '京都郡苅田町与原' => {
       'area_code' => '930',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '京都郡苅田町二崎' => {
       'area_code' => '930',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '京都郡苅田町山口' => {
       'area_code' => '930',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '京都郡苅田町岡崎' => {
       'area_code' => '930',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '京都郡苅田町新津' => {
       'area_code' => '930',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '京都郡苅田町法正寺' => {
       'area_code' => '930',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '京都郡苅田町稲光' => {
       'area_code' => '930',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '京都郡苅田町葛川' => {
       'area_code' => '930',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '京都郡苅田町谷' => {
       'area_code' => '930',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '京都郡苅田町鋤崎' => {
       'area_code' => '930',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '京都郡苅田町黒添' => {
       'area_code' => '930',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '八女市' => {
       'area_code' => '943',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '八女郡広川町' => {
       'area_code' => '943',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '八女郡広川町広川' => {
       'area_code' => '942',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '八女郡広川町藤田' => {
       'area_code' => '942',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '北九州市' => {
       'area_code' => '93',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '古賀市' => {
       'area_code' => '92',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '嘉穂郡' => {
       'area_code' => '948',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '嘉麻市' => {
       'area_code' => '948',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大川市' => {
       'area_code' => '944',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大牟田市' => {
       'area_code' => '944',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大野城市' => {
       'area_code' => '92',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '太宰府市' => {
       'area_code' => '92',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '宗像市' => {
       'area_code' => '940',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宮若市' => {
       'area_code' => '949',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '小郡市' => {
       'area_code' => '942',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '春日市' => {
       'area_code' => '92',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '朝倉市' => {
       'area_code' => '946',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '朝倉郡' => {
       'area_code' => '946',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '柳川市' => {
       'area_code' => '944',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '田川市' => {
       'area_code' => '947',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '田川郡' => {
       'area_code' => '947',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '直方市' => {
       'area_code' => '949',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '福岡市' => {
       'area_code' => '92',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '福津市' => {
       'area_code' => '940',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '筑後市' => {
       'area_code' => '942',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '筑後市下妻' => {
       'area_code' => '944',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '筑後市富安' => {
       'area_code' => '944',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '筑後市馬間田' => {
       'area_code' => '944',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '筑紫郡' => {
       'area_code' => '92',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '筑紫野市' => {
       'area_code' => '92',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '築上郡上毛町' => {
       'area_code' => '979',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '築上郡吉富町' => {
       'area_code' => '979',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '築上郡築上町' => {
       'area_code' => '930',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '糟屋郡' => {
       'area_code' => '92',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '糸島市' => {
       'area_code' => '92',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '行橋市' => {
       'area_code' => '930',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '豊前市' => {
       'area_code' => '979',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '遠賀郡' => {
       'area_code' => '93',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '鞍手郡小竹町' => {
       'area_code' => '9496',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '鞍手郡鞍手町' => {
       'area_code' => '949',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '飯塚市' => {
       'area_code' => '948',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '飯塚市佐與' => {
       'area_code' => '9496',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '飯塚市勢田' => {
       'area_code' => '9496',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '飯塚市口原' => {
       'area_code' => '9496',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '飯塚市鹿毛馬' => {
       'area_code' => '9496',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     }
   },
   '福島県' => {
     'いわき市' => {
       'area_code' => '246',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '二本松市' => {
       'area_code' => '243',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊達市' => {
       'area_code' => '24',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '伊達郡' => {
       'area_code' => '24',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '会津若松市' => {
       'area_code' => '242',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南会津郡下郷町' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南会津郡南会津町' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南会津郡南会津町中荒井' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南会津郡南会津町丹藤' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南会津郡南会津町塩江' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南会津郡南会津町川島' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南会津郡南会津町栗生沢' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南会津郡南会津町水無' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南会津郡南会津町永田' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南会津郡南会津町滝原' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南会津郡南会津町田島' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南会津郡南会津町田部' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南会津郡南会津町福米沢' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南会津郡南会津町糸沢' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南会津郡南会津町藤生' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南会津郡南会津町金井沢' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南会津郡南会津町針生' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南会津郡南会津町長野' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南会津郡南会津町関本' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南会津郡南会津町静川' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南会津郡南会津町高野' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南会津郡只見町' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南会津郡檜枝岐村' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南相馬市' => {
       'area_code' => '244',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '双葉郡' => {
       'area_code' => '240',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '喜多方市' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '喜多方市高郷町' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大沼郡三島町' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大沼郡会津美里町' => {
       'area_code' => '242',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大沼郡昭和村' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大沼郡金山町' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '安達郡' => {
       'area_code' => '243',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '岩瀬郡' => {
       'area_code' => '248',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '本宮市' => {
       'area_code' => '243',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東白川郡' => {
       'area_code' => '247',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '河沼郡会津坂下町' => {
       'area_code' => '242',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '河沼郡柳津町' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '河沼郡湯川村' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '田村市' => {
       'area_code' => '247',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '田村郡' => {
       'area_code' => '247',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '田村郡三春町上舞木' => {
       'area_code' => '24',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '田村郡三春町下舞木' => {
       'area_code' => '24',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '田村郡三春町斎藤' => {
       'area_code' => '24',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '田村郡三春町沼沢' => {
       'area_code' => '24',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '白河市' => {
       'area_code' => '248',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '相馬市' => {
       'area_code' => '244',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '相馬郡' => {
       'area_code' => '244',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '石川郡' => {
       'area_code' => '247',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '福島市' => {
       'area_code' => '24',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '耶麻郡北塩原村' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '耶麻郡猪苗代町' => {
       'area_code' => '242',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '耶麻郡磐梯町' => {
       'area_code' => '242',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '耶麻郡西会津町' => {
       'area_code' => '241',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西白河郡' => {
       'area_code' => '248',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '郡山市' => {
       'area_code' => '24',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '須賀川市' => {
       'area_code' => '248',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '秋田県' => {
     'にかほ市' => {
       'area_code' => '184',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '仙北市' => {
       'area_code' => '187',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '仙北郡美郷町' => {
       'area_code' => '187',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '仙北郡美郷町野荒町' => {
       'area_code' => '182',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '仙北郡美郷町金沢' => {
       'area_code' => '182',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '北秋田市' => {
       'area_code' => '186',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '北秋田郡' => {
       'area_code' => '186',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南秋田郡五城目町' => {
       'area_code' => '18',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '南秋田郡井川町' => {
       'area_code' => '18',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '南秋田郡八郎潟町' => {
       'area_code' => '18',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '南秋田郡大潟村' => {
       'area_code' => '185',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大仙市' => {
       'area_code' => '187',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大仙市上鶯野' => {
       'area_code' => '187',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大仙市下鶯野' => {
       'area_code' => '187',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大仙市北長野' => {
       'area_code' => '187',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大仙市協和上淀川' => {
       'area_code' => '18',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '大仙市協和下淀川' => {
       'area_code' => '18',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '大仙市協和中淀川' => {
       'area_code' => '18',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '大仙市協和境' => {
       'area_code' => '18',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '大仙市協和小種' => {
       'area_code' => '18',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '大仙市協和峰吉川' => {
       'area_code' => '18',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '大仙市協和稲沢' => {
       'area_code' => '18',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '大仙市協和船岡' => {
       'area_code' => '18',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '大仙市協和船沢' => {
       'area_code' => '18',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '大仙市協和荒川' => {
       'area_code' => '18',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '大仙市大神成' => {
       'area_code' => '187',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大仙市栗沢' => {
       'area_code' => '187',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大仙市清水' => {
       'area_code' => '187',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大仙市豊岡' => {
       'area_code' => '187',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大仙市豊川' => {
       'area_code' => '187',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大仙市鑓見内' => {
       'area_code' => '187',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大仙市長戸呂' => {
       'area_code' => '187',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大仙市長野' => {
       'area_code' => '187',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大館市' => {
       'area_code' => '186',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '山本郡' => {
       'area_code' => '185',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '横手市' => {
       'area_code' => '182',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '湯沢市' => {
       'area_code' => '183',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '潟上市' => {
       'area_code' => '18',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '由利本荘市' => {
       'area_code' => '184',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '男鹿市' => {
       'area_code' => '185',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '秋田市' => {
       'area_code' => '18',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '能代市' => {
       'area_code' => '185',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '雄勝郡東成瀬村' => {
       'area_code' => '182',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '雄勝郡羽後町' => {
       'area_code' => '183',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '鹿角市' => {
       'area_code' => '186',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '鹿角郡小坂町' => {
       'area_code' => '186',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '群馬県' => {
     'みどり市' => {
       'area_code' => '277',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊勢崎市' => {
       'area_code' => '270',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '佐波郡' => {
       'area_code' => '270',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '利根郡' => {
       'area_code' => '278',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '前橋市' => {
       'area_code' => '27',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '北群馬郡' => {
       'area_code' => '279',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吾妻郡' => {
       'area_code' => '279',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吾妻郡中之条町' => {
       'area_code' => '279',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吾妻郡中之条町入山' => {
       'area_code' => '279',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吾妻郡中之条町太子' => {
       'area_code' => '279',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吾妻郡中之条町小雨' => {
       'area_code' => '279',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吾妻郡中之条町日影' => {
       'area_code' => '279',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吾妻郡中之条町生須' => {
       'area_code' => '279',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吾妻郡中之条町赤岩' => {
       'area_code' => '279',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吾妻郡東吾妻町' => {
       'area_code' => '279',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '吾妻郡高山村' => {
       'area_code' => '279',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '多野郡' => {
       'area_code' => '274',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '太田市' => {
       'area_code' => '276',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '太田市六千石町' => {
       'area_code' => '277',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '太田市大久保町' => {
       'area_code' => '277',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '太田市大原町' => {
       'area_code' => '277',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '太田市寄合町' => {
       'area_code' => '277',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '太田市山之神町' => {
       'area_code' => '277',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '太田市市場町' => {
       'area_code' => '284',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '太田市藪塚町' => {
       'area_code' => '277',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '安中市' => {
       'area_code' => '27',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '富岡市' => {
       'area_code' => '274',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '桐生市' => {
       'area_code' => '277',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '沼田市' => {
       'area_code' => '278',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '渋川市' => {
       'area_code' => '279',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '甘楽郡' => {
       'area_code' => '274',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '藤岡市' => {
       'area_code' => '274',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '邑楽郡' => {
       'area_code' => '276',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '館林市' => {
       'area_code' => '276',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '高崎市' => {
       'area_code' => '27',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '高崎市新町' => {
       'area_code' => '274',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '茨城県' => {
     'かすみがうら市' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     'かすみがうら市一の瀬' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'かすみがうら市一の瀬上流' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'かすみがうら市三ツ木' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'かすみがうら市上大堤' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'かすみがうら市上軽部' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'かすみがうら市下大堤' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'かすみがうら市下軽部' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'かすみがうら市中台' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'かすみがうら市加茂' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'かすみがうら市南根本' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'かすみがうら市坂' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'かすみがうら市大和田' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'かすみがうら市安食' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'かすみがうら市宍倉' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'かすみがうら市岩坪' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'かすみがうら市志戸崎' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'かすみがうら市戸崎' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'かすみがうら市有河' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'かすみがうら市柏崎' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'かすみがうら市深谷' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'かすみがうら市牛渡' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'かすみがうら市田伏' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'かすみがうら市男神' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'かすみがうら市西成井' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'つくばみらい市' => {
       'area_code' => '297',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     'つくば市' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'ひたちなか市' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '下妻市' => {
       'area_code' => '296',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '久慈郡' => {
       'area_code' => '295',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '北相馬郡' => {
       'area_code' => '297',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '北茨城市' => {
       'area_code' => '293',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '取手市' => {
       'area_code' => '297',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '古河市' => {
       'area_code' => '280',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '土浦市' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '坂東市' => {
       'area_code' => '297',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '坂東市山' => {
       'area_code' => '280',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '坂東市生子' => {
       'area_code' => '280',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '坂東市生子新田' => {
       'area_code' => '280',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '坂東市菅谷' => {
       'area_code' => '280',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '坂東市逆井' => {
       'area_code' => '280',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '守谷市' => {
       'area_code' => '297',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '小美玉市' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '常総市' => {
       'area_code' => '297',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '常陸大宮市' => {
       'area_code' => '295',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '常陸太田市' => {
       'area_code' => '294',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '日立市' => {
       'area_code' => '294',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東茨城郡城里町' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東茨城郡城里町上赤沢' => {
       'area_code' => '296',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東茨城郡城里町下赤沢' => {
       'area_code' => '296',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東茨城郡城里町塩子' => {
       'area_code' => '296',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東茨城郡城里町大網' => {
       'area_code' => '296',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東茨城郡城里町小勝' => {
       'area_code' => '296',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東茨城郡城里町徳蔵' => {
       'area_code' => '296',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東茨城郡城里町真端' => {
       'area_code' => '296',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東茨城郡大洗町' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東茨城郡茨城町' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '桜川市' => {
       'area_code' => '296',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '桜川市大国玉' => {
       'area_code' => '296',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '桜川市大曽根' => {
       'area_code' => '296',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '桜川市本木' => {
       'area_code' => '296',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '桜川市東飯田' => {
       'area_code' => '296',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '桜川市真壁町' => {
       'area_code' => '296',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '桜川市羽田' => {
       'area_code' => '296',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '桜川市金敷' => {
       'area_code' => '296',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '桜川市阿部田' => {
       'area_code' => '296',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '桜川市青木' => {
       'area_code' => '296',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '桜川市高久' => {
       'area_code' => '296',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '桜川市高森' => {
       'area_code' => '296',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '水戸市' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '潮来市' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '牛久市' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '猿島郡' => {
       'area_code' => '280',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '石岡市' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '神栖市' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '神栖市土合中央' => {
       'area_code' => '479',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '神栖市土合北' => {
       'area_code' => '479',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '神栖市土合南' => {
       'area_code' => '479',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '神栖市土合本町' => {
       'area_code' => '479',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '神栖市土合東' => {
       'area_code' => '479',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '神栖市土合西' => {
       'area_code' => '479',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '神栖市太田' => {
       'area_code' => '479',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '神栖市太田新町' => {
       'area_code' => '479',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '神栖市柳川' => {
       'area_code' => '479',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '神栖市柳川中央' => {
       'area_code' => '479',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '神栖市波崎' => {
       'area_code' => '479',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '神栖市波崎新港' => {
       'area_code' => '479',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '神栖市矢田部' => {
       'area_code' => '479',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '神栖市砂山' => {
       'area_code' => '479',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '神栖市若松中央' => {
       'area_code' => '479',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '神栖市須田' => {
       'area_code' => '479',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '稲敷市三島' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市上之島' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市上根本' => {
       'area_code' => '297',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市上須田' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市下太田' => {
       'area_code' => '297',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市下根本' => {
       'area_code' => '297',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市下須田' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市下須田新田' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市中山' => {
       'area_code' => '297',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市中島' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市今' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市伊佐津' => {
       'area_code' => '297',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市伊佐部' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市伊崎' => {
       'area_code' => '297',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市佐原' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市佐原下手' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市佐原組新田' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市余津谷' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市光葉' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市八千石' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市八筋川' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市六角' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市南太田' => {
       'area_code' => '297',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市四ッ谷' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市堀川' => {
       'area_code' => '297',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市境島' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市大島' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市太田' => {
       'area_code' => '297',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市寺内' => {
       'area_code' => '297',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市小野' => {
       'area_code' => '297',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市市崎' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市幸田' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市戌渡' => {
       'area_code' => '297',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市手賀組新田' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市押砂' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市新橋' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市曲渕' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市本新' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市東大沼' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市柴崎' => {
       'area_code' => '297',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市橋向' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市清久島' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市清水' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市狸穴' => {
       'area_code' => '297',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市町田' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市石納' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市神崎本宿' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市神崎神宿' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市福田' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市結佐' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市羽賀浦' => {
       'area_code' => '297',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市脇川' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市西代' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市角崎' => {
       'area_code' => '297',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市野間谷原' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市釜井' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市阿波崎' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市阿波崎新田' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷市飯島' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷郡河内町' => {
       'area_code' => '297',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '稲敷郡美浦村' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '稲敷郡阿見町' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '笠間市' => {
       'area_code' => '296',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '笠間市上郷' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '笠間市下郷' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '笠間市吉岡' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '笠間市土師' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '笠間市安居' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '笠間市市野谷' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '笠間市押辺' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '笠間市泉' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '笠間市泉市野谷入会地' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '笠間市福島' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '筑西市' => {
       'area_code' => '296',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '結城市' => {
       'area_code' => '296',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '結城郡' => {
       'area_code' => '296',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市三和' => {
       'area_code' => '291',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市両宿' => {
       'area_code' => '291',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市中根' => {
       'area_code' => '291',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市井上' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市井上藤井' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市八木蒔' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市内宿' => {
       'area_code' => '291',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市北高岡' => {
       'area_code' => '291',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市南高岡' => {
       'area_code' => '291',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市吉川' => {
       'area_code' => '291',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市小幡' => {
       'area_code' => '291',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市小貫' => {
       'area_code' => '291',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市山田' => {
       'area_code' => '291',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市成田' => {
       'area_code' => '291',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市手賀' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市捻木' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市次木' => {
       'area_code' => '291',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市沖洲' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市浜' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市玉造乙' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市玉造甲' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市繁昌' => {
       'area_code' => '291',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市羽生' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市芹沢' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市若海' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市荒宿' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市藤井' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市行戸' => {
       'area_code' => '291',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市西蓮寺' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市谷島' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '行方市長野江' => {
       'area_code' => '291',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '那珂市' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '那珂郡' => {
       'area_code' => '29',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '鉾田市' => {
       'area_code' => '291',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '高萩市' => {
       'area_code' => '293',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '鹿嶋市' => {
       'area_code' => '299',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '龍ヶ崎市' => {
       'area_code' => '297',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '長崎県' => {
     '五島市' => {
       'area_code' => '959',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '佐世保市' => {
       'area_code' => '956',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '佐世保市宇久町' => {
       'area_code' => '959',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '北松浦郡' => {
       'area_code' => '959',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '北松浦郡佐々町' => {
       'area_code' => '956',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南島原市' => {
       'area_code' => '957',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南松浦郡' => {
       'area_code' => '959',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '壱岐市' => {
       'area_code' => '920',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大村市' => {
       'area_code' => '957',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '対馬市' => {
       'area_code' => '920',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '島原市' => {
       'area_code' => '957',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '平戸市' => {
       'area_code' => '950',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東彼杵郡' => {
       'area_code' => '956',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東彼杵郡東彼杵町' => {
       'area_code' => '957',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '松浦市' => {
       'area_code' => '956',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '松浦市福島町' => {
       'area_code' => '955',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '松浦市鷹島町' => {
       'area_code' => '955',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西彼杵郡' => {
       'area_code' => '95',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '西海市' => {
       'area_code' => '959',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '諫早市' => {
       'area_code' => '957',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長崎市' => {
       'area_code' => '95',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '長崎市上大野町' => {
       'area_code' => '959',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長崎市上黒崎町' => {
       'area_code' => '959',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長崎市下大野町' => {
       'area_code' => '959',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長崎市下黒崎町' => {
       'area_code' => '959',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長崎市新牧野町' => {
       'area_code' => '959',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長崎市東出津町' => {
       'area_code' => '959',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長崎市永田町' => {
       'area_code' => '959',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長崎市池島町' => {
       'area_code' => '959',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長崎市神浦上大中尾町' => {
       'area_code' => '959',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長崎市神浦上道徳町' => {
       'area_code' => '959',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長崎市神浦下大中尾町' => {
       'area_code' => '959',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長崎市神浦下道徳町' => {
       'area_code' => '959',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長崎市神浦丸尾町' => {
       'area_code' => '959',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長崎市神浦北大中尾町' => {
       'area_code' => '959',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長崎市神浦口福町' => {
       'area_code' => '959',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長崎市神浦向町' => {
       'area_code' => '959',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長崎市神浦夏井町' => {
       'area_code' => '959',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長崎市神浦扇山町' => {
       'area_code' => '959',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長崎市神浦江川町' => {
       'area_code' => '959',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長崎市西出津町' => {
       'area_code' => '959',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長崎市赤首町' => {
       'area_code' => '959',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '雲仙市' => {
       'area_code' => '957',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '雲仙市千々石町' => {
       'area_code' => '957',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '雲仙市吾妻町' => {
       'area_code' => '957',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '雲仙市愛野町' => {
       'area_code' => '957',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '長野県' => {
     '上伊那郡' => {
       'area_code' => '265',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上伊那郡辰野町' => {
       'area_code' => '266',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上水内郡' => {
       'area_code' => '26',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '上田市' => {
       'area_code' => '268',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上高井郡' => {
       'area_code' => '26',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '下伊那郡' => {
       'area_code' => '265',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '下伊那郡下條村' => {
       'area_code' => '260',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '下伊那郡売木村' => {
       'area_code' => '260',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '下伊那郡天龍村' => {
       'area_code' => '260',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '下伊那郡泰阜村' => {
       'area_code' => '260',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '下伊那郡阿南町' => {
       'area_code' => '260',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '下水内郡' => {
       'area_code' => '269',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '下高井郡山之内町' => {
       'area_code' => '269',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '下高井郡木島平村' => {
       'area_code' => '269',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '下高井郡野沢温泉村' => {
       'area_code' => '269',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '中野市' => {
       'area_code' => '269',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊那市' => {
       'area_code' => '265',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '佐久市' => {
       'area_code' => '267',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '北佐久郡' => {
       'area_code' => '267',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '北佐久郡立科町' => {
       'area_code' => '267',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '北安曇郡' => {
       'area_code' => '261',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '千曲市' => {
       'area_code' => '26',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '南佐久郡' => {
       'area_code' => '267',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '埴科郡' => {
       'area_code' => '268',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '塩尻市' => {
       'area_code' => '263',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '塩尻市奈良井' => {
       'area_code' => '264',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '塩尻市木曽平沢' => {
       'area_code' => '264',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '塩尻市贄川' => {
       'area_code' => '264',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大町市' => {
       'area_code' => '261',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '安曇野市' => {
       'area_code' => '263',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '小県郡' => {
       'area_code' => '268',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '小諸市' => {
       'area_code' => '267',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '岡谷市' => {
       'area_code' => '266',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '木曽郡' => {
       'area_code' => '264',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '木曽郡南木曽町田立' => {
       'area_code' => '573',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東御市' => {
       'area_code' => '268',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東筑摩郡' => {
       'area_code' => '263',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '松本市' => {
       'area_code' => '263',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '茅野市' => {
       'area_code' => '266',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '諏訪市' => {
       'area_code' => '266',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '諏訪郡' => {
       'area_code' => '266',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長野市' => {
       'area_code' => '26',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '須坂市' => {
       'area_code' => '26',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '飯山市' => {
       'area_code' => '269',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '飯田市' => {
       'area_code' => '265',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '飯田市上村' => {
       'area_code' => '260',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '飯田市南信濃八重河内' => {
       'area_code' => '260',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '飯田市南信濃南和田' => {
       'area_code' => '260',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '飯田市南信濃和田' => {
       'area_code' => '260',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '飯田市南信濃木沢' => {
       'area_code' => '260',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '駒ヶ根市' => {
       'area_code' => '265',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '青森県' => {
     'つがる市' => {
       'area_code' => '173',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     'むつ市' => {
       'area_code' => '175',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三戸郡三戸町' => {
       'area_code' => '179',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三戸郡五戸町' => {
       'area_code' => '178',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三戸郡南部町' => {
       'area_code' => '178',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三戸郡南部町大向' => {
       'area_code' => '179',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三戸郡南部町小向' => {
       'area_code' => '179',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三戸郡南部町沖田面' => {
       'area_code' => '179',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三戸郡南部町玉掛' => {
       'area_code' => '179',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三戸郡南部町相内' => {
       'area_code' => '179',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三戸郡南部町赤石' => {
       'area_code' => '179',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三戸郡新郷村' => {
       'area_code' => '178',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三戸郡田子町' => {
       'area_code' => '179',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三戸郡階上町' => {
       'area_code' => '178',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '三沢市' => {
       'area_code' => '176',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上北郡おいらせ町' => {
       'area_code' => '178',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上北郡七戸町' => {
       'area_code' => '176',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上北郡六ヶ所村' => {
       'area_code' => '175',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上北郡六戸町' => {
       'area_code' => '176',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上北郡東北町' => {
       'area_code' => '175',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上北郡東北町上北北' => {
       'area_code' => '176',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上北郡東北町上北南' => {
       'area_code' => '176',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上北郡東北町上野' => {
       'area_code' => '176',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上北郡東北町大浦' => {
       'area_code' => '176',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上北郡東北町新館' => {
       'area_code' => '176',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上北郡東北町旭北' => {
       'area_code' => '176',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上北郡東北町旭南' => {
       'area_code' => '176',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上北郡横浜町' => {
       'area_code' => '175',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '上北郡野辺地町' => {
       'area_code' => '175',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '下北郡' => {
       'area_code' => '175',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '中津軽郡' => {
       'area_code' => '172',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '五所川原市' => {
       'area_code' => '173',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '八戸市' => {
       'area_code' => '178',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '北津軽郡中泊町' => {
       'area_code' => '173',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '北津軽郡板柳町' => {
       'area_code' => '172',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '北津軽郡鶴田町' => {
       'area_code' => '173',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '十和田市' => {
       'area_code' => '176',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南津軽郡' => {
       'area_code' => '172',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '平川市' => {
       'area_code' => '172',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '弘前市' => {
       'area_code' => '172',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東津軽郡今別町' => {
       'area_code' => '174',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東津軽郡外ヶ浜町' => {
       'area_code' => '174',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東津軽郡平内町' => {
       'area_code' => '17',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東津軽郡蓬田村' => {
       'area_code' => '174',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西津軽郡' => {
       'area_code' => '173',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '青森市' => {
       'area_code' => '17',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '青森市浪岡' => {
       'area_code' => '172',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '黒石市' => {
       'area_code' => '172',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '静岡県' => {
     '三島市' => {
       'area_code' => '55',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '下田市' => {
       'area_code' => '558',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊東市' => {
       'area_code' => '557',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊豆の国市' => {
       'area_code' => '55',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '伊豆の国市三福' => {
       'area_code' => '558',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊豆の国市下畑' => {
       'area_code' => '558',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊豆の国市中島' => {
       'area_code' => '558',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊豆の国市吉田' => {
       'area_code' => '558',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊豆の国市大仁' => {
       'area_code' => '558',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊豆の国市守木' => {
       'area_code' => '558',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊豆の国市宗光寺' => {
       'area_code' => '558',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊豆の国市御門' => {
       'area_code' => '558',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊豆の国市星和' => {
       'area_code' => '558',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊豆の国市浮橋' => {
       'area_code' => '558',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊豆の国市田中山' => {
       'area_code' => '558',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊豆の国市田京' => {
       'area_code' => '558',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊豆の国市田原野' => {
       'area_code' => '558',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊豆の国市白山堂' => {
       'area_code' => '558',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊豆の国市神島' => {
       'area_code' => '558',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊豆の国市立花' => {
       'area_code' => '558',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊豆の国市長者原' => {
       'area_code' => '558',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊豆市' => {
       'area_code' => '558',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊豆市冷川' => {
       'area_code' => '557',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '周智郡' => {
       'area_code' => '538',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '富士宮市' => {
       'area_code' => '544',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '富士市' => {
       'area_code' => '545',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '島田市' => {
       'area_code' => '547',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '御前崎市' => {
       'area_code' => '537',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '御前崎市御前崎' => {
       'area_code' => '548',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '御前崎市港' => {
       'area_code' => '548',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '御前崎市白羽' => {
       'area_code' => '548',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '御殿場市' => {
       'area_code' => '550',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '掛川市' => {
       'area_code' => '537',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '榛原郡吉田町' => {
       'area_code' => '548',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '榛原郡川根本町' => {
       'area_code' => '547',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '沼津市' => {
       'area_code' => '55',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '沼津市井田' => {
       'area_code' => '558',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '沼津市戸田' => {
       'area_code' => '558',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '浜松市' => {
       'area_code' => '53',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '湖西市' => {
       'area_code' => '53',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '焼津市' => {
       'area_code' => '54',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '熱海市' => {
       'area_code' => '557',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熱海市泉元宮上分' => {
       'area_code' => '465',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熱海市泉元宮下分' => {
       'area_code' => '465',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熱海市泉元門川分' => {
       'area_code' => '465',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '牧之原市' => {
       'area_code' => '548',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '田方郡' => {
       'area_code' => '55',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '磐田市' => {
       'area_code' => '538',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '磐田市万瀬' => {
       'area_code' => '539',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '磐田市三家' => {
       'area_code' => '539',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '磐田市上神増' => {
       'area_code' => '539',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '磐田市上野部' => {
       'area_code' => '539',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '磐田市下神増' => {
       'area_code' => '539',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '磐田市下野部' => {
       'area_code' => '539',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '磐田市合代島' => {
       'area_code' => '539',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '磐田市壱貫地' => {
       'area_code' => '539',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '磐田市大平' => {
       'area_code' => '539',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '磐田市大当所' => {
       'area_code' => '539',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '磐田市家田' => {
       'area_code' => '539',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '磐田市岩室' => {
       'area_code' => '539',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '磐田市平松' => {
       'area_code' => '539',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '磐田市惣兵衛下新田' => {
       'area_code' => '539',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '磐田市掛下' => {
       'area_code' => '539',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '磐田市敷地' => {
       'area_code' => '539',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '磐田市新開' => {
       'area_code' => '539',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '磐田市松之木島' => {
       'area_code' => '539',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '磐田市社山' => {
       'area_code' => '539',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '磐田市神増' => {
       'area_code' => '539',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '磐田市虫生' => {
       'area_code' => '539',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '菊川市' => {
       'area_code' => '537',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '菊川市倉沢' => {
       'area_code' => '548',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '菊川市小沢' => {
       'area_code' => '548',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '菊川市沢水加' => {
       'area_code' => '548',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '菊川市牛渕' => {
       'area_code' => '548',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '藤枝市' => {
       'area_code' => '54',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '袋井市' => {
       'area_code' => '538',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '裾野市' => {
       'area_code' => '55',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '裾野市茶畑' => {
       'area_code' => '460',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '賀茂郡南伊豆町' => {
       'area_code' => '558',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '賀茂郡東伊豆町' => {
       'area_code' => '557',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '賀茂郡松崎町' => {
       'area_code' => '558',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '賀茂郡河津町' => {
       'area_code' => '558',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '賀茂郡西伊豆町' => {
       'area_code' => '558',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '静岡市' => {
       'area_code' => '54',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '駿東郡小山町' => {
       'area_code' => '550',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '駿東郡清水町' => {
       'area_code' => '55',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '駿東郡長泉町' => {
       'area_code' => '55',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     }
   },
   '香川県' => {
     'さぬき市' => {
       'area_code' => '879',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     'さぬき市小田' => {
       'area_code' => '87',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'さぬき市志度' => {
       'area_code' => '87',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'さぬき市末' => {
       'area_code' => '87',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'さぬき市鴨庄' => {
       'area_code' => '87',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     'さぬき市鴨部' => {
       'area_code' => '87',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '三豊市' => {
       'area_code' => '875',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '丸亀市' => {
       'area_code' => '877',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '仲多度郡' => {
       'area_code' => '877',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '善通寺市' => {
       'area_code' => '877',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '坂出市' => {
       'area_code' => '877',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '小豆郡' => {
       'area_code' => '879',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '木田郡' => {
       'area_code' => '87',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '東かがわ市' => {
       'area_code' => '879',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '綾歌郡宇多津町' => {
       'area_code' => '877',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '綾歌郡綾川町' => {
       'area_code' => '87',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '観音寺市' => {
       'area_code' => '875',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '観音寺市豊浜町箕浦' => {
       'area_code' => '896',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '香川郡' => {
       'area_code' => '87',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '高松市' => {
       'area_code' => '87',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     }
   },
   '高知県' => {
     '南国市' => {
       'area_code' => '88',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '吾川郡いの町' => {
       'area_code' => '88',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '吾川郡仁淀川町' => {
       'area_code' => '889',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '四万十市' => {
       'area_code' => '880',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '土佐市' => {
       'area_code' => '88',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '土佐清水市' => {
       'area_code' => '880',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '土佐郡' => {
       'area_code' => '887',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '安芸市' => {
       'area_code' => '887',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '安芸郡北川村' => {
       'area_code' => '887',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '安芸郡奈半利町' => {
       'area_code' => '887',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '安芸郡安田町' => {
       'area_code' => '887',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '安芸郡東洋町' => {
       'area_code' => '887',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '安芸郡田野町' => {
       'area_code' => '887',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '安芸郡芸西村' => {
       'area_code' => '887',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '安芸郡馬路村' => {
       'area_code' => '887',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '室戸市' => {
       'area_code' => '887',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '宿毛市' => {
       'area_code' => '880',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '幡多郡' => {
       'area_code' => '880',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '幡多郡大月町' => {
       'area_code' => '880',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡郡' => {
       'area_code' => '887',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡郡大豊町久寿軒' => {
       'area_code' => '887',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡郡大豊町戸手野' => {
       'area_code' => '887',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡郡大豊町角茂谷' => {
       'area_code' => '887',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '長岡郡大豊町馬瀬' => {
       'area_code' => '887',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '須崎市' => {
       'area_code' => '889',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '須崎市浦ノ内下中山' => {
       'area_code' => '88',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '須崎市浦ノ内今川内' => {
       'area_code' => '88',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '須崎市浦ノ内出見' => {
       'area_code' => '88',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '須崎市浦ノ内塩間' => {
       'area_code' => '88',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '須崎市浦ノ内灰方' => {
       'area_code' => '88',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '須崎市浦ノ内福良' => {
       'area_code' => '88',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '香南市' => {
       'area_code' => '887',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '香美市' => {
       'area_code' => '887',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '高岡郡中土佐町' => {
       'area_code' => '889',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '高岡郡佐川町' => {
       'area_code' => '889',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '高岡郡四万十町' => {
       'area_code' => '880',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '高岡郡日高村' => {
       'area_code' => '889',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '高岡郡檮原町' => {
       'area_code' => '889',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '高岡郡津野町' => {
       'area_code' => '889',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '高岡郡越知町' => {
       'area_code' => '889',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '高知市' => {
       'area_code' => '88',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     }
   },
   '鳥取県' => {
     '倉吉市' => {
       'area_code' => '858',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '八頭郡' => {
       'area_code' => '858',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '境港市' => {
       'area_code' => '859',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '岩美郡' => {
       'area_code' => '857',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '日野郡' => {
       'area_code' => '859',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '東伯郡' => {
       'area_code' => '858',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '米子市' => {
       'area_code' => '859',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西伯郡' => {
       'area_code' => '859',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西伯郡大山町上市' => {
       'area_code' => '858',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西伯郡大山町下市' => {
       'area_code' => '858',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西伯郡大山町下甲' => {
       'area_code' => '858',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西伯郡大山町住吉' => {
       'area_code' => '858',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西伯郡大山町八重' => {
       'area_code' => '858',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西伯郡大山町塩津' => {
       'area_code' => '858',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西伯郡大山町岡' => {
       'area_code' => '858',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西伯郡大山町御崎' => {
       'area_code' => '858',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西伯郡大山町束積' => {
       'area_code' => '858',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西伯郡大山町松河原' => {
       'area_code' => '858',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西伯郡大山町栄田' => {
       'area_code' => '858',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西伯郡大山町樋口' => {
       'area_code' => '858',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西伯郡大山町殿河内' => {
       'area_code' => '858',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西伯郡大山町潮音寺' => {
       'area_code' => '858',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西伯郡大山町田中' => {
       'area_code' => '858',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西伯郡大山町石井垣' => {
       'area_code' => '858',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西伯郡大山町羽田井' => {
       'area_code' => '858',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西伯郡大山町赤坂' => {
       'area_code' => '858',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西伯郡大山町退休寺' => {
       'area_code' => '858',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西伯郡大山町長野' => {
       'area_code' => '858',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西伯郡大山町高橋' => {
       'area_code' => '858',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '鳥取市' => {
       'area_code' => '857',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '鳥取市佐治町' => {
       'area_code' => '858',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '鳥取市河原町' => {
       'area_code' => '858',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '鳥取市用瀬町' => {
       'area_code' => '858',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     }
   },
   '鹿児島県' => {
     'いちき串木野市' => {
       'area_code' => '996',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '伊佐市' => {
       'area_code' => '995',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '出水市' => {
       'area_code' => '996',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '出水郡' => {
       'area_code' => '996',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南さつま市' => {
       'area_code' => '993',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南九州市' => {
       'area_code' => '993',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '南九州市頴娃町' => {
       'area_code' => '993',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '垂水市' => {
       'area_code' => '994',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大島郡' => {
       'area_code' => '997',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大島郡喜界町' => {
       'area_code' => '997',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大島郡大和村' => {
       'area_code' => '997',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大島郡宇検村' => {
       'area_code' => '997',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大島郡瀬戸内町' => {
       'area_code' => '997',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '大島郡龍郷町' => {
       'area_code' => '997',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '奄美市' => {
       'area_code' => '997',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '姶良市' => {
       'area_code' => '995',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '姶良郡' => {
       'area_code' => '995',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '志布志市' => {
       'area_code' => '99',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '指宿市' => {
       'area_code' => '993',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '日置市' => {
       'area_code' => '99',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '曽於市' => {
       'area_code' => '986',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '曽於市大隅町' => {
       'area_code' => '99',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '曽於郡' => {
       'area_code' => '99',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '枕崎市' => {
       'area_code' => '993',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊毛郡' => {
       'area_code' => '997',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '熊毛郡屋久島町' => {
       'area_code' => '997',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '肝属郡南大隅町' => {
       'area_code' => '994',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '肝属郡東串良町' => {
       'area_code' => '994',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '肝属郡肝付町' => {
       'area_code' => '994',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '肝属郡錦江町' => {
       'area_code' => '994',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '薩摩川内市' => {
       'area_code' => '996',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '薩摩川内市上甑町' => {
       'area_code' => '9969',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '薩摩川内市下甑町' => {
       'area_code' => '9969',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '薩摩川内市里町' => {
       'area_code' => '9969',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '薩摩川内市鹿島町' => {
       'area_code' => '9969',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '薩摩郡' => {
       'area_code' => '996',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '西之表市' => {
       'area_code' => '997',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '阿久根市' => {
       'area_code' => '996',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '霧島市' => {
       'area_code' => '995',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '鹿児島市' => {
       'area_code' => '99',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     },
     '鹿児島郡三島村' => {
       'area_code' => '9913',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '鹿児島郡十島村' => {
       'area_code' => '9912',
-      'digits_code' => 'E'
+      'local_code_digits' => 'E'
     },
     '鹿屋市' => {
       'area_code' => '994',
-      'digits_code' => 'DE'
+      'local_code_digits' => 'DE'
     },
     '鹿屋市輝北町' => {
       'area_code' => '99',
-      'digits_code' => 'CDE'
+      'local_code_digits' => 'CDE'
     }
   }
 };
