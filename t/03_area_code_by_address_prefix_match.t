@@ -15,5 +15,7 @@ is retrieve_area_code_by_address_prefix_match('大阪府東大阪市岩田町二
 is retrieve_area_code_by_address_prefix_match('大阪府東大阪市岩田町三丁目'), '6';
 is retrieve_area_code_by_address_prefix_match('沖縄県宮古島市平良西里'), '980';
 
+ok !retrieve_area_code_by_address_prefix_match('神奈川県町田市原町田'); # Not exists!!!!
+
 done_testing;
 

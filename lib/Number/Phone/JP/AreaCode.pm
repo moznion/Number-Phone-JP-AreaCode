@@ -42,7 +42,12 @@ sub _search_area_code_by_address_recursive {
     }
 
     $town = _minimum_substitute_by_municipality($town);
-    return if $town =~ /\A(?:京都府|東京都|大阪府|北海道|.+?県)\Z/;
+
+    # One character or less (e.g. "町")
+    if (!$town || length $town <= 1) {
+        return;
+    }
+
     return _search_area_code_by_address_recursive($pref_map, $town);
 }
 
