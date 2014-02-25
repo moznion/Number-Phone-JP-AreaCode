@@ -112,11 +112,94 @@ Number::Phone::JP::AreaCode - Utilities for Japanese area code of phone
 
 =head1 SYNOPSIS
 
-    use Number::Phone::JP::AreaCode;
+    use Number::Phone::JP::AreaCode qw/
+        retrieve_area_code_by_address
+        retrieve_area_code_by_address_prefix_match
+        retrieve_area_code_by_address_fuzzy
+        retrieve_address_by_area_code
+    /;
+
+    retrieve_address_by_area_code(1456); # => { addresses => [ '北海道新冠郡新冠町里平', '北海道沙流郡日高町', ], local_code_digits => 'E' }
+    retrieve_area_code_by_address('大阪府東大阪市岩田町'); # => { area_code => '72', local_code_digits => 'CDE' }
+    retrieve_area_code_by_address_prefix_match('大阪府東大阪市岩田町一丁目'); # => { area_code => '72', local_code_digits => 'CDE' }
+    retrieve_area_code_by_address_fuzzy('大阪府東大阪市岩田'); # => {
+                                                               #        '大阪府東大阪市岩田町' => {
+                                                               #            area_code         => '72',
+                                                               #            local_code_digits => 'CDE',
+                                                               #        },
+                                                               #        '大阪府東大阪市岩田町三丁目' => {
+                                                               #            area_code         => '6',
+                                                               #            local_code_digits => 'BCDE',
+                                                               #        },
+                                                               #        '大阪府大阪市' => {
+                                                               #            area_code         => '6',
+                                                               #            local_code_digits => 'BCDE',
+                                                               #        },
+                                                               #        '大阪府東大阪市' => {
+                                                               #            area_code         => '6',
+                                                               #            local_code_digits => 'BCDE',
+                                                               #        }
+                                                               #    }
 
 =head1 DESCRIPTION
 
-Number::Phone::JP::AreaCode is ...
+Number::Phone::JP::AreaCode provides utilities for Japanese area code of phone.
+You can retrieve area code by address and opposite.
+
+If you want to know about Japanese area code of phone, please refer L<http://www.soumu.go.jp/main_sosiki/joho_tsusin/top/tel_number/shigai_list.html> (Japanese web page).
+
+=head1 FUNCTIONS
+
+=over 4
+
+=item * retrieve_address_by_area_code($area_code)
+
+Retrive addresses list by area code.
+This function returns hash reference like;
+
+    {
+        addresses         => [ '北海道◯◯市××町', '北海道◯◯市△△町' ],
+        local_code_digits => 'CDE'
+    }
+
+C<addresses> is the list of addresses that belong with area code.
+C<local_code_digits> is the number of digits of local code.
+
+=item * retrieve_area_code_by_address($address)
+
+Retrieve area code by address (perfect matching). C<$address> B<MUST> have prefecture name.
+This function returns hash reference like;
+
+    {
+        area_code => '72',
+        local_code_digits => 'CDE'
+    }
+
+C<area_code> is the area code which excepted country code (0).
+C<local_code_digits> is the number of digits of local code.
+
+=item * retrieve_area_code_by_address_prefix_match($address)
+
+Retrieve area code by address (prefix matching and longest matching). C<$address> B<MUST> have prefecture name.
+This function returns hash reference that is the same as C<retrieve_area_code_by_address>
+
+=item * retrieve_area_code_by_address_fuzz($address)
+
+Retrieve area code by address (partial match). C<$address> B<MUST> have prefecture name.
+This function returns hash reference like;
+
+    {
+        '大阪府◯◯市' => {
+            area_code         => '6',
+            local_code_digits => 'BCDE',
+        },
+        '大阪府△△市' => {
+            area_code         => '6',
+            local_code_digits => 'BCDE',
+        }
+    }
+
+=back
 
 =head1 LICENSE
 
