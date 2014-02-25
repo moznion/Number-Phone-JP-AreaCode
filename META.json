@@ -1,5 +1,5 @@
 {
-   "abstract" : "It's new $module",
+   "abstract" : "Utilities for Japanese area code of phone",
    "author" : [
       "moznion <moznion@gmail.com>"
    ],
