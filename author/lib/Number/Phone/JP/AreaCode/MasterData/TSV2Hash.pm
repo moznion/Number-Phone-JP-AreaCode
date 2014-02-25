@@ -54,7 +54,7 @@ sub parse_tsv_file {
                 if (index($town, '（') < 0) {
                     $self->{areas}->{$prefecture}->{$town} = {
                         area_code         => $row[2],
-                        local_code_digits => $row[3],
+                        local_code_digits => length $row[3],
                     }
                 }
                 else { # exist paren
@@ -75,7 +75,7 @@ sub _parse_in_paren {
 
     my $area_code_hash = {
         area_code         => $row->[2],
-        local_code_digits => $row->[3],
+        local_code_digits => length $row->[3],
     };
 
     # End of parse in paren

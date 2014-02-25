@@ -20,7 +20,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道江別市',
       '北海道空知郡南幌町'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '123' => {
     'addresses' => [
@@ -30,13 +30,13 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道夕張郡',
       '北海道恵庭市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '124' => {
     'addresses' => [
       '北海道芦別市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '125' => {
     'addresses' => [
@@ -50,7 +50,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道赤平市',
       '北海道雨竜郡雨竜町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '126' => {
     'addresses' => [
@@ -59,27 +59,27 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道石狩郡新篠津村',
       '北海道美唄市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '1267' => {
     'addresses' => [
       '北海道三笠市',
       '北海道岩見沢市宝水町'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '133' => {
     'addresses' => [
       '北海道石狩市',
       '北海道石狩郡当別町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '134' => {
     'addresses' => [
       '北海道小樽市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '135' => {
     'addresses' => [
@@ -89,7 +89,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道岩内郡',
       '北海道積丹郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '136' => {
     'addresses' => [
@@ -103,7 +103,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道虻田郡留寿都村',
       '北海道虻田郡真狩村'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '137' => {
     'addresses' => [
@@ -111,25 +111,25 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道二海郡八雲町',
       '北海道瀬棚郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '1372' => {
     'addresses' => [
       '北海道茅部郡鹿部町'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '1374' => {
     'addresses' => [
       '北海道茅部郡森町'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '1377' => {
     'addresses' => [
       '北海道山越郡'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '138' => {
     'addresses' => [
@@ -137,7 +137,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道函館市',
       '北海道北斗市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '139' => {
     'addresses' => [
@@ -145,19 +145,19 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道檜山郡',
       '北海道爾志郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '1392' => {
     'addresses' => [
       '北海道上磯郡'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '1397' => {
     'addresses' => [
       '北海道奥尻郡'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '1398' => {
     'addresses' => [
@@ -179,7 +179,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道二海郡八雲町熊石鳴神町',
       '北海道二海郡八雲町熊石黒岩町'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '142' => {
     'addresses' => [
@@ -188,21 +188,21 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道虻田郡洞爺湖町',
       '北海道虻田郡豊浦町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '143' => {
     'addresses' => [
       '北海道室蘭市',
       '北海道登別市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '144' => {
     'addresses' => [
       '北海道白老郡',
       '北海道苫小牧市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '145' => {
     'addresses' => [
@@ -210,14 +210,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道勇払郡厚真町',
       '北海道勇払郡安平町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '1456' => {
     'addresses' => [
       '北海道新冠郡新冠町里平',
       '北海道沙流郡日高町'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '1457' => {
     'addresses' => [
@@ -236,7 +236,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道沙流郡日高町栄町西',
       '北海道沙流郡日高町若葉町'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '146' => {
     'addresses' => [
@@ -245,13 +245,13 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道様似郡',
       '北海道浦河郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '1466' => {
     'addresses' => [
       '北海道幌泉郡'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '15' => {
     'addresses' => [
@@ -260,7 +260,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道十勝郡',
       '北海道川上郡'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '152' => {
     'addresses' => [
@@ -281,7 +281,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道網走郡大空町東藻琴福富',
       '北海道網走郡大空町東藻琴西倉'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '153' => {
     'addresses' => [
@@ -297,7 +297,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道野付郡別海町尾岱沼潮見町',
       '北海道野付郡別海町床丹'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '154' => {
     'addresses' => [
@@ -305,14 +305,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道釧路郡',
       '北海道阿寒郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '1547' => {
     'addresses' => [
       '北海道白糠郡',
       '北海道釧路市音別町'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '155' => {
     'addresses' => [
@@ -321,7 +321,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道河東郡音更町',
       '北海道河西郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '1558' => {
     'addresses' => [
@@ -346,7 +346,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道中川郡幕別町忠類錦町',
       '北海道広尾郡'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '156' => {
     'addresses' => [
@@ -356,14 +356,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道河東郡鹿追町',
       '北海道足寄郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '1564' => {
     'addresses' => [
       '北海道河東郡上士幌町',
       '北海道河東郡士幌町'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '157' => {
     'addresses' => [
@@ -371,7 +371,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道常呂郡置戸町',
       '北海道常呂郡訓子府町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '158' => {
     'addresses' => [
@@ -382,26 +382,26 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道紋別郡遠軽町',
       '北海道紋別郡雄武町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '1586' => {
     'addresses' => [
       '北海道紋別郡湧別町'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '1587' => {
     'addresses' => [
       '北海道常呂郡佐呂間町'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '162' => {
     'addresses' => [
       '北海道天塩郡豊富町',
       '北海道稚内市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '163' => {
     'addresses' => [
@@ -409,7 +409,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道枝幸郡枝幸町',
       '北海道礼文郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '1632' => {
     'addresses' => [
@@ -417,20 +417,20 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道天塩郡幌延町',
       '北海道天塩郡遠別町'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '1634' => {
     'addresses' => [
       '北海道枝幸郡中頓別町',
       '北海道枝幸郡浜頓別町'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '1635' => {
     'addresses' => [
       '北海道宗谷郡'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '164' => {
     'addresses' => [
@@ -446,7 +446,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道雨竜郡沼田町',
       '北海道雨竜郡秩父別町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '1648' => {
     'addresses' => [
@@ -460,7 +460,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道苫前郡羽幌町焼尻緑ヶ丘',
       '北海道苫前郡羽幌町焼尻西浦'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '165' => {
     'addresses' => [
@@ -469,20 +469,20 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道士別市',
       '北海道雨竜郡幌加内町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '1654' => {
     'addresses' => [
       '北海道名寄市'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '1655' => {
     'addresses' => [
       '北海道上川郡下川町',
       '北海道名寄市風連町'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '1656' => {
     'addresses' => [
@@ -490,14 +490,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道中川郡美深町',
       '北海道中川郡音威子府村'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '1658' => {
     'addresses' => [
       '北海道上川郡上川町',
       '北海道上川郡愛別町'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '166' => {
     'addresses' => [
@@ -509,7 +509,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道上川郡鷹栖町',
       '北海道旭川市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '167' => {
     'addresses' => [
@@ -519,14 +519,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '北海道空知郡中富良野町',
       '北海道空知郡南富良野町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '17' => {
     'addresses' => [
       '青森県東津軽郡平内町',
       '青森県青森市'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '172' => {
     'addresses' => [
@@ -538,7 +538,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '青森県青森市浪岡',
       '青森県黒石市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '173' => {
     'addresses' => [
@@ -548,7 +548,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '青森県北津軽郡鶴田町',
       '青森県西津軽郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '174' => {
     'addresses' => [
@@ -556,7 +556,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '青森県東津軽郡外ヶ浜町',
       '青森県東津軽郡蓬田村'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '175' => {
     'addresses' => [
@@ -567,7 +567,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '青森県上北郡野辺地町',
       '青森県下北郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '176' => {
     'addresses' => [
@@ -583,7 +583,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '青森県上北郡東北町旭南',
       '青森県十和田市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '178' => {
     'addresses' => [
@@ -594,7 +594,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '青森県上北郡おいらせ町',
       '青森県八戸市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '179' => {
     'addresses' => [
@@ -607,7 +607,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '青森県三戸郡南部町赤石',
       '青森県三戸郡田子町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '18' => {
     'addresses' => [
@@ -627,7 +627,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '秋田県潟上市',
       '秋田県秋田市'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '182' => {
     'addresses' => [
@@ -636,21 +636,21 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '秋田県横手市',
       '秋田県雄勝郡東成瀬村'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '183' => {
     'addresses' => [
       '秋田県湯沢市',
       '秋田県雄勝郡羽後町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '184' => {
     'addresses' => [
       '秋田県にかほ市',
       '秋田県由利本荘市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '185' => {
     'addresses' => [
@@ -659,7 +659,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '秋田県男鹿市',
       '秋田県能代市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '186' => {
     'addresses' => [
@@ -669,7 +669,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '秋田県鹿角市',
       '秋田県鹿角郡小坂町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '187' => {
     'addresses' => [
@@ -688,7 +688,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '秋田県大仙市長戸呂',
       '秋田県大仙市長野'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '19' => {
     'addresses' => [
@@ -697,14 +697,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '岩手県盛岡市',
       '岩手県紫波郡'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '191' => {
     'addresses' => [
       '岩手県一関市',
       '岩手県西磐井郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '192' => {
     'addresses' => [
@@ -712,7 +712,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '岩手県気仙郡',
       '岩手県陸前高田市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '193' => {
     'addresses' => [
@@ -721,7 +721,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '岩手県宮古市',
       '岩手県釜石市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '194' => {
     'addresses' => [
@@ -730,7 +730,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '岩手県九戸郡洋野町',
       '岩手県九戸郡野田村'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '195' => {
     'addresses' => [
@@ -742,7 +742,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '岩手県岩手郡岩手町',
       '岩手県岩手郡葛巻町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '197' => {
     'addresses' => [
@@ -751,14 +751,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '岩手県奥州市',
       '岩手県胆沢郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '198' => {
     'addresses' => [
       '岩手県花巻市',
       '岩手県遠野市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '22' => {
     'addresses' => [
@@ -769,13 +769,13 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '宮城県宮城郡',
       '宮城県黒川郡'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '220' => {
     'addresses' => [
       '宮城県登米市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '223' => {
     'addresses' => [
@@ -783,7 +783,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '宮城県名取市堀内',
       '宮城県岩沼市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '224' => {
     'addresses' => [
@@ -793,7 +793,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '宮城県白石市',
       '宮城県角田市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '225' => {
     'addresses' => [
@@ -803,21 +803,21 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '宮城県登米市豊里町',
       '宮城県石巻市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '226' => {
     'addresses' => [
       '宮城県本吉郡',
       '宮城県気仙沼市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '228' => {
     'addresses' => [
       '宮城県栗原市',
       '宮城県登米市石越町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '229' => {
     'addresses' => [
@@ -825,7 +825,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '宮城県大崎市',
       '宮城県遠田郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '23' => {
     'addresses' => [
@@ -834,14 +834,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '山形県山形市',
       '山形県東村山郡'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '233' => {
     'addresses' => [
       '山形県新庄市',
       '山形県最上郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '234' => {
     'addresses' => [
@@ -849,14 +849,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '山形県酒田市',
       '山形県飽海郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '235' => {
     'addresses' => [
       '山形県東田川郡三川町',
       '山形県鶴岡市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '237' => {
     'addresses' => [
@@ -867,7 +867,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '山形県東根市',
       '山形県西村山郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '238' => {
     'addresses' => [
@@ -877,7 +877,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '山形県西置賜郡',
       '山形県長井市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '24' => {
     'addresses' => [
@@ -890,13 +890,13 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '福島県福島市',
       '福島県郡山市'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '240' => {
     'addresses' => [
       '福島県双葉郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '241' => {
     'addresses' => [
@@ -933,7 +933,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '福島県耶麻郡北塩原村',
       '福島県耶麻郡西会津町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '242' => {
     'addresses' => [
@@ -943,7 +943,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '福島県耶麻郡猪苗代町',
       '福島県耶麻郡磐梯町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '243' => {
     'addresses' => [
@@ -951,7 +951,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '福島県安達郡',
       '福島県本宮市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '244' => {
     'addresses' => [
@@ -959,13 +959,13 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '福島県相馬市',
       '福島県相馬郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '246' => {
     'addresses' => [
       '福島県いわき市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '247' => {
     'addresses' => [
@@ -974,7 +974,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '福島県田村郡',
       '福島県石川郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '248' => {
     'addresses' => [
@@ -983,7 +983,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '福島県西白河郡',
       '福島県須賀川市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '25' => {
     'addresses' => [
@@ -1099,7 +1099,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '新潟県糸魚川市',
       '新潟県魚沼市'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '250' => {
     'addresses' => [
@@ -1107,7 +1107,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '新潟県新潟市秋葉区',
       '新潟県阿賀野市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '254' => {
     'addresses' => [
@@ -1118,7 +1118,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '新潟県東蒲原郡',
       '新潟県胎内市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '255' => {
     'addresses' => [
@@ -1126,7 +1126,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '新潟県上越市板倉区',
       '新潟県妙高市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '256' => {
     'addresses' => [
@@ -1219,14 +1219,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '新潟県長岡市真野代新田',
       '新潟県長岡市赤沼'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '257' => {
     'addresses' => [
       '新潟県刈羽郡',
       '新潟県柏崎市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '258' => {
     'addresses' => [
@@ -1235,13 +1235,13 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '新潟県見附市',
       '新潟県長岡市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '259' => {
     'addresses' => [
       '新潟県佐渡市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '26' => {
     'addresses' => [
@@ -1251,7 +1251,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '長野県長野市',
       '長野県須坂市'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '260' => {
     'addresses' => [
@@ -1266,14 +1266,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '長野県飯田市南信濃和田',
       '長野県飯田市南信濃木沢'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '261' => {
     'addresses' => [
       '長野県北安曇郡',
       '長野県大町市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '263' => {
     'addresses' => [
@@ -1282,7 +1282,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '長野県東筑摩郡',
       '長野県松本市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '264' => {
     'addresses' => [
@@ -1291,7 +1291,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '長野県塩尻市贄川',
       '長野県木曽郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '265' => {
     'addresses' => [
@@ -1301,7 +1301,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '長野県飯田市',
       '長野県駒ヶ根市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '266' => {
     'addresses' => [
@@ -1311,7 +1311,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '長野県諏訪市',
       '長野県諏訪郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '267' => {
     'addresses' => [
@@ -1321,7 +1321,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '長野県南佐久郡',
       '長野県小諸市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '268' => {
     'addresses' => [
@@ -1330,7 +1330,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '長野県小県郡',
       '長野県東御市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '269' => {
     'addresses' => [
@@ -1341,7 +1341,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '長野県中野市',
       '長野県飯山市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '27' => {
     'addresses' => [
@@ -1349,14 +1349,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '群馬県安中市',
       '群馬県高崎市'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '270' => {
     'addresses' => [
       '群馬県伊勢崎市',
       '群馬県佐波郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '274' => {
     'addresses' => [
@@ -1370,7 +1370,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '群馬県藤岡市',
       '群馬県高崎市新町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '276' => {
     'addresses' => [
@@ -1379,7 +1379,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '群馬県邑楽郡',
       '群馬県館林市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '277' => {
     'addresses' => [
@@ -1392,14 +1392,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '群馬県太田市藪塚町',
       '群馬県桐生市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '278' => {
     'addresses' => [
       '群馬県利根郡',
       '群馬県沼田市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '279' => {
     'addresses' => [
@@ -1416,7 +1416,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '群馬県吾妻郡高山村',
       '群馬県渋川市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '28' => {
     'addresses' => [
@@ -1425,7 +1425,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '栃木県宇都宮市',
       '栃木県芳賀郡芳賀町'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '280' => {
     'addresses' => [
@@ -1450,7 +1450,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '茨城県坂東市逆井',
       '茨城県猿島郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '282' => {
     'addresses' => [
@@ -1459,20 +1459,20 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '栃木県小山市白鳥',
       '栃木県栃木市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '283' => {
     'addresses' => [
       '栃木県佐野市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '284' => {
     'addresses' => [
       '栃木県足利市',
       '群馬県太田市市場町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '285' => {
     'addresses' => [
@@ -1482,7 +1482,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '栃木県真岡市',
       '栃木県芳賀郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '287' => {
     'addresses' => [
@@ -1553,19 +1553,19 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '栃木県那須郡那珂川町',
       '栃木県那須郡那須町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '288' => {
     'addresses' => [
       '栃木県日光市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '289' => {
     'addresses' => [
       '栃木県鹿沼市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '29' => {
     'addresses' => [
@@ -1607,7 +1607,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '茨城県那珂市',
       '茨城県那珂郡'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '291' => {
     'addresses' => [
@@ -1628,28 +1628,28 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '茨城県行方市長野江',
       '茨城県鉾田市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '293' => {
     'addresses' => [
       '茨城県北茨城市',
       '茨城県高萩市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '294' => {
     'addresses' => [
       '茨城県常陸太田市',
       '茨城県日立市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '295' => {
     'addresses' => [
       '茨城県久慈郡',
       '茨城県常陸大宮市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '296' => {
     'addresses' => [
@@ -1682,7 +1682,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '茨城県結城市',
       '茨城県結城郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '297' => {
     'addresses' => [
@@ -1711,7 +1711,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '茨城県稲敷郡河内町',
       '茨城県龍ヶ崎市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '299' => {
     'addresses' => [
@@ -1792,7 +1792,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '茨城県行方市谷島',
       '茨城県鹿嶋市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '3' => {
     'addresses' => [
@@ -1829,7 +1829,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '東京都豊島区',
       '東京都足立区'
     ],
-    'local_code_digits' => 'BCDE'
+    'local_code_digits' => 4
   },
   '4' => {
     'addresses' => [
@@ -1842,7 +1842,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '埼玉県所沢市',
       '埼玉県狭山市'
     ],
-    'local_code_digits' => 'BCDE'
+    'local_code_digits' => 4
   },
   '42' => {
     'addresses' => [
@@ -1916,7 +1916,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '神奈川県相模原市緑区牧野',
       '神奈川県相模原市緑区若柳'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '422' => {
     'addresses' => [
@@ -1932,7 +1932,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '東京都調布市深大寺東町七丁目',
       '東京都調布市野水'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '428' => {
     'addresses' => [
@@ -1940,7 +1940,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '東京都西多摩郡奥多摩町',
       '東京都青梅市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '43' => {
     'addresses' => [
@@ -1950,27 +1950,27 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '千葉県印旛郡酒々井町',
       '千葉県四街道市'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '436' => {
     'addresses' => [
       '千葉県市原市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '438' => {
     'addresses' => [
       '千葉県木更津市',
       '千葉県袖ヶ浦市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '439' => {
     'addresses' => [
       '千葉県君津市',
       '千葉県富津市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '44' => {
     'addresses' => [
@@ -1978,13 +1978,13 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '東京都町田市三輪緑山',
       '神奈川県川崎市'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '45' => {
     'addresses' => [
       '神奈川県横浜市'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '46' => {
     'addresses' => [
@@ -2006,14 +2006,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '神奈川県相模原市南区磯部',
       '神奈川県逗子市'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '460' => {
     'addresses' => [
       '神奈川県足柄下郡箱根町',
       '静岡県裾野市茶畑'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '463' => {
     'addresses' => [
@@ -2022,7 +2022,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '神奈川県平塚市',
       '神奈川県秦野市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '465' => {
     'addresses' => [
@@ -2035,13 +2035,13 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '静岡県熱海市泉元宮下分',
       '静岡県熱海市泉元門川分'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '466' => {
     'addresses' => [
       '神奈川県藤沢市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '467' => {
     'addresses' => [
@@ -2051,7 +2051,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '神奈川県鎌倉市',
       '神奈川県高座郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '47' => {
     'addresses' => [
@@ -2083,7 +2083,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '千葉県鎌ヶ谷市くぬぎ山二丁目',
       '千葉県鎌ヶ谷市くぬぎ山四丁目'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '470' => {
     'addresses' => [
@@ -2094,7 +2094,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '千葉県安房郡',
       '千葉県館山市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '475' => {
     'addresses' => [
@@ -2105,7 +2105,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '千葉県茂原市',
       '千葉県長生郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '476' => {
     'addresses' => [
@@ -2114,7 +2114,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '千葉県富里市',
       '千葉県成田市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '478' => {
     'addresses' => [
@@ -2122,7 +2122,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '千葉県香取郡東庄町',
       '千葉県香取郡神崎町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '479' => {
     'addresses' => [
@@ -2149,7 +2149,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '茨城県神栖市若松中央',
       '茨城県神栖市須田'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '48' => {
     'addresses' => [
@@ -2182,7 +2182,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '埼玉県越谷市',
       '埼玉県鴻巣市'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '480' => {
     'addresses' => [
@@ -2193,7 +2193,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '埼玉県幸手市',
       '埼玉県白岡市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '49' => {
     'addresses' => [
@@ -2206,7 +2206,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '埼玉県比企郡鳩山町',
       '埼玉県鶴ヶ島市'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '493' => {
     'addresses' => [
@@ -2230,14 +2230,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '埼玉県熊谷市高本',
       '埼玉県秩父郡東秩父村'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '494' => {
     'addresses' => [
       '埼玉県秩父市',
       '埼玉県秩父郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '495' => {
     'addresses' => [
@@ -2246,7 +2246,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '埼玉県児玉郡美里町',
       '埼玉県本庄市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '4992' => {
     'addresses' => [
@@ -2255,27 +2255,27 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '東京都新島本村',
       '東京都神津島村'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '4994' => {
     'addresses' => [
       '東京都三宅村',
       '東京都御蔵島村'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '4996' => {
     'addresses' => [
       '東京都八丈町',
       '東京都青ヶ島村'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '4998' => {
     'addresses' => [
       '東京都小笠原村'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '52' => {
     'addresses' => [
@@ -2296,40 +2296,40 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '愛知県海部郡大治町',
       '愛知県清須市'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '53' => {
     'addresses' => [
       '静岡県浜松市',
       '静岡県湖西市'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '531' => {
     'addresses' => [
       '愛知県田原市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '532' => {
     'addresses' => [
       '愛知県豊橋市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '533' => {
     'addresses' => [
       '愛知県蒲郡市',
       '愛知県豊川市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '536' => {
     'addresses' => [
       '愛知県北設楽郡',
       '愛知県新城市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '537' => {
     'addresses' => [
@@ -2337,7 +2337,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '静岡県掛川市',
       '静岡県菊川市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '538' => {
     'addresses' => [
@@ -2345,7 +2345,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '静岡県磐田市',
       '静岡県袋井市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '539' => {
     'addresses' => [
@@ -2371,7 +2371,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '静岡県磐田市神増',
       '静岡県磐田市虫生'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '54' => {
     'addresses' => [
@@ -2379,26 +2379,26 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '静岡県藤枝市',
       '静岡県静岡市'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '544' => {
     'addresses' => [
       '静岡県富士宮市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '545' => {
     'addresses' => [
       '静岡県富士市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '547' => {
     'addresses' => [
       '静岡県島田市',
       '静岡県榛原郡川根本町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '548' => {
     'addresses' => [
@@ -2412,7 +2412,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '静岡県菊川市沢水加',
       '静岡県菊川市牛渕'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '55' => {
     'addresses' => [
@@ -2431,14 +2431,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '静岡県駿東郡清水町',
       '静岡県駿東郡長泉町'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '550' => {
     'addresses' => [
       '静岡県御殿場市',
       '静岡県駿東郡小山町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '551' => {
     'addresses' => [
@@ -2453,7 +2453,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '山梨県甲斐市龍地',
       '山梨県韮崎市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '553' => {
     'addresses' => [
@@ -2462,7 +2462,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '山梨県笛吹市一宮町',
       '山梨県笛吹市春日居町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '554' => {
     'addresses' => [
@@ -2471,7 +2471,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '山梨県大月市',
       '山梨県都留市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '555' => {
     'addresses' => [
@@ -2480,7 +2480,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '山梨県甲府市古関町',
       '山梨県甲府市梯町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '556' => {
     'addresses' => [
@@ -2522,7 +2522,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '山梨県西八代郡市川三郷町葛籠沢',
       '山梨県西八代郡市川三郷町鴨狩津向'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '557' => {
     'addresses' => [
@@ -2531,7 +2531,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '静岡県熱海市',
       '静岡県賀茂郡東伊豆町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '558' => {
     'addresses' => [
@@ -2561,7 +2561,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '静岡県賀茂郡河津町',
       '静岡県賀茂郡西伊豆町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '561' => {
     'addresses' => [
@@ -2572,7 +2572,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '愛知県瀬戸市',
       '愛知県長久手市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '562' => {
     'addresses' => [
@@ -2589,26 +2589,26 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '愛知県知多郡東浦町',
       '愛知県豊明市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '563' => {
     'addresses' => [
       '愛知県西尾市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '564' => {
     'addresses' => [
       '愛知県岡崎市',
       '愛知県額田郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '565' => {
     'addresses' => [
       '愛知県豊田市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '566' => {
     'addresses' => [
@@ -2618,7 +2618,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '愛知県碧南市',
       '愛知県高浜市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '567' => {
     'addresses' => [
@@ -2629,7 +2629,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '愛知県海部郡',
       '愛知県稲沢市平和町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '568' => {
     'addresses' => [
@@ -2639,7 +2639,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '愛知県犬山市',
       '愛知県西春日井郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '569' => {
     'addresses' => [
@@ -2656,7 +2656,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '愛知県知多郡美浜町',
       '愛知県知多郡阿久比町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '572' => {
     'addresses' => [
@@ -2665,7 +2665,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '岐阜県恵那市明智町吉良見',
       '岐阜県瑞浪市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '573' => {
     'addresses' => [
@@ -2674,7 +2674,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '岐阜県恵那市',
       '長野県木曽郡南木曽町田立'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '574' => {
     'addresses' => [
@@ -2689,7 +2689,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '岐阜県可児郡',
       '岐阜県美濃加茂市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '575' => {
     'addresses' => [
@@ -2697,27 +2697,27 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '岐阜県郡上市',
       '岐阜県関市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '576' => {
     'addresses' => [
       '岐阜県下呂市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '5769' => {
     'addresses' => [
       '岐阜県大野郡',
       '岐阜県高山市荘川町'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '577' => {
     'addresses' => [
       '岐阜県飛騨市',
       '岐阜県高山市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '578' => {
     'addresses' => [
@@ -2725,7 +2725,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '岐阜県高山市上宝町',
       '岐阜県高山市奥飛騨温泉郷'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '58' => {
     'addresses' => [
@@ -2736,7 +2736,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '岐阜県羽島市',
       '岐阜県羽島郡'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '581' => {
     'addresses' => [
@@ -2759,7 +2759,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '岐阜県関市洞戸高賀',
       '岐阜県関市洞戸黒谷'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '584' => {
     'addresses' => [
@@ -2771,13 +2771,13 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '岐阜県瑞穂市呂久',
       '岐阜県養老郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '585' => {
     'addresses' => [
       '岐阜県揖斐郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '586' => {
     'addresses' => [
@@ -2800,7 +2800,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '愛知県稲沢市生出郷前町',
       '愛知県稲沢市西島町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '587' => {
     'addresses' => [
@@ -2809,7 +2809,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '愛知県江南市',
       '愛知県稲沢市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '59' => {
     'addresses' => [
@@ -2818,7 +2818,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '三重県津市',
       '三重県鈴鹿市'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '594' => {
     'addresses' => [
@@ -2826,7 +2826,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '三重県員弁郡',
       '三重県桑名市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '595' => {
     'addresses' => [
@@ -2834,7 +2834,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '三重県伊賀市',
       '三重県名張市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '596' => {
     'addresses' => [
@@ -2861,7 +2861,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '三重県度会郡度会町',
       '三重県度会郡玉城町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '597' => {
     'addresses' => [
@@ -2869,13 +2869,13 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '三重県尾鷲市',
       '三重県熊野市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '5979' => {
     'addresses' => [
       '三重県南牟婁郡御浜町'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '598' => {
     'addresses' => [
@@ -2884,7 +2884,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '三重県度会郡大紀町',
       '三重県松阪市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '599' => {
     'addresses' => [
@@ -2892,7 +2892,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '三重県志摩市',
       '三重県鳥羽市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '6' => {
     'addresses' => [
@@ -2955,7 +2955,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '大阪府門真市石原町',
       '大阪府門真市速見町'
     ],
-    'local_code_digits' => 'BCDE'
+    'local_code_digits' => 4
   },
   '72' => {
     'addresses' => [
@@ -3102,7 +3102,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '大阪府高槻市',
       '大阪府高石市'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '721' => {
     'addresses' => [
@@ -3110,7 +3110,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '大阪府富田林市',
       '大阪府河内長野市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '725' => {
     'addresses' => [
@@ -3118,7 +3118,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '大阪府泉北郡',
       '大阪府泉大津市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '73' => {
     'addresses' => [
@@ -3126,7 +3126,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '和歌山県海南市',
       '和歌山県海草郡'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '735' => {
     'addresses' => [
@@ -3139,7 +3139,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '和歌山県東牟婁郡那智勝浦町',
       '和歌山県田辺市本宮町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '736' => {
     'addresses' => [
@@ -3148,7 +3148,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '和歌山県橋本市',
       '和歌山県紀の川市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '737' => {
     'addresses' => [
@@ -3161,7 +3161,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '和歌山県有田市',
       '和歌山県有田郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '738' => {
     'addresses' => [
@@ -3172,7 +3172,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '和歌山県日高郡由良町',
       '和歌山県日高郡美浜町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '739' => {
     'addresses' => [
@@ -3180,19 +3180,19 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '和歌山県田辺市',
       '和歌山県西牟婁郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '740' => {
     'addresses' => [
       '滋賀県高島市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '742' => {
     'addresses' => [
       '奈良県奈良市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '743' => {
     'addresses' => [
@@ -3237,7 +3237,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '奈良県生駒郡安堵町',
       '奈良県磯城郡川西町下永'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '744' => {
     'addresses' => [
@@ -3247,7 +3247,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '奈良県高市郡明日香村',
       '奈良県高市郡高取町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '745' => {
     'addresses' => [
@@ -3271,7 +3271,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '奈良県高市郡高取町越智',
       '奈良県高市郡高取町車木'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '746' => {
     'addresses' => [
@@ -3288,14 +3288,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '奈良県吉野郡川上村',
       '奈良県吉野郡東吉野村'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '7468' => {
     'addresses' => [
       '奈良県吉野郡上北山村',
       '奈良県吉野郡下北山村'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '747' => {
     'addresses' => [
@@ -3306,7 +3306,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '奈良県吉野郡野迫川村',
       '奈良県吉野郡黒滝村'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '748' => {
     'addresses' => [
@@ -3316,7 +3316,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '滋賀県蒲生郡',
       '滋賀県近江八幡市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '749' => {
     'addresses' => [
@@ -3379,7 +3379,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '滋賀県米原市',
       '滋賀県長浜市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '75' => {
     'addresses' => [
@@ -3391,7 +3391,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '京都府長岡京市',
       '大阪府三島郡'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '76' => {
     'addresses' => [
@@ -3405,7 +3405,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '石川県野々市市',
       '石川県金沢市'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '761' => {
     'addresses' => [
@@ -3413,14 +3413,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '石川県小松市',
       '石川県能美市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '763' => {
     'addresses' => [
       '富山県南砺市',
       '富山県砺波市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '765' => {
     'addresses' => [
@@ -3428,7 +3428,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '富山県魚津市',
       '富山県黒部市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '766' => {
     'addresses' => [
@@ -3437,7 +3437,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '富山県氷見市',
       '富山県高岡市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '767' => {
     'addresses' => [
@@ -3446,7 +3446,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '石川県羽咋郡',
       '石川県鹿島郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '768' => {
     'addresses' => [
@@ -3455,7 +3455,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '石川県鳳珠郡穴水町',
       '石川県鳳珠郡能登町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '77' => {
     'addresses' => [
@@ -3468,7 +3468,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '滋賀県草津市',
       '滋賀県野洲市'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '770' => {
     'addresses' => [
@@ -3512,7 +3512,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '福井県小浜市',
       '福井県敦賀市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '771' => {
     'addresses' => [
@@ -3522,7 +3522,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '京都府南丹市八木町',
       '京都府船井郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '772' => {
     'addresses' => [
@@ -3530,7 +3530,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '京都府京丹後市',
       '京都府宮津市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '773' => {
     'addresses' => [
@@ -3538,7 +3538,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '京都府綾部市',
       '京都府舞鶴市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '774' => {
     'addresses' => [
@@ -3557,7 +3557,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '京都府相楽郡精華町',
       '京都府綴喜郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '776' => {
     'addresses' => [
@@ -3566,7 +3566,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '福井県坂井市',
       '福井県福井市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '778' => {
     'addresses' => [
@@ -3576,14 +3576,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '福井県越前市',
       '福井県鯖江市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '779' => {
     'addresses' => [
       '福井県勝山市',
       '福井県大野市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '78' => {
     'addresses' => [
@@ -3603,7 +3603,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '兵庫県西宮市北六甲台',
       '兵庫県西宮市山口町'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '79' => {
     'addresses' => [
@@ -3620,7 +3620,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '兵庫県高砂市北浜町北脇',
       '兵庫県高砂市北浜町西浜'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '790' => {
     'addresses' => [
@@ -3630,7 +3630,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '兵庫県宍粟市',
       '兵庫県神崎郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '791' => {
     'addresses' => [
@@ -3640,14 +3640,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '兵庫県赤穂市',
       '兵庫県赤穂郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '794' => {
     'addresses' => [
       '兵庫県三木市',
       '兵庫県小野市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '795' => {
     'addresses' => [
@@ -3656,7 +3656,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '兵庫県多可郡',
       '兵庫県西脇市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '796' => {
     'addresses' => [
@@ -3664,7 +3664,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '兵庫県美方郡香美町香住区',
       '兵庫県豊岡市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '797' => {
     'addresses' => [
@@ -3686,7 +3686,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '兵庫県西宮市花の峯',
       '兵庫県西宮市青葉台'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '798' => {
     'addresses' => [
@@ -3704,7 +3704,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '兵庫県宝塚市鹿塩',
       '兵庫県西宮市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '799' => {
     'addresses' => [
@@ -3712,7 +3712,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '兵庫県洲本市',
       '兵庫県淡路市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '82' => {
     'addresses' => [
@@ -3720,7 +3720,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '広島県広島市',
       '広島県東広島市'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '820' => {
     'addresses' => [
@@ -3733,7 +3733,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '山口県柳井市',
       '山口県熊毛郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '823' => {
     'addresses' => [
@@ -3746,14 +3746,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '広島県東広島市黒瀬町',
       '広島県江田島市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '824' => {
     'addresses' => [
       '広島県三次市',
       '広島県庄原市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '826' => {
     'addresses' => [
@@ -3786,7 +3786,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '広島県山県郡北広島町高野',
       '広島県山県郡安芸太田町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '827' => {
     'addresses' => [
@@ -3794,7 +3794,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '山口県玖珂郡',
       '広島県大竹市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '829' => {
     'addresses' => [
@@ -3802,27 +3802,27 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '広島県広島市佐伯区湯来町',
       '広島県廿日市市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '83' => {
     'addresses' => [
       '山口県下関市',
       '山口県山口市'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '833' => {
     'addresses' => [
       '山口県下松市',
       '山口県光市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '834' => {
     'addresses' => [
       '山口県周南市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '835' => {
     'addresses' => [
@@ -3845,7 +3845,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '山口県山口市徳地鯖河内',
       '山口県防府市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '836' => {
     'addresses' => [
@@ -3853,20 +3853,20 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '山口県山口市阿知須',
       '山口県山陽小野田市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '837' => {
     'addresses' => [
       '山口県美祢市',
       '山口県長門市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '838' => {
     'addresses' => [
       '山口県萩市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '8387' => {
     'addresses' => [
@@ -3882,7 +3882,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '山口県萩市鈴野川',
       '山口県萩市須佐'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '8388' => {
     'addresses' => [
@@ -3893,13 +3893,13 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '山口県萩市高佐下',
       '山口県阿武郡'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '8396' => {
     'addresses' => [
       '山口県美祢市美東町'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '84' => {
     'addresses' => [
@@ -3919,7 +3919,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '広島県福山市高西町川尻',
       '広島県福山市高西町真田'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '845' => {
     'addresses' => [
@@ -3936,7 +3936,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '広島県尾道市因島鏡浦町',
       '広島県尾道市瀬戸田町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '846' => {
     'addresses' => [
@@ -3944,7 +3944,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '広島県竹原市',
       '広島県豊田郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '847' => {
     'addresses' => [
@@ -3956,44 +3956,44 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '広島県神石郡',
       '広島県福山市新市町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '8477' => {
     'addresses' => [
       '広島県庄原市東城町'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '848' => {
     'addresses' => [
       '広島県三原市',
       '広島県尾道市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '8512' => {
     'addresses' => [
       '島根県隠岐郡隠岐の島町'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '8514' => {
     'addresses' => [
       '島根県隠岐郡'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '852' => {
     'addresses' => [
       '島根県松江市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '853' => {
     'addresses' => [
       '島根県出雲市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '854' => {
     'addresses' => [
@@ -4005,7 +4005,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '島根県雲南市掛合町',
       '島根県飯石郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '855' => {
     'addresses' => [
@@ -4016,21 +4016,21 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '島根県浜田市',
       '島根県邑智郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '856' => {
     'addresses' => [
       '島根県益田市',
       '島根県鹿足郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '857' => {
     'addresses' => [
       '鳥取県岩美郡',
       '鳥取県鳥取市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '858' => {
     'addresses' => [
@@ -4062,7 +4062,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '鳥取県鳥取市河原町',
       '鳥取県鳥取市用瀬町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '859' => {
     'addresses' => [
@@ -4071,7 +4071,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '鳥取県米子市',
       '鳥取県西伯郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '86' => {
     'addresses' => [
@@ -4092,13 +4092,13 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '岡山県赤磐市馬屋',
       '岡山県都窪郡'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '863' => {
     'addresses' => [
       '岡山県玉野市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '865' => {
     'addresses' => [
@@ -4106,7 +4106,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '岡山県浅口郡',
       '岡山県笠岡市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '866' => {
     'addresses' => [
@@ -4137,7 +4137,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '岡山県総社市',
       '岡山県高梁市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '867' => {
     'addresses' => [
@@ -4165,7 +4165,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '岡山県苫田郡鏡野町富西谷',
       '岡山県苫田郡鏡野町楠'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '868' => {
     'addresses' => [
@@ -4176,7 +4176,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '岡山県苫田郡鏡野町',
       '岡山県英田郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '869' => {
     'addresses' => [
@@ -4185,7 +4185,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '岡山県瀬戸内市',
       '岡山県瀬戸内市長船町長船'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '87' => {
     'addresses' => [
@@ -4199,14 +4199,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '香川県香川郡',
       '香川県高松市'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '875' => {
     'addresses' => [
       '香川県三豊市',
       '香川県観音寺市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '877' => {
     'addresses' => [
@@ -4216,7 +4216,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '香川県坂出市',
       '香川県綾歌郡宇多津町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '879' => {
     'addresses' => [
@@ -4224,7 +4224,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '香川県小豆郡',
       '香川県東かがわ市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '88' => {
     'addresses' => [
@@ -4256,7 +4256,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '高知県須崎市浦ノ内福良',
       '高知県高知市'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '880' => {
     'addresses' => [
@@ -4267,7 +4267,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '高知県幡多郡大月町',
       '高知県高岡郡四万十町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '883' => {
     'addresses' => [
@@ -4278,7 +4278,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '徳島県美馬郡',
       '徳島県阿波市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '884' => {
     'addresses' => [
@@ -4286,14 +4286,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '徳島県那賀郡',
       '徳島県阿南市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '885' => {
     'addresses' => [
       '徳島県勝浦郡',
       '徳島県小松島市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '887' => {
     'addresses' => [
@@ -4315,7 +4315,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '高知県香南市',
       '高知県香美市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '889' => {
     'addresses' => [
@@ -4328,7 +4328,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '高知県高岡郡津野町',
       '高知県高岡郡越知町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '89' => {
     'addresses' => [
@@ -4337,7 +4337,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '愛媛県東温市',
       '愛媛県松山市'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '892' => {
     'addresses' => [
@@ -4356,14 +4356,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '愛媛県喜多郡内子町立石',
       '愛媛県喜多郡内子町臼杵'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '893' => {
     'addresses' => [
       '愛媛県喜多郡内子町',
       '愛媛県大洲市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '894' => {
     'addresses' => [
@@ -4372,7 +4372,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '愛媛県西予市三瓶町',
       '愛媛県西宇和郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '895' => {
     'addresses' => [
@@ -4380,14 +4380,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '愛媛県南宇和郡',
       '愛媛県宇和島市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '896' => {
     'addresses' => [
       '愛媛県四国中央市',
       '香川県観音寺市豊浜町箕浦'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '897' => {
     'addresses' => [
@@ -4403,7 +4403,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '愛媛県西条市',
       '愛媛県越智郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '898' => {
     'addresses' => [
@@ -4447,7 +4447,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '愛媛県西条市高田',
       '愛媛県西条市黒谷'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '92' => {
     'addresses' => [
@@ -4461,14 +4461,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '福岡県糟屋郡',
       '福岡県糸島市'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '920' => {
     'addresses' => [
       '長崎県壱岐市',
       '長崎県対馬市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '93' => {
     'addresses' => [
@@ -4477,7 +4477,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '福岡県北九州市',
       '福岡県遠賀郡'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '930' => {
     'addresses' => [
@@ -4499,14 +4499,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '福岡県築上郡築上町',
       '福岡県行橋市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '940' => {
     'addresses' => [
       '福岡県宗像市',
       '福岡県福津市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '942' => {
     'addresses' => [
@@ -4520,7 +4520,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '福岡県小郡市',
       '福岡県筑後市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '943' => {
     'addresses' => [
@@ -4529,7 +4529,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '福岡県八女市',
       '福岡県八女郡広川町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '944' => {
     'addresses' => [
@@ -4544,21 +4544,21 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '福岡県筑後市富安',
       '福岡県筑後市馬間田'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '946' => {
     'addresses' => [
       '福岡県朝倉市',
       '福岡県朝倉郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '947' => {
     'addresses' => [
       '福岡県田川市',
       '福岡県田川郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '948' => {
     'addresses' => [
@@ -4566,7 +4566,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '福岡県嘉麻市',
       '福岡県飯塚市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '949' => {
     'addresses' => [
@@ -4574,7 +4574,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '福岡県直方市',
       '福岡県鞍手郡鞍手町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '9496' => {
     'addresses' => [
@@ -4584,20 +4584,20 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '福岡県飯塚市口原',
       '福岡県飯塚市鹿毛馬'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '95' => {
     'addresses' => [
       '長崎県西彼杵郡',
       '長崎県長崎市'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '950' => {
     'addresses' => [
       '長崎県平戸市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '952' => {
     'addresses' => [
@@ -4611,7 +4611,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '佐賀県神埼市',
       '佐賀県神埼郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '954' => {
     'addresses' => [
@@ -4629,7 +4629,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '佐賀県藤津郡',
       '佐賀県鹿島市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '955' => {
     'addresses' => [
@@ -4640,7 +4640,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '長崎県松浦市福島町',
       '長崎県松浦市鷹島町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '956' => {
     'addresses' => [
@@ -4649,7 +4649,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '長崎県東彼杵郡',
       '長崎県松浦市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '957' => {
     'addresses' => [
@@ -4663,7 +4663,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '長崎県雲仙市吾妻町',
       '長崎県雲仙市愛野町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '959' => {
     'addresses' => [
@@ -4694,7 +4694,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '長崎県長崎市西出津町',
       '長崎県長崎市赤首町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '96' => {
     'addresses' => [
@@ -4704,7 +4704,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '熊本県菊池郡',
       '熊本県阿蘇郡西原村'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '964' => {
     'addresses' => [
@@ -4738,14 +4738,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '熊本県熊本市南区城南町高',
       '熊本県熊本市南区城南町鰐瀬'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '965' => {
     'addresses' => [
       '熊本県八代市',
       '熊本県八代郡氷川町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '966' => {
     'addresses' => [
@@ -4754,7 +4754,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '熊本県球磨郡',
       '熊本県葦北郡 '
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '967' => {
     'addresses' => [
@@ -4766,7 +4766,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '熊本県阿蘇郡産山村',
       '熊本県阿蘇郡高森町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '968' => {
     'addresses' => [
@@ -4792,7 +4792,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '熊本県荒尾市',
       '熊本県菊池市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '969' => {
     'addresses' => [
@@ -4800,7 +4800,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '熊本県天草市',
       '熊本県天草郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '97' => {
     'addresses' => [
@@ -4808,7 +4808,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '大分県由布市',
       '大分県豊後大野市犬飼町'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '972' => {
     'addresses' => [
@@ -4816,14 +4816,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '大分県津久見市',
       '大分県臼杵市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '973' => {
     'addresses' => [
       '大分県日田市',
       '大分県玖珠郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '974' => {
     'addresses' => [
@@ -4832,7 +4832,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '大分県豊後大野市',
       '大分県豊後大野市朝地町'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '977' => {
     'addresses' => [
@@ -4841,7 +4841,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '大分県由布市湯布院町',
       '大分県速見郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '978' => {
     'addresses' => [
@@ -4860,7 +4860,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '大分県杵築市大田石丸',
       '大分県豊後高田市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '979' => {
     'addresses' => [
@@ -4869,7 +4869,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '福岡県築上郡吉富町',
       '福岡県豊前市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '98' => {
     'addresses' => [
@@ -4887,7 +4887,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '沖縄県豊見城市',
       '沖縄県那覇市'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '980' => {
     'addresses' => [
@@ -4905,14 +4905,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '沖縄県島尻郡伊是名村',
       '沖縄県石垣市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '9802' => {
     'addresses' => [
       '沖縄県島尻郡北大東村',
       '沖縄県島尻郡南大東村'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '982' => {
     'addresses' => [
@@ -4922,7 +4922,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '宮崎県東臼杵郡',
       '宮崎県西臼杵郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '983' => {
     'addresses' => [
@@ -4930,7 +4930,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '宮崎県東臼杵郡椎葉村大河内',
       '宮崎県西都市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '984' => {
     'addresses' => [
@@ -4938,7 +4938,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '宮崎県小林市',
       '宮崎県西諸県郡'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '985' => {
     'addresses' => [
@@ -4946,7 +4946,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '宮崎県東諸県郡',
       '宮崎県西都市現王島'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '986' => {
     'addresses' => [
@@ -4954,14 +4954,14 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '宮崎県都城市',
       '鹿児島県曽於市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '987' => {
     'addresses' => [
       '宮崎県串間市',
       '宮崎県日南市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '99' => {
     'addresses' => [
@@ -4972,19 +4972,19 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '鹿児島県鹿児島市',
       '鹿児島県鹿屋市輝北町'
     ],
-    'local_code_digits' => 'CDE'
+    'local_code_digits' => 3
   },
   '9912' => {
     'addresses' => [
       '鹿児島県鹿児島郡十島村'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '9913' => {
     'addresses' => [
       '鹿児島県鹿児島郡三島村'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '993' => {
     'addresses' => [
@@ -4994,7 +4994,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '鹿児島県指宿市',
       '鹿児島県枕崎市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '994' => {
     'addresses' => [
@@ -5005,7 +5005,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '鹿児島県肝属郡錦江町',
       '鹿児島県鹿屋市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '995' => {
     'addresses' => [
@@ -5014,7 +5014,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '鹿児島県姶良郡',
       '鹿児島県霧島市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '996' => {
     'addresses' => [
@@ -5025,7 +5025,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '鹿児島県薩摩郡',
       '鹿児島県阿久根市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   },
   '9969' => {
     'addresses' => [
@@ -5034,7 +5034,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '鹿児島県薩摩川内市里町',
       '鹿児島県薩摩川内市鹿島町'
     ],
-    'local_code_digits' => 'E'
+    'local_code_digits' => 1
   },
   '997' => {
     'addresses' => [
@@ -5049,7 +5049,7 @@ use constant AREACODE_TO_ADDRESS_MAP =>
       '鹿児島県熊毛郡屋久島町',
       '鹿児島県西之表市'
     ],
-    'local_code_digits' => 'DE'
+    'local_code_digits' => 2
   }
 };
 
