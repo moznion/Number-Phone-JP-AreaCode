@@ -213,6 +213,10 @@ Copyright (C) moznion.
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
 
+=head1 CONTRIBUTOR
+
+ytnobody
+
 =head1 AUTHOR
 
 moznion E<lt>moznion@gmail.comE<gt>
