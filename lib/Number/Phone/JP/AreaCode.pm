@@ -75,7 +75,7 @@ sub _separate_address {
     my ($address) = @_;
 
     my ($prefecture, $town) = $address =~ /\A(京都府|東京都|大阪府|北海道|.+?県)(.*)/;
-    $town =~ s/大字//; # XXX ignore "大字"
+    $town =~ s/大字//g; # XXX ignore "大字"
 
     return ($prefecture, $town);
 }
@@ -108,7 +108,7 @@ __END__
 
 =head1 NAME
 
-Number::Phone::JP::AreaCode - It's new $module
+Number::Phone::JP::AreaCode - Utilities for Japanese area code of phone
 
 =head1 SYNOPSIS
 
