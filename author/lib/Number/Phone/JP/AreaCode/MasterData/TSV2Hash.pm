@@ -33,8 +33,7 @@ sub parse_tsv_file {
         my $paren_level = 0;
         for my $area (split /、/, $all_address) {
             for my $p (@{+PREFECTURES}) {
-                $area =~ s/($p)//;
-                if ($1) {
+                if ($area =~ s/($p)//) {
                     $prefecture = $1;
                     last;
                 }
