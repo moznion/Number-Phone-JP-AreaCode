@@ -23,7 +23,8 @@ $Data::Dumper::Sortkeys = sub {
     return [sort keys %$hash];
 };
 
-my $hashref_str = eDumper(Number::Phone::JP::AreaCode::MasterData::TSV2Hash::parse_tsv_file($tsv_file));
+my $tsv2hash = Number::Phone::JP::AreaCode::MasterData::TSV2Hash->new();
+my $hashref_str = eDumper($tsv2hash->parse_tsv_file($tsv_file));
 
 if ($is_generate) {
     chomp $hashref_str;

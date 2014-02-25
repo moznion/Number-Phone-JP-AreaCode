@@ -16,10 +16,16 @@ use constant PREFECTURES => [qw/
     沖縄県
 /];
 
-my $areas;
+sub new {
+    my ($class) = @_;
+
+    bless {
+        areas => {},
+    }, $class;
+}
 
 sub parse_tsv_file {
-    my ($file) = @_;
+    my ($self, $file) = @_;
 
     open my $fh, '<:encoding(utf8)', $file or die $!;
     while (my $line = <$fh>) {
@@ -47,23 +53,23 @@ sub parse_tsv_file {
                 chop $town; # Remove trailing `、`
 
                 if (index($town, '（') < 0) {
-                    $areas->{$prefecture}->{$town} = {
+                    $self->{areas}->{$prefecture}->{$town} = {
                         area_code   => $row[2],
                         digits_code => $row[3],
                     }
                 }
                 else { # exist paren
-                    _parse_in_paren(\@row, $prefecture, $town, '', 1);
+                    $self->_parse_in_paren(\@row, $prefecture, $town, '', 1);
                 }
                 $town = '';
             }
         }
     }
-    return $areas;
+    return $self->{areas};
 }
 
 sub _parse_in_paren {
-    my ($row, $prefecture, $content, $extend, $top_level) = @_;
+    my ($self, $row, $prefecture, $content, $extend, $top_level) = @_;
 
     my ($town, $in_paren) = $content =~ /(.+?)（(.*)）.*\Z/;
     $extend ||= '';
@@ -75,7 +81,7 @@ sub _parse_in_paren {
 
     # End of parse in paren
     if (!$in_paren) {
-        $areas->{$prefecture}->{"$extend$town"} = $area_code_hash;
+        $self->{areas}->{$prefecture}->{"$extend$town"} = $area_code_hash;
         return;
     }
 
@@ -84,7 +90,7 @@ sub _parse_in_paren {
         my ($sub_town, $in_in_paren, $cond) = $in_paren =~ /(.+?)（(.*)）(.*)\Z/;
         if ($cond && $cond =~ /を除く。\Z/) {
             if ($top_level) {
-                $areas->{$prefecture}->{"$extend$town"} = $area_code_hash;
+                $self->{areas}->{$prefecture}->{"$extend$town"} = $area_code_hash;
             }
 
             # Hint:
@@ -92,7 +98,7 @@ sub _parse_in_paren {
             if ($in_in_paren && $in_in_paren =~ s/を除く。//) {
                 $sub_town = (split(/、/, $sub_town))[-1];
                 for my $sub_sub_town (split /、/, $in_in_paren) {
-                    $areas->{$prefecture}->{"$extend$town$sub_town$sub_sub_town"} = $area_code_hash;
+                    $self->{areas}->{$prefecture}->{"$extend$town$sub_town$sub_sub_town"} = $area_code_hash;
                 }
             }
         }
@@ -102,11 +108,11 @@ sub _parse_in_paren {
     if (index($in_paren, '（') < 0) {
         if ($in_paren =~ s/に限る。\Z//) {
             for my $sub_town (split /、/, $in_paren) {
-                $areas->{$prefecture}->{"$extend$town$sub_town"} = $area_code_hash;
+                $self->{areas}->{$prefecture}->{"$extend$town$sub_town"} = $area_code_hash;
             }
         }
         else {
-            $areas->{$prefecture}->{"$extend$town"} = $area_code_hash;
+            $self->{areas}->{$prefecture}->{"$extend$town"} = $area_code_hash;
         }
     }
     # Any parentheses exist in paren
@@ -123,11 +129,11 @@ sub _parse_in_paren {
             if ($paren_level <= 0) {
                 chop $target; # Remove trailing `、`
                 if (index($target, '（') < 0) {
-                    $areas->{$prefecture}->{"$extend$town$target"} = $area_code_hash;
+                    $self->{areas}->{$prefecture}->{"$extend$town$target"} = $area_code_hash;
                 }
                 else {
                     # Parentheses are nested, re-parse!
-                    _parse_in_paren($row, $prefecture, $target, $town, 0);
+                    $self->_parse_in_paren($row, $prefecture, $target, $town, 0);
                 }
                 $target = '';
             }
