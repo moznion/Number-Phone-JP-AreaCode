@@ -11,6 +11,7 @@ our $VERSION   = "0.01";
 our @EXPORT_OK = qw/
     retrieve_area_code_by_address
     retrieve_area_code_by_address_prefix_match
+    retrieve_area_code_by_address_fuzzy
     retrieve_address_by_area_code
 /;
 
@@ -27,6 +28,25 @@ sub retrieve_area_code_by_address_prefix_match {
     my ($prefecture, $town) = _separate_address($address);
     my $pref_map = get_address2areacode_map()->{$prefecture};
     return _search_area_code_by_address_recursive($pref_map, $town);
+}
+
+sub retrieve_area_code_by_address_fuzzy {
+    my ($address) = @_;
+
+    my ($prefecture, $town) = _separate_address($address);
+    my $pref_map = get_address2areacode_map()->{$prefecture};
+
+    if (exists $pref_map->{$town}) {
+        return {"$prefecture$town" => $pref_map->{$town}->{area_code}};
+    }
+
+    my $hits = {};
+    for my $key (keys %$pref_map) {
+        if ($town =~ $key || $key =~ $town) {
+            $hits->{"$prefecture$key"} = $pref_map->{$key}->{area_code};
+        }
+    }
+    return $hits;
 }
 
 sub retrieve_address_by_area_code {
