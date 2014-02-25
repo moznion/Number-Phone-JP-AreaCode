@@ -75,47 +75,47 @@ sub parse_tsv_file {
 sub _parse_in_paren {
     my ($row, $prefecture, $content, $extend, $top_level) = @_;
 
-    unless ($extend) {
-        $extend = '';
-    }
+    my ($town, $in_paren) = $content =~ /(.+?)（(.*)）.*\Z/;
+    $extend ||= '';
 
-    my ($town, $in_paren, $cond) = $content =~ /(.+?)（(.*)）(.+)?\Z/;
-
-    # Parentheses are not nested
+    # End of parse in paren
     if (!$in_paren) {
-        return $areas->{$prefecture}->{"$extend$town"} = {
+        $areas->{$prefecture}->{"$extend$town"} = {
             area_code   => $row->[2],
             digits_code => $row->[3],
-        }
+        };
+        return;
     }
 
-    if ($in_paren =~ s/を除く。\Z//) {
-        if ($top_level) {
-            $areas->{$prefecture}->{"$extend$town"} = {
-                area_code   => $row->[2],
-                digits_code => $row->[3],
-            };
-        }
-
-        my $paren_level = 0;
-        my ($sub_town, $in_in_paren);
-        ($sub_town, $in_in_paren, $cond) = $in_paren =~ /(.+?)（(.*)）(.+)?\Z/;
-        if ($in_in_paren && $in_in_paren =~ s/を除く。//) {
-            my @sub_towns = split(/、/, $sub_town);
-            $sub_town = $sub_towns[-1];
-            for my $sub_sub_town (split /、/, $in_in_paren) {
-                $areas->{$prefecture}->{"$extend$town$sub_town$sub_sub_town"} = {
+    # Exclude
+    {
+        my ($sub_town, $in_in_paren, $cond) = $in_paren =~ /(.+?)（(.*)）(.*)\Z/;
+        if ($cond && $cond =~ /を除く。\Z/) {
+            if ($top_level) {
+                $areas->{$prefecture}->{"$extend$town"} = {
                     area_code   => $row->[2],
                     digits_code => $row->[3],
                 };
             }
+
+            # Hint:
+            #   Exclude(Exclude ()) == Include()
+            if ($in_in_paren && $in_in_paren =~ s/を除く。//) {
+                my @sub_towns = split(/、/, $sub_town);
+                $sub_town = $sub_towns[-1];
+                for my $sub_sub_town (split /、/, $in_in_paren) {
+                    $areas->{$prefecture}->{"$extend$town$sub_town$sub_sub_town"} = {
+                        area_code   => $row->[2],
+                        digits_code => $row->[3],
+                    };
+                }
+            }
         }
     }
 
+    # Parentheses are not nested
     if (index($in_paren, '（') < 0) {
-        my $is_only = $in_paren =~ s/に限る。\Z//;
-        if ($is_only) {
-            my @sub_town;
+        if ($in_paren =~ s/に限る。\Z//) {
             for my $sub_town (split /、/, $in_paren) {
                 $areas->{$prefecture}->{"$extend$town$sub_town"} = {
                     area_code   => $row->[2],
@@ -130,6 +130,7 @@ sub _parse_in_paren {
             };
         }
     }
+    # Parentheses are nested
     else {
         my $is_only = $in_paren =~ s/に限る。\Z//;
         return unless $is_only;
