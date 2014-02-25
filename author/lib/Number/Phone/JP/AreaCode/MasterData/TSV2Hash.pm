@@ -43,7 +43,7 @@ sub parse_tsv_file {
             $town .= '、';
 
             $paren_level += scalar(() = $area =~ /（/g) - scalar(() = $area =~ /）/g);
-            if ($paren_level == 0) {
+            if ($paren_level <= 0) {
                 chop $town; # Remove trailing `、`
 
                 if (index($town, '（') < 0) {
@@ -121,7 +121,7 @@ sub _parse_in_paren {
             $target .= '、';
 
             $paren_level += scalar(() = $sub_town =~ /（/g) - scalar(() = $sub_town =~ /）/g);
-            if ($paren_level == 0) {
+            if ($paren_level <= 0) {
                 chop $target; # Remove trailing `、`
                 if (index($target, '（') < 0) {
                     $areas->{$prefecture}->{"$extend$town$target"} = $area_code_hash;
