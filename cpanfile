@@ -8,7 +8,8 @@ on configure => sub {
 };
 
 on test => sub {
-    requires 'Test::More';
+    requires 'Test::Deep';
+    requires 'Test::More', '0.98';
 };
 
 on develop => sub {
@@ -18,9 +19,8 @@ on develop => sub {
     requires 'File::Temp';
     requires 'Furl';
     requires 'Guard';
-    requires 'JSON';
     requires 'Lingua::JA::Numbers';
+    requires 'Test::Perl::Critic';
     requires 'Text::Extract::Word';
     requires 'URI';
-    requires 'Test::Perl::Critic';
 };

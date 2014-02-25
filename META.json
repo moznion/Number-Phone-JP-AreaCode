@@ -36,7 +36,6 @@
             "File::Temp" : "0",
             "Furl" : "0",
             "Guard" : "0",
-            "JSON" : "0",
             "Lingua::JA::Numbers" : "0",
             "Test::CPAN::Meta" : "0",
             "Test::MinimumVersion" : "0.10108",
@@ -55,7 +54,8 @@
       },
       "test" : {
          "requires" : {
-            "Test::More" : "0"
+            "Test::Deep" : "0",
+            "Test::More" : "0.98"
          }
       }
    },
