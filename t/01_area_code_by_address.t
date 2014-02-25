@@ -14,5 +14,7 @@ is retrieve_area_code_by_address('大阪府東大阪市岩田町'), '72';
 is retrieve_area_code_by_address('大阪府東大阪市岩田町三丁目'), '6';
 is retrieve_area_code_by_address('沖縄県宮古島市'), '980';
 
+ok !retrieve_area_code_by_address('神奈川県町田市'); # Not exists!!!!
+
 done_testing;
 

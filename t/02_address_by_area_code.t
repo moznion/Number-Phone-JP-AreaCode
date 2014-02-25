@@ -75,5 +75,7 @@ is_deeply [@{retrieve_address_by_area_code(6)}], [
     '大阪府門真市速見町'
 ];
 
+# is_deeply [@{retrieve_address_by_area_code(9999)}], [];
+
 done_testing;
 
