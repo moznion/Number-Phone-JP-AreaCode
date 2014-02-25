@@ -153,6 +153,8 @@ If you want to know about Japanese area code of phone, please refer L<http://www
 
 =head1 FUNCTIONS
 
+All of functions return C<undef> if result of retrieving is nothing.
+
 =over 4
 
 =item * address_by_area_code($area_code)
