@@ -132,7 +132,7 @@ sub _parse_in_paren {
                     $areas->{$prefecture}->{"$extend$town$target"} = $area_code_hash;
                 }
                 else {
-                    _parse_in_paren($row, $prefecture, $target, $town);
+                    _parse_in_paren($row, $prefecture, $target, $town, 0);
                 }
                 $target = '';
             }
