@@ -22,9 +22,6 @@ my $areacode_map = {};
 for my $pref (sort keys %$hashref) {
     for my $town (sort keys %{$hashref->{$pref}}) {
         my $area_code = $hashref->{$pref}->{$town}->{area_code};
-        unless (ref $areacode_map->{$area_code}) {
-            $areacode_map->{$area_code} = [];
-        }
         push @{$areacode_map->{$area_code}}, encode_utf8($pref . $town);
     }
 }
