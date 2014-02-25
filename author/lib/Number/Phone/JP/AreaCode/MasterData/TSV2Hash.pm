@@ -21,7 +21,7 @@ my $areas;
 sub parse_tsv_file {
     my ($file) = @_;
 
-    open my $fh, '<:encoding(utf8)', $file;
+    open my $fh, '<:encoding(utf8)', $file or die $!;
     while (my $line = <$fh>) {
         chomp($line);
 
@@ -72,6 +72,7 @@ sub _parse_in_paren {
         area_code   => $row->[2],
         digits_code => $row->[3],
     };
+
     # End of parse in paren
     if (!$in_paren) {
         $areas->{$prefecture}->{"$extend$town"} = $area_code_hash;
@@ -89,8 +90,7 @@ sub _parse_in_paren {
             # Hint:
             #   Exclude(Exclude ()) == Include()
             if ($in_in_paren && $in_in_paren =~ s/を除く。//) {
-                my @sub_towns = split(/、/, $sub_town);
-                $sub_town = $sub_towns[-1];
+                $sub_town = (split(/、/, $sub_town))[-1];
                 for my $sub_sub_town (split /、/, $in_in_paren) {
                     $areas->{$prefecture}->{"$extend$town$sub_town$sub_sub_town"} = $area_code_hash;
                 }
@@ -109,13 +109,12 @@ sub _parse_in_paren {
             $areas->{$prefecture}->{"$extend$town"} = $area_code_hash;
         }
     }
-    # Parentheses are nested
+    # Any parentheses exist in paren
     else {
-        my $is_only = $in_paren =~ s/に限る。\Z//;
-        return unless $is_only;
+        return if $in_paren !~ s/に限る。\Z//;
 
         my $paren_level = 0;
-        my $target = '';
+        my $target      = '';
         for my $sub_town (split /、/, $in_paren) {
             $target .= $sub_town;
             $target .= '、';
@@ -127,6 +126,7 @@ sub _parse_in_paren {
                     $areas->{$prefecture}->{"$extend$town$target"} = $area_code_hash;
                 }
                 else {
+                    # Parentheses are nested, re-parse!
                     _parse_in_paren($row, $prefecture, $target, $town, 0);
                 }
                 $target = '';
