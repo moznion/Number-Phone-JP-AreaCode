@@ -119,25 +119,25 @@ Number::Phone::JP::AreaCode - Utilities for Japanese area code of phone
         address_by_area_code
     /;
 
-    address_by_area_code(1456); # => { addresses => [ '北海道新冠郡新冠町里平', '北海道沙流郡日高町', ], local_code_digits => 'E' }
-    area_code_by_address('大阪府東大阪市岩田町'); # => { area_code => '72', local_code_digits => 'CDE' }
-    area_code_by_address_prefix_match('大阪府東大阪市岩田町一丁目'); # => { area_code => '72', local_code_digits => 'CDE' }
+    address_by_area_code(1456); # => { addresses => [ '北海道新冠郡新冠町里平', '北海道沙流郡日高町', ], local_code_digits => '1' }
+    area_code_by_address('大阪府東大阪市岩田町'); # => { area_code => '72', local_code_digits => '3' }
+    area_code_by_address_prefix_match('大阪府東大阪市岩田町一丁目'); # => { area_code => '72', local_code_digits => '3' }
     area_code_by_address_fuzzy('大阪府東大阪市岩田'); # => {
                                                       #        '大阪府東大阪市岩田町' => {
                                                       #            area_code         => '72',
-                                                      #            local_code_digits => 'CDE',
+                                                      #            local_code_digits => '3',
                                                       #        },
                                                       #        '大阪府東大阪市岩田町三丁目' => {
                                                       #            area_code         => '6',
-                                                      #            local_code_digits => 'BCDE',
+                                                      #            local_code_digits => '4',
                                                       #        },
                                                       #        '大阪府大阪市' => {
                                                       #            area_code         => '6',
-                                                      #            local_code_digits => 'BCDE',
+                                                      #            local_code_digits => '4',
                                                       #        },
                                                       #        '大阪府東大阪市' => {
                                                       #            area_code         => '6',
-                                                      #            local_code_digits => 'BCDE',
+                                                      #            local_code_digits => '4',
                                                       #        }
                                                       #    }
 
@@ -159,7 +159,7 @@ This function returns hash reference like;
 
     {
         addresses         => [ '北海道◯◯市××町', '北海道◯◯市△△町' ],
-        local_code_digits => 'CDE'
+        local_code_digits => '3'
     }
 
 C<addresses> is the list of addresses that belong with area code.
@@ -172,7 +172,7 @@ This function returns hash reference like;
 
     {
         area_code => '72',
-        local_code_digits => 'CDE'
+        local_code_digits => '3'
     }
 
 C<area_code> is the area code which excepted country code (0).
@@ -191,11 +191,11 @@ This function returns hash reference like;
     {
         '大阪府◯◯市' => {
             area_code         => '6',
-            local_code_digits => 'BCDE',
+            local_code_digits => '4',
         },
         '大阪府△△市' => {
-            area_code         => '6',
-            local_code_digits => 'BCDE',
+            area_code         => '72',
+            local_code_digits => '3',
         }
     }
 
