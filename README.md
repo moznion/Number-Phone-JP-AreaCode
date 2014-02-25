@@ -12,7 +12,8 @@ Number::Phone::JP::AreaCode - Utilities for Japanese area code of phone
         address_by_area_code
     /;
 
-    address_by_area_code(1456); # => { addresses => [ '北海道新冠郡新冠町里平', '北海道沙流郡日高町', ], local_code_digits => '1' }
+    address_by_area_code('1456'); # => { addresses => [ '北海道新冠郡新冠町里平', '北海道沙流郡日高町', ], local_code_digits => '1' }
+    address_by_area_code('01456'); # => same as above
     area_code_by_address('大阪府東大阪市岩田町'); # => { area_code => '72', local_code_digits => '3' }
     area_code_by_address_prefix_match('大阪府東大阪市岩田町一丁目'); # => { area_code => '72', local_code_digits => '3' }
     area_code_by_address_fuzzy('大阪府東大阪市岩田'); # => {
@@ -56,6 +57,8 @@ If you want to know about Japanese area code of phone, please refer [http://www.
     `addresses` is the list of addresses that belong with area code.
     `local_code_digits` is the number of digits of local code.
 
+    You can append country code (0) or not. As you like it!
+
 - area\_code\_by\_address($address)
 
     Retrieve area code by address (perfect matching). `$address` __MUST__ have prefecture name.
@@ -72,7 +75,7 @@ If you want to know about Japanese area code of phone, please refer [http://www.
 - area\_code\_by\_address\_prefix\_match($address)
 
     Retrieve area code by address (prefix matching and longest matching). `$address` __MUST__ have prefecture name.
-    This function returns hash reference that is the same as `area_code_by_address`
+    This function returns hash reference that is the same as `area_code_by_address`.
 
 - area\_code\_by\_address\_fuzz($address)
 
