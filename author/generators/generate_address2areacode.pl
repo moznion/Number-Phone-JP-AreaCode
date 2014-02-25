@@ -12,6 +12,7 @@ use Number::Phone::JP::AreaCode::MasterData::TSV2Hash;
 
 $Data::Dumper::Terse  = 1;
 $Data::Dumper::Indent = 1;
+$Data::Dumper::Deepcopy = 1;
 
 my $is_generate = $ARGV[0];
 

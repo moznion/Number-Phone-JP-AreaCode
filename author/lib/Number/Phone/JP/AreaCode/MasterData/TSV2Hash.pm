@@ -78,12 +78,13 @@ sub _parse_in_paren {
     my ($town, $in_paren) = $content =~ /(.+?)（(.*)）.*\Z/;
     $extend ||= '';
 
+    my $area_code_hash = {
+        area_code   => $row->[2],
+        digits_code => $row->[3],
+    };
     # End of parse in paren
     if (!$in_paren) {
-        $areas->{$prefecture}->{"$extend$town"} = {
-            area_code   => $row->[2],
-            digits_code => $row->[3],
-        };
+        $areas->{$prefecture}->{"$extend$town"} = $area_code_hash;
         return;
     }
 
@@ -92,10 +93,7 @@ sub _parse_in_paren {
         my ($sub_town, $in_in_paren, $cond) = $in_paren =~ /(.+?)（(.*)）(.*)\Z/;
         if ($cond && $cond =~ /を除く。\Z/) {
             if ($top_level) {
-                $areas->{$prefecture}->{"$extend$town"} = {
-                    area_code   => $row->[2],
-                    digits_code => $row->[3],
-                };
+                $areas->{$prefecture}->{"$extend$town"} = $area_code_hash;
             }
 
             # Hint:
@@ -104,10 +102,7 @@ sub _parse_in_paren {
                 my @sub_towns = split(/、/, $sub_town);
                 $sub_town = $sub_towns[-1];
                 for my $sub_sub_town (split /、/, $in_in_paren) {
-                    $areas->{$prefecture}->{"$extend$town$sub_town$sub_sub_town"} = {
-                        area_code   => $row->[2],
-                        digits_code => $row->[3],
-                    };
+                    $areas->{$prefecture}->{"$extend$town$sub_town$sub_sub_town"} = $area_code_hash;
                 }
             }
         }
@@ -117,17 +112,11 @@ sub _parse_in_paren {
     if (index($in_paren, '（') < 0) {
         if ($in_paren =~ s/に限る。\Z//) {
             for my $sub_town (split /、/, $in_paren) {
-                $areas->{$prefecture}->{"$extend$town$sub_town"} = {
-                    area_code   => $row->[2],
-                    digits_code => $row->[3],
-                };
+                $areas->{$prefecture}->{"$extend$town$sub_town"} = $area_code_hash;
             }
         }
         else {
-            $areas->{$prefecture}->{"$extend$town"} = {
-                area_code   => $row->[2],
-                digits_code => $row->[3],
-            };
+            $areas->{$prefecture}->{"$extend$town"} = $area_code_hash;
         }
     }
     # Parentheses are nested
@@ -156,10 +145,7 @@ sub _parse_in_paren {
             if ($paren_level == 0) {
                 chop $target; # Remove trailing `、`
                 if (index($target, '（') < 0) {
-                    $areas->{$prefecture}->{"$extend$town$target"} = {
-                        area_code   => $row->[2],
-                        digits_code => $row->[3],
-                    };
+                    $areas->{$prefecture}->{"$extend$town$target"} = $area_code_hash;
                 }
                 else {
                     _parse_in_paren($row, $prefecture, $target, $town);
