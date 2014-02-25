@@ -2,7 +2,6 @@ package Number::Phone::JP::AreaCode::MasterData::TSV2Hash;
 use strict;
 use warnings;
 use utf8;
-use Encode qw/decode_utf8/;
 use JSON qw/encode_json/;
 
 use constant PREFECTURES => [qw/
@@ -22,12 +21,12 @@ my $areas;
 sub parse_tsv_file {
     my ($file) = @_;
 
-    open my $fh, '<', $file;
+    open my $fh, '<:encoding(utf8)', $file;
     while (my $line = <$fh>) {
         chomp($line);
 
         my @row = split /\t/, $line;
-        my $all_address = decode_utf8($row[1]);
+        my $all_address = $row[1];
 
         my $town        = '';
         my $prefecture  = '';
@@ -121,11 +120,10 @@ sub _parse_in_paren {
         my $paren_level = 0;
         my $target = '';
         for my $sub_town (split /、/, $in_paren) {
-            $paren_level += scalar(() = $sub_town =~ /（/g) - scalar(() = $sub_town =~ /）/g);
-
             $target .= $sub_town;
             $target .= '、';
 
+            $paren_level += scalar(() = $sub_town =~ /（/g) - scalar(() = $sub_town =~ /）/g);
             if ($paren_level == 0) {
                 chop $target; # Remove trailing `、`
                 if (index($target, '（') < 0) {
