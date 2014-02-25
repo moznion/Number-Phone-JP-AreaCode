@@ -15,7 +15,7 @@ $Data::Dumper::Indent = 1;
 my $is_generate = $ARGV[0];
 
 my $tsv_file = "$FindBin::Bin/../misc/area-code-jp.tsv";
-my $hashref = Number::Phone::JP::AreaCode::Parser::parse_tsv_file($tsv_file);
+my $hashref = Number::Phone::JP::AreaCode::MasterData::TSV2Hash::parse_tsv_file($tsv_file);
 
 my $areacode_map = {};
 for my $pref (sort keys %$hashref) {

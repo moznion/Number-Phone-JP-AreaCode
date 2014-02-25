@@ -1,4 +1,4 @@
-package Number::Phone::JP::AreaCode::Parser;
+package Number::Phone::JP::AreaCode::MasterData::TSV2Hash;
 use strict;
 use warnings;
 use utf8;
@@ -55,7 +55,6 @@ sub parse_tsv_file {
                 chop $town; # Remove trailing `、`
 
                 if (index($town, '（') < 0) {
-                    my @nodes = ($prefecture);
                     my $town  = $town;
 
                     $areas->{$prefecture}->{$town} = {

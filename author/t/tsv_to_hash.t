@@ -11,7 +11,7 @@ use Number::Phone::JP::AreaCode::MasterData::TSV2Hash;
 use Test::More;
 
 my $tsv_file = catfile($FindBin::Bin, '..', 'misc', 'area-code-jp.tsv');
-my $got = Number::Phone::JP::AreaCode::Parser::parse_tsv_file($tsv_file);
+my $got = Number::Phone::JP::AreaCode::MasterData::TSV2Hash::parse_tsv_file($tsv_file);
 
 is $got->{北海道}->{恵庭市}->{area_code}, 123;
 is $got->{北海道}->{千歳市}->{area_code}, 123;
