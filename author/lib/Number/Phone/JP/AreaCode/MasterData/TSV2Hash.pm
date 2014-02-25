@@ -44,13 +44,7 @@ sub parse_tsv_file {
             $town .= $area;
             $town .= '、';
 
-            if (my @l_paren = $area =~ /（/g) {
-                $paren_level += scalar @l_paren;
-            }
-            if (my @r_paren = $area =~ /）/g) {
-                $paren_level -= scalar @r_paren;
-            }
-
+            $paren_level += scalar(() = $area =~ /（/g) - scalar(() = $area =~ /）/g);
             if ($paren_level == 0) {
                 chop $town; # Remove trailing `、`
 
@@ -127,12 +121,7 @@ sub _parse_in_paren {
         my $paren_level = 0;
         my $target = '';
         for my $sub_town (split /、/, $in_paren) {
-            if (my @l_paren = $sub_town =~ /（/g) {
-                $paren_level += scalar @l_paren;
-            }
-            if (my @r_paren = $sub_town =~ /）/g) {
-                $paren_level -= scalar @r_paren;
-            }
+            $paren_level += scalar(() = $sub_town =~ /（/g) - scalar(() = $sub_town =~ /）/g);
 
             $target .= $sub_town;
             $target .= '、';
