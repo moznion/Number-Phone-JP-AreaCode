@@ -21,6 +21,12 @@ cmp_deeply address_by_area_code(124), {
     ],
     local_code_digits => '2',
 };
+cmp_deeply address_by_area_code('0124'), {
+    addresses => [
+        '北海道芦別市',
+    ],
+    local_code_digits => '2',
+};
 cmp_deeply address_by_area_code(6), {
     addresses => [
         '兵庫県尼崎市',
