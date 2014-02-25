@@ -13,13 +13,13 @@ cmp_deeply address_by_area_code(1456), {
         '北海道新冠郡新冠町里平',
         '北海道沙流郡日高町',
     ],
-    local_code_digits => 'E',
+    local_code_digits => '1',
 };
 cmp_deeply address_by_area_code(124), {
     addresses => [
         '北海道芦別市',
     ],
-    local_code_digits => 'DE',
+    local_code_digits => '2',
 };
 cmp_deeply address_by_area_code(6), {
     addresses => [
@@ -82,7 +82,7 @@ cmp_deeply address_by_area_code(6), {
         '大阪府門真市石原町',
         '大阪府門真市速見町'
     ],
-    local_code_digits => 'BCDE',
+    local_code_digits => '4',
 };
 
 ok !address_by_area_code(9999);
