@@ -17,6 +17,7 @@ sub retrieve_area_code_by_address {
     my ($address) = @_;
 
     my ($prefecture, $town) = $address =~ /\A(京都府|東京都|大阪府|北海道|.+?県)(.*)/;
+    $town =~ s/大字//; # XXX ignore "大字"
     return get_address2areacode_map()->{$prefecture}->{$town}->{area_code};
 }
 
