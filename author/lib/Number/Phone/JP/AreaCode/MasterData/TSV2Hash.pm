@@ -79,8 +79,15 @@ sub _parse_in_paren {
         $extend = '';
     }
 
-    my ($town, $in_paren, $cond);
-    ($town, $in_paren, $cond) = $content =~ /(.+?)（(.*)）(.+)?\Z/;
+    my ($town, $in_paren, $cond) = $content =~ /(.+?)（(.*)）(.+)?\Z/;
+
+    # Parentheses are not nested
+    if (!$in_paren) {
+        return $areas->{$prefecture}->{"$extend$town"} = {
+            area_code   => $row->[2],
+            digits_code => $row->[3],
+        }
+    }
 
     if ($in_paren =~ s/を除く。\Z//) {
         if ($top_level) {
@@ -102,13 +109,6 @@ sub _parse_in_paren {
                     digits_code => $row->[3],
                 };
             }
-        }
-    }
-
-    if (!$in_paren) {
-        $areas->{$prefecture}->{"$extend$town"} = {
-            area_code   => $row->[2],
-            digits_code => $row->[3],
         }
     }
 
