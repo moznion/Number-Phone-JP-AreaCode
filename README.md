@@ -79,7 +79,7 @@ All of functions return `undef` if result of retrieving is nothing.
     Retrieve area code by address (prefix matching and longest matching). `$address` __MUST__ have prefecture name.
     This function returns hash reference that is the same as `area_code_by_address`.
 
-- area\_code\_by\_address\_fuzz($address)
+- area\_code\_by\_address\_fuzzy($address)
 
     Retrieve area code by address (partial match). `$address` __MUST__ have prefecture name.
     This function returns hash reference like;
