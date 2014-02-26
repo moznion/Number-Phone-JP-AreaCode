@@ -18,7 +18,7 @@ use Furl;
 use Text::Extract::Word;
 use URI;
 
-our $VERSION = "0.01";
+our $VERSION = "20131201";
 
 sub new {
     my ($class, %params) = @_;
