@@ -10,7 +10,7 @@ use Number::Phone::JP::AreaCode::MasterData::TSV2Hash;
 
 use Test::More;
 
-my $tsv_file = catfile($FindBin::Bin, '..', 'misc', 'area-code-jp.tsv');
+my $tsv_file = catfile($FindBin::Bin, '..', 'master_data', 'area-code-jp.tsv');
 my $tsv2hash = Number::Phone::JP::AreaCode::MasterData::TSV2Hash->new;
 my $got = $tsv2hash->parse_tsv_file($tsv_file);
 
