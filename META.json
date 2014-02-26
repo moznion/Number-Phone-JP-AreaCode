@@ -47,7 +47,7 @@
       },
       "runtime" : {
          "requires" : {
-            "Encode" : "0",
+            "Encode" : "2.57",
             "Lingua::JA::Numbers" : "0",
             "Lingua::JA::Regular::Unicode" : "0",
             "parent" : "0",

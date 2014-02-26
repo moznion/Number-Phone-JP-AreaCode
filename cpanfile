@@ -1,6 +1,6 @@
 requires 'parent';
 requires 'perl', '5.008005';
-requires 'Encode';
+requires 'Encode', '2.57';
 requires 'Lingua::JA::Numbers';
 requires 'Lingua::JA::Regular::Unicode';
 
