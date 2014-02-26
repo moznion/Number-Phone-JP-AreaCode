@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use utf8;
 use FindBin;
-use lib "$FindBin::Bin/lib";
+use lib "$FindBin::Bin/../lib";
 use Number::Phone::JP::AreaCode::MasterData::Word2TSV;
 
 my $tsvfile = $ARGV[0] or help();
