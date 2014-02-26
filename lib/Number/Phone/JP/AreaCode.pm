@@ -5,6 +5,8 @@ use warnings;
 use utf8;
 use parent qw/Exporter/;
 use Encode;
+use Lingua::JA::Numbers;
+use Lingua::JA::Regular::Unicode qw/alnum_h2z/;
 use Number::Phone::JP::AreaCode::Data::Address2AreaCode;
 use Number::Phone::JP::AreaCode::Data::AreaCode2Address;
 
@@ -81,6 +83,13 @@ sub _separate_address {
 
     my ($prefecture, $town) = $address =~ /\A(京都府|東京都|大阪府|北海道|.+?県)(.*)/;
     $town =~ s/大字//g; # XXX ignore "大字"
+
+    # Support numerical number (hankaku / zenkaku)
+    for my $num (0..9) {
+        my $kanji_num   = num2ja($num);
+        my $zenkaku_num = alnum_h2z($num);
+        $town =~ s/(:?$num|$zenkaku_num)/$kanji_num/g;
+    }
 
     return ($prefecture, $town);
 }

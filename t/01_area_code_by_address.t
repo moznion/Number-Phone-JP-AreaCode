@@ -27,6 +27,14 @@ cmp_deeply area_code_by_address('大阪府東大阪市岩田町三丁目'), {
     area_code         => '6',
     local_code_digits => '4'
 };
+cmp_deeply area_code_by_address('大阪府東大阪市岩田町3丁目'), {
+    area_code         => '6',
+    local_code_digits => '4'
+};
+cmp_deeply area_code_by_address('大阪府東大阪市岩田町３丁目'), {
+    area_code         => '6',
+    local_code_digits => '4'
+};
 cmp_deeply area_code_by_address('沖縄県宮古島市'), {
     area_code         => '980',
     local_code_digits => '2'
