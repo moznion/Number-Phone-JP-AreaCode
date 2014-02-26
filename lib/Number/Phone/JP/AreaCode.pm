@@ -10,7 +10,7 @@ use Lingua::JA::Regular::Unicode qw/alnum_h2z/;
 use Number::Phone::JP::AreaCode::Data::Address2AreaCode;
 use Number::Phone::JP::AreaCode::Data::AreaCode2Address;
 
-our $VERSION   = "20131201.1";
+our $VERSION   = "20131201.2";
 our @EXPORT_OK = qw/
     area_code_by_address
     area_code_by_address_prefix_match
