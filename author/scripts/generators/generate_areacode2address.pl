@@ -61,6 +61,40 @@ sub get_areacode2address_map {
 }
 
 1;
+__END__
+
+=encoding utf-8
+
+=head1 NAME
+
+Number::Phone::JP::AreaCode::Data::AreaCode2Address - Provides Area Code to Address Map of Japanese Area Code of Phone
+
+=head1 SYNOPSIS
+
+    package Number::Phone::JP::AreaCode::Data::AreaCode2Address;
+
+    my \$areacode2address_map = get_areacode2address_map;
+
+=head1 DESCRIPTION
+
+This module provides area code to address map of Japanese area code of phone.
+
+=head1 FUNCTIONS
+
+=over 4
+
+=item * get_areacode2address_map
+
+Returns area code to address map as hash reference.
+
+=back
+
+=head1 LICENSE
+
+Copyright (C) moznion.
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
 
 ...
 }
