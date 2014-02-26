@@ -44,6 +44,8 @@ If you want to know about Japanese area code of phone, please refer [http://www.
 
 # FUNCTIONS
 
+All of functions return `undef` if result of retrieving is nothing.
+
 - address\_by\_area\_code($area\_code)
 
     Retrieve addresses list by area code.
@@ -99,6 +101,10 @@ Copyright (C) moznion.
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
+
+# CONTRIBUTOR
+
+ytnobody
 
 # AUTHOR
 
