@@ -83,7 +83,7 @@ This module provides area code to address map of Japanese area code of phone.
 
 =over 4
 
-=item * get_areacode2address_map
+=item * get_areacode2address_map()
 
 Returns area code to address map as hash reference.
 

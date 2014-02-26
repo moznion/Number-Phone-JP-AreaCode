@@ -71,7 +71,7 @@ This module provides address to area code map of Japanese area code of phone.
 
 =over 4
 
-=item * get_address2areacode_map
+=item * get_address2areacode_map()
 
 Returns address to area code map as hash reference.
 

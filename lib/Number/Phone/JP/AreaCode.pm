@@ -10,7 +10,7 @@ use Lingua::JA::Regular::Unicode qw/alnum_h2z/;
 use Number::Phone::JP::AreaCode::Data::Address2AreaCode;
 use Number::Phone::JP::AreaCode::Data::AreaCode2Address;
 
-our $VERSION   = "20131201";
+our $VERSION   = "20131201.1";
 our @EXPORT_OK = qw/
     area_code_by_address
     area_code_by_address_prefix_match
@@ -202,7 +202,7 @@ C<local_code_digits> is the number of digits of local code.
 Retrieve area code by address (prefix matching and longest matching). C<$address> B<MUST> have prefecture name.
 This function returns hash reference that is the same as C<area_code_by_address>.
 
-=item * area_code_by_address_fuzz($address)
+=item * area_code_by_address_fuzzy($address)
 
 Retrieve area code by address (partial match). C<$address> B<MUST> have prefecture name.
 This function returns hash reference like;
