@@ -33,11 +33,9 @@
          "requires" : {
             "Class::Accessor::Lite" : "0",
             "Data::Dumper::AutoEncode" : "0",
-            "Encode" : "0",
             "File::Temp" : "0",
             "Furl" : "0",
             "Guard" : "0",
-            "Lingua::JA::Numbers" : "0",
             "Test::CPAN::Meta" : "0",
             "Test::MinimumVersion" : "0.10108",
             "Test::Perl::Critic" : "0",
@@ -49,6 +47,9 @@
       },
       "runtime" : {
          "requires" : {
+            "Encode" : "0",
+            "Lingua::JA::Numbers" : "0",
+            "Lingua::JA::Regular::Unicode" : "0",
             "parent" : "0",
             "perl" : "5.008005"
          }

@@ -1,5 +1,8 @@
 requires 'parent';
 requires 'perl', '5.008005';
+requires 'Encode';
+requires 'Lingua::JA::Numbers';
+requires 'Lingua::JA::Regular::Unicode';
 
 on configure => sub {
     requires 'CPAN::Meta';
@@ -15,11 +18,9 @@ on test => sub {
 on develop => sub {
     requires 'Class::Accessor::Lite';
     requires 'Data::Dumper::AutoEncode';
-    requires 'Encode';
     requires 'File::Temp';
     requires 'Furl';
     requires 'Guard';
-    requires 'Lingua::JA::Numbers';
     requires 'Test::Perl::Critic';
     requires 'Text::Extract::Word';
     requires 'URI';
