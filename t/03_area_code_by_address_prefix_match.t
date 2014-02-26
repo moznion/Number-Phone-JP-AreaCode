@@ -2,7 +2,6 @@
 
 use strict;
 use warnings;
-use utf8;
 use Number::Phone::JP::AreaCode qw/area_code_by_address_prefix_match/;
 
 use Test::More;

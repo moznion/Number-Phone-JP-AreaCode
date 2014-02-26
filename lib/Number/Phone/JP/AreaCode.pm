@@ -4,6 +4,7 @@ use strict;
 use warnings;
 use utf8;
 use parent qw/Exporter/;
+use Encode;
 use Number::Phone::JP::AreaCode::Data::Address2AreaCode;
 use Number::Phone::JP::AreaCode::Data::AreaCode2Address;
 
@@ -75,6 +76,8 @@ sub _search_area_code_by_address_recursive {
 
 sub _separate_address {
     my ($address) = @_;
+
+    eval { $address = Encode::decode_utf8($address) }; # decode (but not twice)
 
     my ($prefecture, $town) = $address =~ /\A(京都府|東京都|大阪府|北海道|.+?県)(.*)/;
     $town =~ s/大字//g; # XXX ignore "大字"
